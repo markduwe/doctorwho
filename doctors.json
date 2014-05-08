@@ -192,6 +192,18 @@
 								"enemy": "Daleks"
 							}
 						]
+					},
+					"episodes": {
+						"episode": {
+							"The Dead Planet, original recorded version": "Unaired",
+							"The Dead Planet, remounted version": "21 December 1963",
+							"The Survivors": "28 December 1963",
+							"The Escape": "4 January 1964",
+							"The Ambush": "11 January 1964",
+							"The Expedition": "18 January 1964",
+							"The Ordeal": "25 January 1964",
+							"The Rescue": "1 February 1964"
+						}
 					}
 				}, {
 					"The Edge of Destruction": "8 – 15 February 1964",
