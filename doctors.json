@@ -97,37 +97,99 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": ""
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Original Pilot, version 1": "26 August 1991",
+							"Original Pilot, version 2": "unaired"
+						}
 					}	
 				}, {
 					"An Unearthly Child": "23 November - 14 December 1963",
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
-					}
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Cavemen"
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"An Unearthly Child": "23 November 1963",
+							"The Cave of Skulls": "30 November 1963",
+							"The Forest of Fear": "7 December 1963",
+							"The Firemaker": "14 December 1963"
+						}
+					}	
 				}, {
 					"The Daleks": "21 December 1963 - 1 February 1964",
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Daleks"
 							}
 						]
 					}
@@ -136,11 +198,20 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
@@ -149,11 +220,20 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
@@ -162,11 +242,20 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
@@ -175,11 +264,20 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
@@ -188,11 +286,20 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
@@ -201,11 +308,20 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
@@ -214,11 +330,20 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
@@ -227,11 +352,22 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford"
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill"
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell"
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no",
+								"left": "no",
+								"left_behind": "no"
 							}
 						]
 					}
