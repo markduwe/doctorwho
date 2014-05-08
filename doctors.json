@@ -97,46 +97,144 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford", 
-								"from": "1963",
-								"to": "1964",
-								"first_serial": "An Unearthly Child",
-								"last_serial": "The Five Doctors"
+								"Susan Foreman": "Carole Ann Ford"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill", 
-								"from": "1963",
-								"to": "1965",
-								"first_serial": "An Unearthly Child",
-								"last_serial": "The Chase"
+								"Barbara Wright": "Jacqueline Hill"
 							}, { 
-								"Ian Chesterton": "William Russell", 
-								"from": "1963",
-								"to": "1965",
-								"first_serial": "An Unearthly Child",
-								"last_serial": "The Chase"
+								"Ian Chesterton": "William Russell"
 							}
 						]
 					}	
 				}, {
-					"An Unearthly Child": "23 November - 14 December 1963"
+					"An Unearthly Child": "23 November - 14 December 1963",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"The Daleks": "21 December 1963 - 1 February 1964"
+					"The Daleks": "21 December 1963 - 1 February 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"The Edge of Destruction": "8 – 15 February 1964"
+					"The Edge of Destruction": "8 – 15 February 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"Marco Polo": "22 February - 4 April 1964"
+					"Marco Polo": "22 February - 4 April 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"The Keys of Marinus": "11 April - 16 May 1964"
+					"The Keys of Marinus": "11 April - 16 May 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"The Aztecs": "23 May - 13 June 1964"
+					"The Aztecs": "23 May - 13 June 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"The Sensorites": "20 June – 1 August 1964"
+					"The Sensorites": "20 June – 1 August 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"The Reign of Terror": "8 August – 12 September 1964"
+					"The Reign of Terror": "8 August – 12 September 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"Planet of Giants": "31 October - 14 November 1964"
+					"Planet of Giants": "31 October - 14 November 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
-					"The Dalek Invasion of Earth": "21 November - 26 December 1964"
+					"The Dalek Invasion of Earth": "21 November - 26 December 1964",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill"
+							}, { 
+								"Ian Chesterton": "William Russell"
+							}
+						]
+					}
 				}, {
 					"The Rescue": "2–9 January 1965"
 				}, {
