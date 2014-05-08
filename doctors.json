@@ -93,7 +93,30 @@
 		"serials": {
 			"serial": [
 				{
-					"The Pilot Episode": "26 August 1991"
+					"The Pilot Episode": "26 August 1991",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford", 
+								"from": "1963",
+								"to": "1964",
+								"first_serial": "An Unearthly Child",
+								"last_serial": "The Five Doctors"
+							}, { 
+								"Barbara Wright": "Jacqueline Hill", 
+								"from": "1963",
+								"to": "1965",
+								"first_serial": "An Unearthly Child",
+								"last_serial": "The Chase"
+							}, { 
+								"Ian Chesterton": "William Russell", 
+								"from": "1963",
+								"to": "1965",
+								"first_serial": "An Unearthly Child",
+								"last_serial": "The Chase"
+							}
+						]
+					}	
 				}, {
 					"An Unearthly Child": "23 November - 14 December 1963"
 				}, {
