@@ -226,6 +226,19 @@
 								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": ""
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Edge of Destruction": "8 February 1964",
+							"The Brink of Disaster": "15 February 1964"
+						}
 					}
 				}, {
 					"Marco Polo": "22 February - 4 April 1964",
@@ -248,6 +261,24 @@
 								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Tegana"
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Roof of the World": "22 February 1964",
+							"The Singing Sands": "29 February 1964",
+							"Five Hundred Eyes": "7 March 1964",
+							"The Wall of Lies": "14 March 1964",
+							"Rider From Shang-Tu": "21 March 1964",
+							"Mighty Kublai Khan": "28 March 1964",
+							"Assassin at Peking": "4 April 1964"
+						}
 					}
 				}, {
 					"The Keys of Marinus": "11 April - 16 May 1964",
