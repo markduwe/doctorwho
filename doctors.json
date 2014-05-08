@@ -3,8 +3,8 @@
 		"doctor": "first",
 		"from": "1963",
 		"to": "1966",
-		"first": "An Unearthly Child",
-		"last": "The Three Doctors",
+		"first_serial": "An Unearthly Child",
+		"last_serial": "The Three Doctors",
 		"actor": "William Hartnell",
 		"appearances": "29 stories (134 episodes)",
 		"sonic": "no",
@@ -43,50 +43,50 @@
 					"Susan Foreman": "Carole Ann Ford", 
 					"from": "1963",
 					"to": "1964",
-					"first": "An Unearthly Child",
-					"last": "The Five Doctors"
+					"first_serial": "An Unearthly Child",
+					"last_serial": "The Five Doctors"
 				}, { 
 					"Barbara Wright": "Jacqueline Hill", 
 					"from": "1963",
 					"to": "1965",
-					"first": "An Unearthly Child",
-					"last": "The Chase"
+					"first_serial": "An Unearthly Child",
+					"last_serial": "The Chase"
 				}, { 
 					"Ian Chesterton": "William Russell", 
 					"from": "1963",
 					"to": "1965",
-					"first": "An Unearthly Child",
-					"last": "The Chase"
+					"first_serial": "An Unearthly Child",
+					"last_serial": "The Chase"
 				}, { 
 					"Vicki": "Maureen O'Brien", 
 					"from": "1965",
 					"to": "1965",
-					"first": "The Rescue",
-					"last": "The Myth Makers"
+					"first_serial": "The Rescue",
+					"last_serial": "The Myth Makers"
 				}, { 
 					"Steven Taylor": "Peter Purves", 
 					"from": "1965",
 					"to": "1965",
-					"first": "The Chase",
-					"last": "The Savages"
+					"first_serial": "The Chase",
+					"last_serial": "The Savages"
 				}, { 
 					"Katarina": "Adrienne Hill", 
 					"from": "1965",
 					"to": "1965",
-					"first": "The Daleks' Master Plan",
-					"last": "The Daleks' Master Plan"
+					"first_serial": "The Daleks' Master Plan",
+					"last_serial": "The Daleks' Master Plan"
 				}, { 
 					"Dodo Chaplet": "Jackie Lane", 
 					"from": "1966",
 					"to": "1966",
-					"first": "The Massacre of St Bartholomew's Eve",
-					"last": "The War Machines"
+					"first_serial": "The Massacre of St Bartholomew's Eve",
+					"last_serial": "The War Machines"
 				}, { 
 					"Polly": "Anneke Wills", 
 					"from": "1966",
 					"to": "1966",
-					"first": "The War Machines",
-					"last": "The Tenth Planet"
+					"first_serial": "The War Machines",
+					"last_serial": "The Tenth Planet"
 				}
 			]
 		},
@@ -159,8 +159,8 @@
 		"doctor": "first",
 		"from": "1983",
 		"to": "1983",
-		"first": "The Five Doctors",
-		"last": "The Five Doctors",
+		"first_serial": "The Five Doctors",
+		"last_serial": "The Five Doctors",
 		"actor": "Richard Hurndall",
 		"appearances": "1 stories (1 episode)",
 		"sonic": "no",
@@ -183,8 +183,8 @@
 					"Susan Foreman": "Carole Ann Ford", 
 					"from": "1983",
 					"to": "1983",
-					"first": "The Five Doctors",
-					"last": "The Five Doctors"
+					"first_serial": "The Five Doctors",
+					"last_serial": "The Five Doctors"
 				}
 			]
 		},
