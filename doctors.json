@@ -491,7 +491,35 @@
 		"serials": {
 			"serial": [
 				{
-					"The Five Doctors": "25 November 1983"
+					"The Five Doctors": "25 November 1983",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Daleks",
+								"enemy": "Cybermen",
+								"enemy": "Yeti",
+								"enemy": "The Master",
+								"enemy": "Rassilon",
+								"enemy": "Raston Robot",
+								"enemy": "Lord President Borusa"
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Five Doctors": "25 November 1983"
+						}
+					}	
 				}
 			]
 		}
