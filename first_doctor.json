@@ -1061,7 +1061,43 @@
 						}
 					}
 				}, {
-					"The Ark": "5 – 26 March 1966"
+					"The Ark": "5 – 26 March 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Dodo Chaplet": "Jackie Lane",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "The Monoids",
+								"actor": {
+									"name": "Edmund Coulter",
+									"name": "Frank George",
+									"name": "Ralph Carrigan", 
+									"name": "John Caesar"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Steel Sky": "5 March 1966",
+							"The Plague": "12 March 1966",
+							"The Return": "19 March 1966",
+							"The Bomb": "26 March 1966"
+						}
+					}
 				}, {
 					"The Celestial Toymaker": "2 – 23 April 1966"
 				}, {
