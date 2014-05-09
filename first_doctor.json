@@ -158,7 +158,12 @@
 					"enemies": {
 						"enemy": [
 							{
-								"enemy": ""
+								"enemy": "",
+								"actor": [
+									{
+										"name": ""
+									}
+								]
 							}
 						]
 					},
@@ -200,9 +205,11 @@
 						"enemy": [
 							{
 								"enemy": "Kal",
-								"actor": {
-									"name": "Jeremy Young"
-								}
+								"actor": [
+									{
+										"name": "Jeremy Young"
+									}
+								]
 							}
 						]
 					},
@@ -250,13 +257,19 @@
 						"enemy": [
 							{
 								"enemy": "Daleks",
-								"actor": {
-									"name": "Robert Jewell",
-									"name": "Kevin Manser",
-									"name": "Michael Summerton",
-									"name": "Gerald Taylor",
-									"name": "Peter Murphy"
-								}
+								"actor": [
+									{
+										"name": "Robert Jewell"
+									}, {	
+										"name": "Kevin Manser"
+									}, {	
+										"name": "Michael Summerton"
+									}, {	
+										"name": "Gerald Taylor"
+									}, {	
+										"name": "Peter Murphy"
+									}
+								]
 							}
 						]
 					},
@@ -316,7 +329,11 @@
 						"enemy": [
 							{
 								"enemy": "",
-								"actor": {}
+								"actor": [
+									{
+										"name": ""
+									}
+								]
 							}
 						]
 					},
@@ -358,9 +375,11 @@
 						"enemy": [
 							{
 								"enemy": "Tegana",
-								"actor": {
-									"name": "Derren Nesbitt"
-								}
+								"actor": [
+									{
+										"name": "Derren Nesbitt"
+									}
+								]
 							}
 						]
 					},
@@ -417,15 +436,22 @@
 						"enemy": [
 							{
 								"enemy": "Yartek",
-								"actor": {
-									"name": "Stephen Dartnell"
-								},
+								"actor": [
+									{
+										"name": "Stephen Dartnell"
+									}
+								]
+							}, {
 								"enemy": "The Voords",
-								"actor": {
-									"name": "Martin Cort",
-									"name": "Peter Stenson",
-									"name": "Gordon Wales"
-								}
+								"actor": [
+									{
+										"name": "Martin Cort"
+									}, {
+										"name": "Peter Stenson"
+									}, {
+										"name": "Gordon Wales"
+									}
+								]
 							}
 						]
 					},
@@ -479,9 +505,11 @@
 						"enemy": [
 							{
 								"enemy": "Tlotoxl",
-								"actor": {
-									"name": "John Ringham"
-								}
+								"actor": [
+									{
+										"name": "John Ringham"
+									}
+								]
 							}
 						]
 					},
@@ -529,9 +557,11 @@
 						"enemy": [
 							{
 								"enemy": "Commander",
-								"actor": {
-									"name": "John Bailey"
-								}
+								"actor": [
+									{
+										"name": "John Bailey"
+									}
+								]
 							}
 						]
 					},
@@ -584,7 +614,12 @@
 					"enemies": {
 						"enemy": [
 							{
-								"enemy": "French Revolution"
+								"enemy": "French Revolution",
+								"actor":[
+									{
+										"name": ""
+									}
+								]
 							}
 						]
 					},
@@ -638,9 +673,11 @@
 						"enemy": [
 							{
 								"enemy": "Farrow",
-								"actor": {
-									"name": "Frank Crawshaw"
-								}
+								"actor": [
+									{
+										"name": "Frank Crawshaw"
+									}
+								]
 							}
 						]
 					},
@@ -691,18 +728,28 @@
 						"enemy": [
 							{
 								"enemy": "Daleks",
-								"actor": {
-									"name": "Nick Evans",
-									"name": "Robert Jewell",
-									"name": "Kevin Manser",
-									"name": "Peter Murphy",
-									"name": "Gerald Taylor"
-								}, 
+								"actor": [
+									{
+										"name": "Nick Evans"
+									}, { 
+										"name": "Robert Jewell"
+									}, { 
+										"name": "Kevin Manser"
+									}, { 
+										"name": "Peter Murphy"
+									}, { 
+										"name": "Gerald Taylor"
+									}
+								]
+							}, { 
 								"enemy": "Robomen",
-								"actor": {
-									"name": "Peter Badger",
-									"name": "Martyn Huntley"
-								}
+								"actor": [
+									{
+										"name": "Peter Badger"
+									}, { 
+										"name": "Martyn Huntley"
+									}
+								]
 							}
 						]
 					},
@@ -756,9 +803,11 @@
 						"enemy": [
 							{
 								"enemy": "Koquillion",
-								"actor": {
-									"name": "Ray Barrett"
-								}
+								"actor": [
+									{
+										"name": "Ray Barrett"
+									}
+								]
 							}
 						]
 					},
@@ -800,9 +849,11 @@
 						"enemy": [
 							{
 								"enemy": "Nero",
-								"actor": {
-									"name": "Derek Francis"
-								}
+								"actor": [
+									{
+										"name": "Derek Francis"
+									}
+								]
 							}
 						]
 					},
@@ -850,9 +901,11 @@
 						"enemy": [
 							{
 								"enemy": "Animus",
-								"actor": {
-									"name": "Catherine Fleming"
-								}
+								"actor": [
+									{
+										"name": "Catherine Fleming"
+									}
+								]
 							}
 						]
 					},
@@ -906,9 +959,11 @@
 						"enemy": [
 							{
 								"enemy": "Saladin",
-								"actor": {
-									"name": "Bernard Kay"
-								}
+								"actor": [
+									{
+										"name": "Bernard Kay"
+									}
+								]
 							}
 						]
 					},
@@ -956,20 +1011,32 @@
 						"enemy": [
 							{
 								"enemy": "Lobos",
-								"actor": {
-									"name": "Richard Shaw"
-								},
+								"actor": [
+									{
+										"name": "Richard Shaw"
+									}
+								]
+							}, {
 								"enemy": "Moroks",
-								"actor": {
-									"name": "Ivor Salter",
-									"name": "Salvin Stewart",
-									"name": "Peter Diamond",
-									"name": "Lawrence Dean",
-									"name": "Ken Norris",
-									"name": "Salvin Stewart",
-									"name": "Peter Diamond",
-									"name": "Billy Cornelius"
-								}
+								"actor": [
+									{
+										"name": "Ivor Salter"
+									}, {
+										"name": "Salvin Stewart"
+									}, {
+										"name": "Peter Diamond"
+									}, {
+										"name": "Lawrence Dean"
+									}, {
+										"name": "Ken Norris"
+									}, {
+										"name": "Salvin Stewart"
+									}, {
+										"name": "Peter Diamond"
+									}, {
+										"name": "Billy Cornelius"
+									}
+								]
 							}
 						]
 					},
@@ -1022,12 +1089,17 @@
 						"enemy": [
 							{
 								"enemy": "Daleks",
-								"actor": {
-									"name": "Robert Jewell",
-									"name": "Kevin Manser",
-									"name": "John Scott Martin",
-									"name": "Gerald Taylor"
-								}
+								"actor": [
+									{
+										"name": "Robert Jewell"
+									}, {
+										"name": "Kevin Manser"
+									}, {
+										"name": "John Scott Martin"
+									}, {
+										"name": "Gerald Taylor"
+									}
+								]
 							}
 						]
 					},
@@ -1076,9 +1148,11 @@
 						"enemy": [
 							{
 								"enemy": "The Meddling Monk",
-								"actor": {
-									"name": "Peter Butterworth"
-								}
+								"actor": [
+									{
+										"name": "Peter Butterworth"
+									}
+								]
 							}
 						]
 					},
@@ -1121,15 +1195,22 @@
 						"enemy": [
 							{
 								"enemy": "Maaga",
-								"actor": {
-									"name": "Stephanie Bidmead"
-								},
+								"actor": [
+									{
+										"name": "Stephanie Bidmead"
+									}
+								]
+							}, {
 								"enemy": "Drahvins",
-								"actor": {
-									"name": "Marina Martin",
-									"name": "Susanna Caroll",
-									"name": "Lyn Ashley"
-								}
+								"actor": [
+									{
+										"name": "Marina Martin"
+									}, {
+										"name": "Susanna Caroll"
+									}, {
+										"name": "Lyn Ashley"
+									}
+								]
 							}
 						]
 					},
@@ -1158,12 +1239,17 @@
 						"enemy": [
 							{
 								"enemy": "Daleks",
-								"actor": {
-									"name": "Robert Jewell", 
-									"name": "Kevin Manser", 
-									"name": "John Scott Martin", 
-									"name": "Gerald Taylor"
-								}
+								"actor": [
+									{
+										"name": "Robert Jewell"
+									}, { 
+										"name": "Kevin Manser"
+									}, { 
+										"name": "John Scott Martin"
+									}, { 
+										"name": "Gerald Taylor"
+									}
+								]
 							}
 						]
 					},
@@ -1198,7 +1284,18 @@
 							}
 						]
 					},
-					"enemies": { },
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "",
+								"actor": [
+									{
+										"actor": ""
+									}
+								]
+							}
+						]
+					},
 					"episodes": {
 						"episode": [
 							{
@@ -1243,17 +1340,24 @@
 						"enemy": [
 							{
 								"enemy": "The Meddling Monk",
-								"actor": {
-									"name": "Peter Butterworth"
-								}
+								"actor": [
+									{
+										"name": "Peter Butterworth"
+									}
+								]
 							},{
 								"enemy": "Daleks",
-								"actor": {
-									"name": "Robert Jewell",
-									"name": "Kevin Manser",
-									"name": "John Scott Martin",
-									"name": "Gerald Taylor"
-								}
+								"actor": [
+									{
+										"name": "Robert Jewell"
+									},{
+										"name": "Kevin Manser"
+									},{
+										"name": "John Scott Martin"
+									},{
+										"name": "Gerald Taylor"
+									}
+								]
 							}
 						]
 					},
@@ -1320,13 +1424,18 @@
 						"enemy": [
 							{
 								"enemy": "Catherine de Medici",
-								"actor": {
-									"name": "Joan Young"
-								},
+								"actor": [
+									{
+										"name": "Joan Young"
+									}
+								]
+							}, {
 								"enemy": "Marshal Tavannes",
-								"actor": {
-									"name": "André Morell"
-								}
+								"actor": [
+									{
+										"name": "André Morell"
+									}
+								]
 							}
 						]
 					},
@@ -1369,12 +1478,17 @@
 						"enemy": [
 							{
 								"enemy": "The Monoids",
-								"actor": {
-									"name": "Edmund Coulter",
-									"name": "Frank George",
-									"name": "Ralph Carrigan", 
-									"name": "John Caesar"
-								}
+								"actor": [
+									{
+										"name": "Edmund Coulter"
+									}, {
+										"name": "Frank George"
+									}, {
+										"name": "Ralph Carrigan"
+									}, { 
+										"name": "John Caesar"
+									}
+								]
 							}
 						]
 					},
@@ -1417,9 +1531,11 @@
 						"enemy": [
 							{
 								"enemy": "The Toymaker",
-								"actor": {
-									"name": "Michael Gough"
-								}
+								"actor": [
+									{
+										"name": "Michael Gough"
+									}
+								]
 							}
 						]
 					},
@@ -1462,9 +1578,11 @@
 						"enemy": [
 							{
 								"enemy": "Johnny Ringo",
-								"actor": {
-									"name": "Laurence Payne"
-								}
+								"actor": [
+									{
+										"name": "Laurence Payne"
+									}
+								]
 							}
 						]
 					},
@@ -1507,9 +1625,11 @@
 						"enemy": [
 							{
 								"enemy": "Jano",
-								"actor": {
-									"name": "Frederick Jaeger"
-								}
+								"actor": [
+									{
+										"name": "Frederick Jaeger"
+									}
+								]
 							}
 						]
 					},
@@ -1557,9 +1677,11 @@
 						"enemy": [
 							{
 								"enemy": "WOTAN",
-								"actor": {
+								"actor": [
+								{
 									"name": "Gerald Taylor"
 								}
+								]
 							}
 						]
 					},
@@ -1602,17 +1724,25 @@
 						"enemy": [
 							{
 								"enemy": "Captain Samuel Pike",
-								"actor": {
-									"name": "Michael Godfrey"
-								},
+								"actor": [
+									{
+										"name": "Michael Godfrey"
+									}
+								]
+							}, {
 								"enemy": "Cherub",
-								"actor": {
-									"name": "George A. Cooper"
-								},
+								"actor": [
+									{
+										"name": "George A. Cooper"
+									}
+								]
+							}, {
 								"enemy": "The Squire",
-								"actor": {
-									"name": "Paul Whitsun-Jones"
-								}
+								"actor": [
+									{
+										"name": "Paul Whitsun-Jones"
+									}
+								]
 							}
 						]
 					},
@@ -1655,11 +1785,15 @@
 						"enemy": [
 							{
 								"enemy": "Cybermen",
-								"actor": {
-									"name": "Harry Brooks", 
-									"name": "Reg Whitehead", 
-									"name": "Gregg Palmer"
-								}
+								"actor": [
+									{
+										"name": "Harry Brooks"
+									}, {
+										"name": "Reg Whitehead"
+									}, { 
+										"name": "Gregg Palmer"
+									}
+								]
 							}
 						]
 					},
@@ -1688,9 +1822,11 @@
 						"enemy": [
 							{
 								"enemy": "Omega",
-								"actor": {
-									"name": "Stephen Thorne"
-								}
+								"actor": [
+									{
+										"name": "Stephen Thorne"
+									}
+								]
 							}
 						]
 					},
@@ -1728,9 +1864,11 @@
 						"enemy": [
 							{
 								"enemy": "The Great Intelligence",
-								"actor": {
-									"name": "Richard E. Grant"
-								}
+								"actor": [
+									{
+										"name": "Richard E. Grant"
+									}
+								]
 							}
 						]
 					},
@@ -1750,10 +1888,13 @@
 						"enemy": [
 							{
 								"enemy": "Daleks",
-								"actor": {
-									"name": "Barnaby Edwards",
-									"name": "Nicholas Pegg"
-								}
+								"actor": [
+									{
+										"name": "Barnaby Edwards"
+									}, {
+										"name": "Nicholas Pegg"
+									}
+								]
 							}
 						]
 					},
@@ -1822,35 +1963,57 @@
 						"enemy": [
 							{
 								"enemy": "Daleks",
-								"actor": {
-									"name": "John Scott Martin"
-								},
+								"actor": [
+									{
+										"name": "John Scott Martin"
+									}
+								]
+							}, {
 								"enemy": "Cybermen",
-								"actor": {
-									"name": "David Banks",
-									"name": "Mark Hardy",
-									"name": "William Kenton"
-								},
+								"actor": [
+									{
+										"name": "David Banks"
+									}, {
+										"name": "Mark Hardy"
+									}, {
+										"name": "William Kenton"
+									}
+								]
+							}, {
 								"enemy": "Yeti",
-								"actor": {
-									"name": "Lee Woods"
-								},
+								"actor": [
+									{
+										"name": "Lee Woods"
+									}
+								]
+							}, {
 								"enemy": "The Master",
-								"actor": {
-									"name": "Anthony Ainley"
-								},
+								"actor": [
+									{
+										"name": "Anthony Ainley"
+									}
+								]
+							}, {
 								"enemy": "Rassilon",
-								"actor": {
-									"name": "Richard Mathews"
-								},
+								"actor": [
+									{
+										"name": "Richard Mathews"
+									}
+								]
+							}, {
 								"enemy": "Raston Warrior Robot",
-								"actor": {
-									"name": "Keith Hodiak"
-								},
+								"actor": [
+									{
+										"name": "Keith Hodiak"
+									}
+								]
+							}, {
 								"enemy": "Lord President Borusa",
-								"actor": {
-									"name": "Philip Latham"
-								}
+								"actor": [
+									{
+										"name": "Philip Latham"
+									}
+								]
 							}
 						]
 					},
