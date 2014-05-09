@@ -868,7 +868,46 @@
 						}
 					}
 				}, {
-					"Galaxy 4": "11 September – 2 October 1965"
+					"Galaxy 4": "11 September – 2 October 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Maaga",
+								"actor": {
+									"name": "Stephanie Bidmead"
+								},
+								"enemy": "Drahvins",
+								"actor": {
+									"name": "Marina Martin",
+									"name": "Susanna Caroll",
+									"name": "Lyn Ashley"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Watcher": "3 July 1965",
+							"The Meddling Monk": "10 July 1965",
+							"A Battle of Wits": "17 July 1965",
+							"Checkmate": "24 July 1965"
+						}
+					}
 				}, {
 					"Mission to the Unknown": "9 October 1965"
 				}, {
