@@ -560,7 +560,43 @@
 						}
 					}
 				}, {
-					"The Rescue": "2–9 January 1965"
+					"The Rescue": "2 – 9 January 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Koquillion",
+								"actor": {
+									"name": "Ray Barrett"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Powerful Enemy": "2 January 1965",
+							"Desperate Measures": "9 January 1965"
+						}
+					}
 				}, {
 					"The Romans ": "16 January - 6 February 1965"
 				}, {
