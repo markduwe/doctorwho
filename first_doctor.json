@@ -4,7 +4,7 @@
 		"from": "1963",
 		"to": "1966",
 		"first_serial": "An Unearthly Child",
-		"last_serial": "The Three Doctors",
+		"last_serial": "The Day of The Doctor",
 		"actor": "William Hartnell",
 		"appearances": "29 stories (134 episodes)",
 		"sonic": "no",
@@ -34,6 +34,10 @@
 					"season": "10",
 					"from": "1973",
 					"to": "1973"
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013"
 				}
 			]
 		},
@@ -363,6 +367,24 @@
 								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Tlotoxl",
+								"actor": {
+									"name": "John Ringham"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Temple of Evil": "23 May 1964",
+							"The Warriors of Death": "30 May 1964",
+							"The Bride of Sacrifice": "6 June 1964",
+							"The Day of Darkness": "13 June 1964"
+						}
 					}
 				}, {
 					"The Sensorites": "20 June – 1 August 1964",
@@ -385,6 +407,26 @@
 								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Commander",
+								"actor": {
+									"name": "John Bailey"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Strangers in Space": "20 June 1964",
+							"The Unwilling Warriors": "27 June 1964",
+							"Hidden Danger": "11 July 1964",
+							"A Race Against Death": "18 July 1964",
+							"Kidnap": "25 July 1964",
+							"A Desperate Venture": "1 August 1964"
+						}
 					}
 				}, {
 					"The Reign of Terror": "8 August – 12 September 1964",
@@ -492,6 +534,8 @@
 					"The Smugglers": "10 September – 1 October 1966"
 				}, {
 					"The Tenth Planet": "8 – 29 October 1966"
+				}, {
+					"The Name of the Doctor": "18 May 2013"
 				}, {
 					"The Day of the Doctor": "23 November 2013"
 				}
