@@ -89,6 +89,12 @@
 					"Katarina": "Adrienne Hill", 
 					"from": "1965",
 					"to": "1965",
+					"first_serial": "The Myth mMakers",
+					"last_serial": "The Daleks' Master Plan"
+				}, { 
+					"Sara Kingdom": "Jean Marsh", 
+					"from": "1965",
+					"to": "1965",
 					"first_serial": "The Daleks' Master Plan",
 					"last_serial": "The Daleks' Master Plan"
 				}, { 
@@ -961,7 +967,65 @@
 						}
 					}
 				}, {
-					"The Daleks' Master Plan": "13 November 1965 - 29 January 1966"
+					"The Daleks' Master Plan": "13 November 1965 - 29 January 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "yes",
+								"left_behind": "no"
+							}, { 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Katarina": "Adrienne Hill",
+								"died": "yes",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Sara Kingdom": "Jean Marsh",
+								"died": "yes",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "The Meddling Monk",
+								"actor": {
+									"name": "Peter Butterworth"
+								},
+								"enemy": "Daleks",
+								"actor": {
+									"name": "Robert Jewell",
+									"name": "Kevin Manser",
+									"name": "John Scott Martin",
+									"name": "Gerald Taylor"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Nightmare Begins": "13 November 1965",
+							"Day of Armageddon": "20 November 1965",
+							"Devil's Planet": "27 November 1965",
+							"The Traitors": "4 December 1965",
+							"Counter Plot": "11 December 1965",
+							"Coronas of the Sun": "18 December 1965",
+							"The Feast of Steven": "25 December 1965",
+							"Volcano": "1 January 1966",
+							"Golden Death": "8 January 1966",
+							"Escape Switch": "15 January 1966",
+							"The Abandoned Planet": "22 January 1966",
+							"The Destruction of Time": "29 January 1966"
+						}
+					}
 				}, {
 					"The Massacre of St Bartholomew's Eve": "5 – 26 February 1966"
 				}, {
