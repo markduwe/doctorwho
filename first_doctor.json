@@ -163,10 +163,15 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Original Pilot, version 1": "26 August 1991",
-							"Original Pilot, version 2": "unaired"
-						}
+						"episode": [
+							{
+								"name": "Original Pilot, version 1",
+								"airdate": "26 August 1991"
+							}, {
+								"name": "Original Pilot, version 2",
+								"airdate": "unaired"
+							}
+						]
 					}	
 				}, {
 					"name": "An Unearthly Child",
@@ -202,12 +207,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"An Unearthly Child": "23 November 1963",
-							"The Cave of Skulls": "30 November 1963",
-							"The Forest of Fear": "7 December 1963",
-							"The Firemaker": "14 December 1963"
-						}
+						"episode": [
+							{
+								"name": "An Unearthly Child",
+								"airdate": "23 November 1963"
+							}, {
+								"name": "The Cave of Skulls",
+								"airdate": "30 November 1963"
+							}, {
+								"name": "The Forest of Fear",
+								"airdate": "7 December 1963"
+							}, {
+								"name": "The Firemaker",
+								"airdate": "14 December 1963"
+							}
+						]
 					}	
 				}, {
 					"name": "The Daleks",
@@ -247,16 +261,33 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Dead Planet, original recorded version": "Unaired",
-							"The Dead Planet, remounted version": "21 December 1963",
-							"The Survivors": "28 December 1963",
-							"The Escape": "4 January 1964",
-							"The Ambush": "11 January 1964",
-							"The Expedition": "18 January 1964",
-							"The Ordeal": "25 January 1964",
-							"The Rescue": "1 February 1964"
-						}
+						"episode": [
+							{
+								"name": "The Dead Planet, original recorded version",
+								"airdate": "Unaired"
+							}, {
+								"name": "The Dead Planet, remounted version",
+								"airdate": "21 December 1963"
+							}, {
+								"name": "The Survivors",
+								"airdate": "28 December 1963"
+							}, {
+								"name": "The Escape",
+								"airdate": "4 January 1964"
+							}, {
+								"name": "The Ambush",
+								"airdate": "11 January 1964"
+							}, {
+								"name": "The Expedition",
+								"airdate": "18 January 1964"
+							}, {
+								"name": "The Ordeal",
+								"airdate": "25 January 1964"
+							}, {
+								"name": "The Rescue",
+								"airdate": "1 February 1964"
+							}
+						]
 					}
 				}, {
 					"name": "The Edge of Destruction",
@@ -290,10 +321,15 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Edge of Destruction": "8 February 1964",
-							"The Brink of Disaster": "15 February 1964"
-						}
+						"episode": [
+							{
+								"name": "The Edge of Destruction",
+								"airdate": "8 February 1964"
+							}, {
+								"name": "The Brink of Disaster",
+								"airdate": "15 February 1964"
+							}
+						]
 					}
 				}, {
 					"name": "Marco Polo",
@@ -329,15 +365,30 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Roof of the World": "22 February 1964",
-							"The Singing Sands": "29 February 1964",
-							"Five Hundred Eyes": "7 March 1964",
-							"The Wall of Lies": "14 March 1964",
-							"Rider From Shang-Tu": "21 March 1964",
-							"Mighty Kublai Khan": "28 March 1964",
-							"Assassin at Peking": "4 April 1964"
-						}
+						"episode": [
+							{
+								"name": "The Roof of the World",
+								"airdate": "22 February 1964"
+							},{
+								"name": "The Singing Sands",
+								"airdate": "29 February 1964"
+							},{
+								"name": "Five Hundred Eyes",
+								"airdate": "7 March 1964"
+							},{
+								"name": "The Wall of Lies",
+								"airdate": "14 March 1964"
+							},{
+								"name": "Rider From Shang-Tu",
+								"airdate": "21 March 1964"
+							},{
+								"name": "Mighty Kublai Khan",
+								"airdate": "28 March 1964"
+							},{
+								"name": "Assassin at Peking",
+								"airdate": "4 April 1964"
+							}
+						]
 					}
 				}, {
 					"name": "The Keys of Marinus",
@@ -379,14 +430,27 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Sea of Death": "11 April 1964",
-							"The Velvet Web": "18 April 1964",
-							"The Screaming Jungle": "25 April 1964",
-							"The Snows of Terror": "2 May 1964",
-							"Sentence of Death": "9 May 1964",
-							"The Keys of Marinus": "16 May 1964"
-						}
+						"episode": [
+							{
+								"name": "The Sea of Death",
+								"airdate": "11 April 1964"
+							},{
+								"name": "The Velvet Web",
+								"airdate": "18 April 1964"
+							},{
+								"name": "The Screaming Jungle",
+								"airdate": "25 April 1964"
+							},{
+								"name": "The Snows of Terror",
+								"airdate": "2 May 1964"
+							},{
+								"name": "Sentence of Death",
+								"airdate": "9 May 1964"
+							},{
+								"name": "The Keys of Marinus",
+								"airdate": "16 May 1964"
+							}
+						]
 					}
 				}, {
 					"name": "The Aztecs",
@@ -422,12 +486,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Temple of Evil": "23 May 1964",
-							"The Warriors of Death": "30 May 1964",
-							"The Bride of Sacrifice": "6 June 1964",
-							"The Day of Darkness": "13 June 1964"
-						}
+						"episode": [
+							{
+								"name": "The Temple of Evil",
+								"airdate": "23 May 1964"
+							},{
+								"name": "The Warriors of Death",
+								"airdate": "30 May 1964"
+							},{
+								"name": "The Bride of Sacrifice",
+								"airdate": "6 June 1964"
+							},{
+								"name": "The Day of Darkness",
+								"airdate": "13 June 1964"
+							}
+						]
 					}
 				}, {
 					"name": "The Sensorites",
@@ -463,14 +536,27 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Strangers in Space": "20 June 1964",
-							"The Unwilling Warriors": "27 June 1964",
-							"Hidden Danger": "11 July 1964",
-							"A Race Against Death": "18 July 1964",
-							"Kidnap": "25 July 1964",
-							"A Desperate Venture": "1 August 1964"
-						}
+						"episode": [
+							{
+								"name": "Strangers in Space",
+								"airdate": "20 June 1964"
+							},{
+								"name": "The Unwilling Warriors",
+								"airdate": "27 June 1964"
+							},{
+								"name": "Hidden Danger",
+								"airdate": "11 July 1964"
+							},{
+								"name": "A Race Against Death",
+								"airdate": "18 July 1964"
+							},{
+								"name": "Kidnap",
+								"airdate": "25 July 1964"
+							},{
+								"name": "A Desperate Venture",
+								"airdate": "1 August 1964"
+							}
+						]
 					}
 				}, {
 					"name": "The Reign of Terror",
@@ -503,14 +589,27 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"A Land of Fear": "8 August 1964",
-							"Guests of Madame Guillotine": "15 August 1964",
-							"A Change of Identity": "22 August 1964",
-							"The Tyrant of France": "29 August 1964",
-							"A Bargain of Necessity": "5 September 1964",
-							"Prisoners of Conciergerie": "12 September 1964"
-						}
+						"episode": [
+							{
+								"name": "A Land of Fear",
+								"airdate": "8 August 1964"
+							},{
+								"name": "Guests of Madame Guillotine",
+								"airdate": "15 August 1964"
+							},{
+								"name": "A Change of Identity",
+								"airdate": "22 August 1964"
+							},{
+								"name": "The Tyrant of France",
+								"airdate": "29 August 1964"
+							},{
+								"name": "A Bargain of Necessity",
+								"airdate": "5 September 1964"
+							},{
+								"name": "Prisoners of Conciergerie",
+								"airdate": "12 September 1964"
+							}
+						]
 					}
 				}, {
 					"name": "Planet of Giants",
@@ -546,13 +645,24 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Planet of Giants": "31 October 1964",
-							"Dangerous Journey": "7 November 1964",
-							"Crisis, original recorded version": "Unaired",
-							"Crisis, broadcast version": "14 November 1964",
-							"The Urge to Live, original recorded version": "Unaired"
-						}
+						"episode": [
+							{
+								"name": "Planet of Giants",
+								"airdate": "31 October 1964"
+							},{
+								"name": "Dangerous Journey",
+								"airdate": "7 November 1964"
+							},{
+								"name": "Crisis, original recorded version",
+								"airdate": "Unaired"
+							},{
+								"name": "Crisis, broadcast version",
+								"airdate": "14 November 1964"
+							},{
+								"name": "The Urge to Live, original recorded version",
+								"airdate": "Unaired"
+							}
+						]
 					}
 				}, {
 					"name": "The Dalek Invasion of Earth",
@@ -597,14 +707,27 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"World's End": "21 November 1964",
-							"The Daleks": "28 November 1964",
-							"Day of Reckoning": "5 December 1964",
-							"The End of Tomorrow": "12 December 1964",
-							"The Waking Ally": "19 December 1964",
-							"Flashpoint": "26 December 1964"
-						}
+						"episode": [
+							{
+								"name": "World's End",
+								"airdate": "21 November 1964"
+							},{
+								"name": "The Daleks",
+								"airdate": "28 November 1964"
+							},{
+								"name": "Day of Reckoning",
+								"airdate": "5 December 1964"
+							},{
+								"name": "The End of Tomorrow",
+								"airdate": "12 December 1964"
+							},{
+								"name": "The Waking Ally",
+								"airdate": "19 December 1964"
+							},{
+								"name": "Flashpoint",
+								"airdate": "26 December 1964"
+							}
+						]
 					}
 				}, {
 					"name": "The Rescue",
@@ -640,10 +763,15 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Powerful Enemy": "2 January 1965",
-							"Desperate Measures": "9 January 1965"
-						}
+						"episode": [
+							{
+								"name": "The Powerful Enemy",
+								"airdate": "2 January 1965"
+							},{
+								"name": "Desperate Measures",
+								"airdate": "9 January 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Romans ",
@@ -679,12 +807,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Slave Traders": "16 January 1965",
-							"All Roads Lead to Rome": "23 January 1965",
-							"Conspiracy": "30 January 1965",
-							"Inferno": "6 February 1965"
-						}
+						"episode": [
+							{
+								"name": "The Slave Traders",
+								"airdate": "16 January 1965"
+							},{
+								"name": "All Roads Lead to Rome",
+								"airdate": "23 January 1965"
+							},{
+								"name": "Conspiracy",
+								"airdate": "30 January 1965"
+							},{
+								"name": "Inferno",
+								"airdate": "6 February 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Web Planet",
@@ -720,14 +857,27 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Web Planet": "13 February 1965",
-							"The Zarbi": "20 February 1965",
-							"Escape to Danger": "27 February 1965",
-							"Crater of Needles": "6 March 1965",
-							"Invasion": "13 March 1965",
-							"The Centre": "20 March 1965"
-						}
+						"episode": [
+							{
+								"name": "The Web Planet",
+								"airdate": "13 February 1965"
+							},{
+								"name": "The Zarbi",
+								"airdate": "20 February 1965"
+							},{
+								"name": "Escape to Danger",
+								"airdate": "27 February 1965"
+							},{
+								"name": "Crater of Needles",
+								"airdate": "6 March 1965"
+							},{
+								"name": "Invasion",
+								"airdate": "13 March 1965"
+							},{
+								"name": "The Centre",
+								"airdate": "20 March 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Crusade",
@@ -763,12 +913,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Lion": "27 March 1965",
-							"The Knight of Jaffa": "3 April 1965",
-							"The Wheel of Fortune": "10 April 1965",
-							"The Warlords": "17 April 1965"
-						}
+						"episode": [
+							{
+								"name": "The Lion",
+								"airdate": "27 March 1965"
+							},{
+								"name": "The Knight of Jaffa",
+								"airdate": "3 April 1965"
+							},{
+								"name": "The Wheel of Fortune",
+								"airdate": "10 April 1965"
+							},{
+								"name": "The Warlords",
+								"airdate": "17 April 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Space Museum",
@@ -815,12 +974,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Lion": "27 March 1965",
-							"The Knight of Jaffa": "3 April 1965",
-							"The Wheel of Fortune": "10 April 1965",
-							"The Warlords": "17 April 1965"
-						}
+						"episode": [
+							{
+								"name": "The Lion",
+								"airdate": "27 March 1965"
+							},{
+								"name": "The Knight of Jaffa",
+								"airdate": "3 April 1965"
+							},{
+								"name": "The Wheel of Fortune",
+								"airdate": "10 April 1965"
+							},{
+								"name": "The Warlords",
+								"airdate": "17 April 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Chase",
@@ -864,14 +1032,27 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Executioners": "22 May 1965",
-							"The Death of Time": "29 May 1965",
-							"Flight Through Eternity": "5 June 1965",
-							"Journey into Terror": "12 June 1965",
-							"The Death of Doctor Who": "19 June 1965",
-							"The Planet of Decision": "26 June 1965"
-						}
+						"episode": [
+							{
+								"name": "The Executioners",
+								"airdate": "22 May 1965"
+							},{
+								"name": "The Death of Time",
+								"airdate": "29 May 1965"
+							},{
+								"name": "Flight Through Eternity",
+								"airdate": "5 June 1965"
+							},{
+								"name": "Journey into Terror",
+								"airdate": "12 June 1965"
+							},{
+								"name": "The Death of Doctor Who",
+								"airdate": "19 June 1965"
+							},{
+								"name": "The Planet of Decision",
+								"airdate": "26 June 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Time Meddler",
@@ -902,12 +1083,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Watcher": "3 July 1965",
-							"The Meddling Monk": "10 July 1965",
-							"A Battle of Wits": "17 July 1965",
-							"Checkmate": "24 July 1965"
-						}
+						"episode": [
+							{
+								"name": "The Watcher",
+								"airdate": "3 July 1965"
+							},{
+								"name": "The Meddling Monk",
+								"airdate": "10 July 1965"
+							},{
+								"name": "A Battle of Wits",
+								"airdate": "17 July 1965"
+							},{
+								"name": "Checkmate",
+								"airdate": "24 July 1965"
+							}
+						]
 					}
 				}, {
 					"name": "Galaxy 4",
@@ -944,12 +1134,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Four Hundred Dawns": "11 September 1965",
-							"Trap of Steel": "18 September 1965",
-							"Air Lock": "25 September 1965",
-							"The Exploding Planet": "2 October 1965"
-						}
+						"episode": [
+							{
+								"name": "Four Hundred Dawns",
+								"airdate": "11 September 1965"
+							},{
+								"name": "Trap of Steel",
+								"airdate": "18 September 1965"
+							},{
+								"name": "Air Lock",
+								"airdate": "25 September 1965"
+							},{
+								"name": "The Exploding Planet",
+								"airdate": "2 October 1965"
+							}
+						]
 					}
 				}, {
 					"name": "Mission to the Unknown",
@@ -969,9 +1168,12 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Mission to the Unknown": "9 October 1965"
-						}
+						"episode": [
+							{
+								"name": "Mission to the Unknown",
+								"airdate": "9 October 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Myth Makers",
@@ -998,12 +1200,21 @@
 					},
 					"enemies": { },
 					"episodes": {
-						"episode": {
-							"Temple of Secrets": "16 October 1965",
-							"Small Prophet, Quick Return": "23 October 1965",
-							"Death of a Spy": "30 October 1965",
-							"Horse of Destruction": "6 November 1965"
-						}
+						"episode": [
+							{
+								"name": "Temple of Secrets",
+								"airdate": "16 October 1965"
+							},{
+								"name": "Small Prophet, Quick Return",
+								"airdate": "23 October 1965"
+							},{
+								"name": "Death of a Spy",
+								"airdate": "30 October 1965"
+							},{
+								"name": "Horse of Destruction",
+								"airdate": "6 November 1965"
+							}
+						]
 					}
 				}, {
 					"name": "The Daleks' Master Plan",
@@ -1046,20 +1257,45 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Nightmare Begins": "13 November 1965",
-							"Day of Armageddon": "20 November 1965",
-							"Devil's Planet": "27 November 1965",
-							"The Traitors": "4 December 1965",
-							"Counter Plot": "11 December 1965",
-							"Coronas of the Sun": "18 December 1965",
-							"The Feast of Steven": "25 December 1965",
-							"Volcano": "1 January 1966",
-							"Golden Death": "8 January 1966",
-							"Escape Switch": "15 January 1966",
-							"The Abandoned Planet": "22 January 1966",
-							"The Destruction of Time": "29 January 1966"
-						}
+						"episode": [
+							{
+								"name": "The Nightmare Begins",
+								"airdate": "13 November 1965"
+							},{
+								"name": "Day of Armageddon",
+								"airdate": "20 November 1965"
+							},{
+								"name": "Devil's Planet",
+								"airdate": "27 November 1965"
+							},{
+								"name": "The Traitors",
+								"airdate": "4 December 1965"
+							},{
+								"name": "Counter Plot",
+								"airdate": "11 December 1965"
+							},{
+								"name": "Coronas of the Sun",
+								"airdate": "18 December 1965"
+							},{
+								"name": "The Feast of Steven",
+								"airdate": "25 December 1965"
+							},{
+								"name": "Volcano",
+								"airdate": "1 January 1966"
+							},{
+								"name": "Golden Death",
+								"airdate": "8 January 1966"
+							},{
+								"name": "Escape Switch",
+								"airdate": "15 January 1966"
+							},{
+								"name": "The Abandoned Planet",
+								"airdate": "22 January 1966"
+							},{
+								"name": "The Destruction of Time",
+								"airdate": "29 January 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The Massacre of St Bartholomew's Eve",
@@ -1094,12 +1330,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"War of God": "5 February 1966",
-							"The Sea Beggar": "12 February 1966",
-							"Priest of Death": "19 February 1966",
-							"Bell of Doom": "26 February 1966"
-						}
+						"episode": [
+							{
+								"name": "War of God",
+								"airdate": "5 February 1966"
+							},{
+								"name": "The Sea Beggar",
+								"airdate": "12 February 1966"
+							},{
+								"name": "Priest of Death",
+								"airdate": "19 February 1966"
+							},{
+								"name": "Bell of Doom",
+								"airdate": "26 February 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The Ark",
@@ -1133,12 +1378,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Steel Sky": "5 March 1966",
-							"The Plague": "12 March 1966",
-							"The Return": "19 March 1966",
-							"The Bomb": "26 March 1966"
-						}
+						"episode": [
+							{
+								"name": "The Steel Sky",
+								"airdate": "5 March 1966"
+							},{
+								"name": "The Plague",
+								"airdate": "12 March 1966"
+							},{
+								"name": "The Return",
+								"airdate": "19 March 1966"
+							},{
+								"name": "The Bomb",
+								"airdate": "26 March 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The Celestial Toymaker",
@@ -1169,12 +1423,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Celestial Toyroom": "2 April 1966",
-							"The Hall of Dolls": "9 April 1966",
-							"The Dancing Floor": "16 April 1966",
-							"The Final Test": "23 April 1966"
-						}
+						"episode": [
+							{
+								"name": "The Celestial Toyroom",
+								"airdate": "2 April 1966"
+							},{
+								"name": "The Hall of Dolls",
+								"airdate": "9 April 1966"
+							},{
+								"name": "The Dancing Floor",
+								"airdate": "16 April 1966"
+							},{
+								"name": "The Final Test",
+								"airdate": "23 April 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The Gunfighters",
@@ -1205,12 +1468,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"A Holiday for the Doctor": "30 April 1966",
-							"Don't Shoot the Pianist": "7 May 1966",
-							"Johnny Ringo": "14 May 1966",
-							"The OK Corral": "21 May 1966"
-						}
+						"episode": [
+							{
+								"name": "A Holiday for the Doctor",
+								"airdate": "30 April 1966"
+							},{
+								"name": "Don't Shoot the Pianist",
+								"airdate": "7 May 1966"
+							},{
+								"name": "Johnny Ringo",
+								"airdate": "14 May 1966"
+							},{
+								"name": "The OK Corral",
+								"airdate": "21 May 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The Savages",
@@ -1241,12 +1513,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Episode 1": "28 May 1966",
-							"Episode 2": "4 June 1966",
-							"Episode 3": "11 June 1966",
-							"Episode 4": "18 June 1966"
-						}
+						"episode": [
+							{
+								"name": "Episode 1",
+								"airdate": "28 May 1966"
+							},{
+								"name": "Episode 2",
+								"airdate": "4 June 1966"
+							},{
+								"name": "Episode 3",
+								"airdate": "11 June 1966"
+							},{
+								"name": "Episode 4",
+								"airdate": "18 June 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The War Machines",
@@ -1282,12 +1563,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Episode 1": "25 June 1966",
-							"Episode 2": "2 July 1966",
-							"Episode 3": "9 July 1966",
-							"Episode 4": "16 July 1966"
-						}
+						"episode": [
+							{
+								"name": "Episode 1",
+								"airdate": "25 June 1966"
+							},{
+								"name": "Episode 2",
+								"airdate": "2 July 1966"
+							},{
+								"name": "Episode 3",
+								"airdate": "9 July 1966"
+							},{
+								"name": "Episode 4",
+								"airdate": "16 July 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The Smugglers",
@@ -1326,12 +1616,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Episode 1": "10 September 1966",
-							"Episode 2": "17 September 1966",
-							"Episode 3": "24 September 1966",
-							"Episode 4": "1 October 1966"
-						}
+						"episode": [
+							{
+								"name": "Episode 1",
+								"airdate": "10 September 1966"
+							},{
+								"name": "Episode 2",
+								"airdate": "10 September 1966"
+							},{
+								"name": "Episode 3",
+								"airdate": "24 September 1966"
+							},{
+								"name": "Episode 4",
+								"airdate": "1 October 1966"
+							}
+						]
 					}
 				}, {
 					"name": "The Tenth Planet",
@@ -1364,13 +1663,22 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Episode 1": "8 October 1966",
-							"Episode 2": "15 October 1966",
-							"Episode 3": "22 October 1966",
-							"Episode 4": "29 October 1966"
-						}
-					}
+						"episode": [
+							{
+								"name": "Episode 1",
+								"airdate": "8 October 1966"
+							},{
+								"name": "Episode 2",
+								"airdate": "15 October 1966"
+							},{
+								"name": "Episode 3",
+								"airdate": "22 October 1966"
+							},{
+								"name": "Episode 4",
+								"airdate": "29 October 1966"
+							}
+						]
+					}	
 				}, {
 					"name": "The Three Doctors",
 					"airdate": "30 December 1972 – 20 January 1973",
@@ -1386,12 +1694,21 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"Episode 1": "30 December 1972",
-							"Episode 2": "6 January 1973",
-							"Episode 3": "13 January 1973",
-							"Episode 4": "20 January 1973"
-						}
+						"episode": [
+							{
+								"name": "Episode 1",
+								"airdate": "30 December 1972"
+							},{
+								"name": "Episode 2",
+								"airdate": "6 January 1973"
+							},{
+								"name": "Episode 3",
+								"airdate": "13 January 1973"
+							},{
+								"name": "Episode 4",
+								"airdate": "20 January 1973"
+							}
+						]
 					}
 				}, {
 					"name": "The Name of the Doctor",
@@ -1417,9 +1734,12 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Name of the Doctor": "18 May 2013"
-						}
+						"episode": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013"
+							}
+						]
 					}
 				}, {
 					"name": "The Day of the Doctor",
@@ -1437,9 +1757,12 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Day of the Doctor": "23 November 2013"
-						}
+						"episode": [
+							{
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013"
+							}
+						]
 					}
 				}
 			]
@@ -1531,9 +1854,12 @@
 						]
 					},
 					"episodes": {
-						"episode": {
-							"The Five Doctors": "25 November 1983"
-						}
+						"episode": [
+							{
+								"name": "The Five Doctors",
+								"airdate": "25 November 1983"
+							}
+						]
 					}	
 				}
 			]
