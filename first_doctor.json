@@ -1414,6 +1414,8 @@
 		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1980-tardis/",
 		"costume": "Edwardian grandfather",
 		"description": "Doddering. Hmmn. Hmmn. Hmmn. Yes. Go forward in all your beliefs. Enigmatic alien. Radioactive cinder. Grandfather. Irascible. Chesterton. Lapels. Ormulu clock. Querulous. Fast return switch.",
+		"first_words": "Susan. Surely it's Susan.",
+		"last_words": "Neither our manners. Well, goodbye, my boy. You did quite well, quite well. It's reassuring to know that my future is in safe hands. Come along, Susan.",
 		"seasons": {
 			"season": [
 				{
@@ -1452,12 +1454,35 @@
 						"enemy": [
 							{
 								"enemy": "Daleks",
+								"actor": {
+									"name": "John Scott Martin"
+								},
 								"enemy": "Cybermen",
+								"actor": {
+									"name": "David Banks",
+									"name": "Mark Hardy",
+									"name": "William Kenton"
+								},
 								"enemy": "Yeti",
+								"actor": {
+									"name": "Lee Woods"
+								},
 								"enemy": "The Master",
+								"actor": {
+									"name": "Anthony Ainley"
+								},
 								"enemy": "Rassilon",
-								"enemy": "Raston Robot",
+								"actor": {
+									"name": "Richard Mathews"
+								},
+								"enemy": "Raston Warrior Robot",
+								"actor": {
+									"name": "Keith Hodiak "
+								},
 								"enemy": "Lord President Borusa"
+								"actor": {
+									"name": "Philip Latham"
+								}
 							}
 						]
 					},
