@@ -1245,7 +1245,8 @@
 								"enemy": "The Meddling Monk",
 								"actor": {
 									"name": "Peter Butterworth"
-								},
+								}
+							},{
 								"enemy": "Daleks",
 								"actor": {
 									"name": "Robert Jewell",
