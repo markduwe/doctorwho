@@ -46,9 +46,9 @@
 				{ 
 					"Susan Foreman": "Carole Ann Ford", 
 					"from": "1963",
-					"to": "1964",
+					"to": "2014",
 					"first_serial": "An Unearthly Child",
-					"last_serial": "The Five Doctors"
+					"last_serial": "The Name of The Doctor"
 				}, { 
 					"Barbara Wright": "Jacqueline Hill", 
 					"from": "1963",
@@ -449,6 +449,23 @@
 								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "French Revolution"
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"A Land of Fear": "8 August 1964",
+							"Guests of Madame Guillotine": "15 August 1964",
+							"A Change of Identity": "22 August 1964",
+							"The Tyrant of France": "29 August 1964",
+							"A Bargain of Necessity": "5 September 1964",
+							"Prisoners of Conciergerie": "12 September 1964"
+						}
 					}
 				}, {
 					"Planet of Giants": "31 October - 14 November 1964",
@@ -471,6 +488,25 @@
 								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Farrow",
+								"actor": {
+									"name": "Frank Crawshaw"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Planet of Giants": "31 October 1964",
+							"Dangerous Journey": "7 November 1964",
+							"Crisis, original recorded version": "Unaired",
+							"Crisis, broadcast version": "14 November 1964",
+							"The Urge to Live, original recorded version": "Unaired"
+						}
 					}
 				}, {
 					"The Dalek Invasion of Earth": "21 November - 26 December 1964",
@@ -490,11 +526,38 @@
 								"Ian Chesterton": "William Russell",
 								"died": "no",
 								"left": "no",
-								"left_behind": "no",
-								"left": "no",
 								"left_behind": "no"
 							}
 						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Daleks",
+								"actor": {
+									"name": "Nick Evans",
+									"name": "Robert Jewell",
+									"name": "Kevin Manser",
+									"name": "Peter Murphy",
+									"name": "Gerald Taylor"
+								}, 
+								"enemy": "Robomen",
+								"actor": {
+									"name": "Peter Badger",
+									"name": "Martyn Huntley"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"World's End": "21 November 1964",
+							"The Daleks": "28 November 1964",
+							"Day of Reckoning": "5 December 1964",
+							"The End of Tomorrow": "12 December 1964",
+							"The Waking Ally": "19 December 1964",
+							"Flashpoint": "26 December 1964"
+						}
 					}
 				}, {
 					"The Rescue": "2–9 January 1965"
