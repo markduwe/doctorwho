@@ -783,7 +783,55 @@
 						}
 					}
 				}, {
-					"The Chase": "22 May – 26 June 1965"
+					"The Chase": "22 May – 26 June 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "yes",
+								"left_behind": "no"
+							}, { 
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "yes",
+								"left_behind": "no"
+							}, { 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Daleks",
+								"actor": {
+									"name": "Robert Jewell",
+									"name": "Kevin Manser",
+									"name": "John Scott Martin",
+									"name": "Gerald Taylor"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Executioners": "22 May 1965",
+							"The Death of Time": "29 May 1965",
+							"Flight Through Eternity": "5 June 1965",
+							"Journey into Terror": "12 June 1965",
+							"The Death of Doctor Who": "19 June 1965",
+							"The Planet of Decision": "26 June 1965"
+						}
+					}
 				}, {
 					"The Time Meddler": "3 – 24 July 1965"
 				}, {
