@@ -27,6 +27,7 @@
 							{
 								"name": "The Pilot Episode",
 								"airdate": "26 August 1991",
+								"production_code": "A",
 								"companions": {
 									"companion": [
 										{ 
@@ -74,7 +75,8 @@
 								}	
 							}, {
 								"name": "An Unearthly Child",
-								"airdate": "23 November - 14 December 1963",
+								"airdate": "23 November - 14 December 1963",,
+								"production_code": "A",
 								"companions": {
 									"companion": [
 										{ 
@@ -130,8 +132,8 @@
 								}	
 							}, {
 								"name": "The Daleks",
-								"airdate": "21 December 1963 - 1 February 1964",
-								"overview": "An unedited studio recording of the pilot \"An Unearthly Child\", including all takes of the second part of the show.",
+								"airdate": "21 December 1963 - 1 February 1964",,
+								"production_code": "B",
 								"companions": {
 									"companion": [
 										{ 
@@ -212,6 +214,7 @@
 							}, {
 								"name": "The Edge of Destruction",
 								"airdate": "8 – 15 February 1964",
+								"production_code": "C",
 								"companions": {
 									"companion": [
 										{ 
@@ -260,6 +263,7 @@
 							}, {
 								"name": "Marco Polo",
 								"airdate": "22 February - 4 April 1964",
+								"production_code": "D",
 								"companions": {
 									"companion": [
 										{ 
@@ -328,6 +332,7 @@
 							}, {
 								"name": "The Keys of Marinus",
 								"airdate": "11 April - 16 May 1964",
+								"production_code": "E",
 								"companions": {
 									"companion": [
 										{ 
@@ -403,6 +408,7 @@
 							}, {
 								"name": "The Aztecs",
 								"airdate": "23 May - 13 June 1964",
+								"production_code": "F",
 								"companions": {
 									"companion": [
 										{ 
@@ -459,6 +465,7 @@
 							}, {
 								"name": "The Sensorites",
 								"airdate": "20 June – 1 August 1964",
+								"production_code": "G",
 								"companions": {
 									"companion": [
 										{ 
@@ -517,6 +524,7 @@
 							}, {
 								"name": "The Reign of Terror",
 								"airdate": "8 August – 12 September 1964",
+								"production_code": "G",
 								"companions": {
 									"companion": [
 										{ 
@@ -586,6 +594,7 @@
 							{
 								"name": "Planet of Giants",
 								"airdate": "31 October - 14 November 1964",
+								"production_code": "J",
 								"companions": {
 									"companion": [
 										{ 
@@ -641,6 +650,7 @@
 							}, {
 								"name": "The Dalek Invasion of Earth",
 								"airdate": "21 November - 26 December 1964",
+								"production_code": "K",
 								"companions": {
 									"companion": [
 										{ 
@@ -716,6 +726,7 @@
 							}, {
 								"name": "The Rescue",
 								"airdate": "2 – 9 January 1965",
+								"production_code": "L",
 								"companions": {
 									"companion": [
 										{ 
@@ -760,8 +771,9 @@
 									]
 								}
 							}, {
-								"name": "The Romans ",
+								"name": "The Romans",
 								"airdate": "16 January - 6 February 1965",
+								"production_code": "M",
 								"companions": {
 									"companion": [
 										{ 
@@ -814,6 +826,7 @@
 							}, {
 								"name": "The Web Planet",
 								"airdate": "13 February - 20 March 1965",
+								"production_code": "N",
 								"companions": {
 									"companion": [
 										{ 
@@ -872,6 +885,7 @@
 							}, {
 								"name": "The Crusade",
 								"airdate": "27 March - 17 April 1965",
+								"production_code": "P",
 								"companions": {
 									"companion": [
 										{ 
@@ -924,6 +938,7 @@
 							}, {
 								"name": "The Space Museum",
 								"airdate": "24 April – 15 May 1965",
+								"production_code": "Q",
 								"companions": {
 									"companion": [
 										{ 
@@ -997,6 +1012,7 @@
 							}, {
 								"name": "The Chase",
 								"airdate": "22 May – 26 June 1965",
+								"production_code": "R",
 								"companions": {
 									"companion": [
 										{ 
@@ -1066,6 +1082,7 @@
 							}, {
 								"name": "The Time Meddler",
 								"airdate": "3 – 24 July 1965",
+								"production_code": "S",
 								"companions": {
 									"companion": [
 										{ 
@@ -1124,6 +1141,7 @@
 							{
 								"name": "Galaxy 4",
 								"airdate": "11 September – 2 October 1965",
+								"production_code": "T",
 								"companions": {
 									"companion": [
 										{ 
@@ -1182,6 +1200,7 @@
 							}, {
 								"name": "Mission to the Unknown",
 								"airdate": "9 October 1965",
+								"production_code": "T/A",
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -1212,6 +1231,7 @@
 							}, {
 								"name": "The Myth Makers",
 								"airdate": "16 October - 6 November 1965",
+								"production_code": "U",
 								"companions": {
 									"companion": [
 										{ 
@@ -1264,6 +1284,7 @@
 							}, {
 								"name": "The Daleks' Master Plan",
 								"airdate": "13 November 1965 - 29 January 1966",
+								"production_code": "V",
 								"companions": {
 									"companion": [
 										{ 
@@ -1353,6 +1374,7 @@
 							}, {
 								"name": "The Massacre of St Bartholomew's Eve",
 								"airdate": "5 – 26 February 1966",
+								"production_code": "W",
 								"companions": {
 									"companion": [
 										{ 
@@ -1407,6 +1429,7 @@
 							}, {
 								"name": "The Ark",
 								"airdate": "5 – 26 March 1966",
+								"production_code": "X",
 								"companions": {
 									"companion": [
 										{ 
@@ -1460,6 +1483,7 @@
 							}, {
 								"name": "The Celestial Toymaker",
 								"airdate": "2 – 23 April 1966",
+								"production_code": "Y",
 								"companions": {
 									"companion": [
 										{ 
@@ -1507,6 +1531,7 @@
 							}, {
 								"name": "The Gunfighters",
 								"airdate": "30 April – 21 May 1966",
+								"production_code": "Z",
 								"companions": {
 									"companion": [
 										{ 
@@ -1554,6 +1579,7 @@
 							}, {
 								"name": "The Savages",
 								"airdate": "28 May – 18 June 1966",
+								"production_code": "AA",
 								"companions": {
 									"companion": [
 										{ 
@@ -1601,6 +1627,7 @@
 							}, {
 								"name": "The War Machines",
 								"airdate": "25 June - 16 July 1966",
+								"production_code": "BB",
 								"companions": {
 									"companion": [
 										{ 
@@ -1664,6 +1691,7 @@
 							{
 								"name": "The Smugglers",
 								"airdate": "10 September – 1 October 1966",
+								"production_code": "CC",
 								"companions": {
 									"companion": [
 										{ 
@@ -1725,6 +1753,7 @@
 							}, {
 								"name": "The Tenth Planet",
 								"airdate": "8 – 29 October 1966",
+								"production_code": "DD",
 								"companions": {
 									"companion": [
 										{ 
@@ -1787,6 +1816,7 @@
 							{
 								"name": "The Three Doctors",
 								"airdate": "30 December 1972 – 20 January 1973",
+								"production_code": "RRR",
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -1831,6 +1861,7 @@
 							{
 								"name": "The Name of the Doctor",
 								"airdate": "18 May 2013",
+								"production_code": "7.13"
 								"companions": {
 									"companion": [
 										{ 
@@ -1864,6 +1895,7 @@
 							}, {
 								"name": "The Day of the Doctor",
 								"airdate": "23 November 2013",
+								"production_code": "TBA"
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -1996,6 +2028,7 @@
 							{
 								"name": "The Five Doctors",
 								"airdate": "25 November 1983",
+								"production_code": "6K"
 								"companions": {
 									"companion": [
 										{ 
