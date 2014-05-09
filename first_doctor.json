@@ -106,9 +106,15 @@
 				}, { 
 					"Polly": "Anneke Wills", 
 					"from": "1966",
-					"to": "1966",
+					"to": "1967",
 					"first_serial": "The War Machines",
-					"last_serial": "The Tenth Planet"
+					"last_serial": "The Faceless Ones"
+				}, { 
+					"Ben Jackson": "Michael Craze", 
+					"from": "1966",
+					"to": "1967",
+					"first_serial": "The War Machines",
+					"last_serial": "The Faceless Ones"
 				}
 			]
 		},
@@ -1099,21 +1105,297 @@
 						}
 					}
 				}, {
-					"The Celestial Toymaker": "2 – 23 April 1966"
+					"The Celestial Toymaker": "2 – 23 April 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Dodo Chaplet": "Jackie Lane",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "The Toymaker",
+								"actor": {
+									"name": "Michael Gough"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Celestial Toyroom": "2 April 1966",
+							"The Hall of Dolls": "9 April 1966",
+							"The Dancing Floor": "16 April 1966",
+							"The Final Test": "23 April 1966"
+						}
+					}
 				}, {
-					"The Gunfighters": "30 April – 21 May 1966"
+					"The Gunfighters": "30 April – 21 May 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Dodo Chaplet": "Jackie Lane",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Johnny Ringo",
+								"actor": {
+									"name": "Laurence Payne"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"A Holiday for the Doctor": "30 April 1966",
+							"Don't Shoot the Pianist": "7 May 1966",
+							"Johnny Ringo": "14 May 1966",
+							"The OK Corral": "21 May 1966"
+						}
+					}
 				}, {
-					"The Savages": "28 May – 18 June 1966"
+					"The Savages": "28 May – 18 June 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "yes",
+								"left_behind": "no"
+							}, { 
+								"Dodo Chaplet": "Jackie Lane",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Jano",
+								"actor": {
+									"name": "Frederick Jaeger"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Episode 1": "28 May 1966",
+							"Episode 2": "4 June 1966",
+							"Episode 3": "11 June 1966",
+							"Episode 4": "18 June 1966"
+						}
+					}
 				}, {
-					"The War Machines": "25 June - 16 July 1966"
+					"The War Machines": "25 June - 16 July 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Dodo Chaplet": "Jackie Lane",
+								"died": "no",
+								"left": "yes",
+								"left_behind": "no"
+							}, { 
+								"Polly": "Anneke Wills",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ben Jackson": "Michael Craze",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "WOTAN",
+								"actor": {
+									"name": "Gerald Taylor"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Episode 1": "25 June 1966",
+							"Episode 2": "2 July 1966",
+							"Episode 3": "9 July 1966",
+							"Episode 4": "16 July 1966"
+						}
+					}
 				}, {
-					"The Smugglers": "10 September – 1 October 1966"
+					"The Smugglers": "10 September – 1 October 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Polly": "Anneke Wills",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ben Jackson": "Michael Craze",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Captain Samuel Pike",
+								"actor": {
+									"name": "Michael Godfrey"
+								},
+								"enemy": "Cherub",
+								"actor": {
+									"name": "George A. Cooper"
+								},
+								"enemy": "The Squire",
+								"actor": {
+									"name": "Paul Whitsun-Jones"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Episode 1": "10 September 1966",
+							"Episode 2": "17 September 1966",
+							"Episode 3": "24 September 1966",
+							"Episode 4": "1 October 1966"
+						}
+					}
 				}, {
-					"The Tenth Planet": "8 – 29 October 1966"
+					"The Tenth Planet": "8 – 29 October 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Polly": "Anneke Wills",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ben Jackson": "Michael Craze",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Cybermen",
+								"actor": {
+									"name": "Harry Brooks", 
+									"name": "Reg Whitehead", 
+									"name": "Gregg Palmer"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Episode 1": "8 October 1966",
+							"Episode 2": "15 October 1966",
+							"Episode 3": "22 October 1966",
+							"Episode 4": "29 October 1966"
+						}
+					}
 				}, {
-					"The Name of the Doctor": "18 May 2013"
+					"The Three Doctors": "30 December 1972 – 20 January 1973",
+					"companions": { },
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Omega",
+								"actor": {
+									"name": "Stephen Thorne"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Episode 1": "30 December 1972",
+							"Episode 2": "6 January 1973",
+							"Episode 3": "13 January 1973",
+							"Episode 4": "20 January 1973"
+						}
+					}
 				}, {
-					"The Day of the Doctor": "23 November 2013"
+					"The Name of the Doctor": "18 May 2013",
+					"companions": {
+						"companion": [
+							{ 
+								"Susan Foreman": "Carole Ann Ford",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "The Great Intelligence",
+								"actor": {
+									"name": "Richard E. Grant"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Name of the Doctor": "18 May 2013"
+						}
+					}
+				}, {
+					"The Day of the Doctor": "23 November 2013",
+					"companions": { },
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Daleks",
+								"actor": {
+									"name": "Barnaby Edwards",
+									"name": "Nicholas Pegg"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Day of the Doctor": "23 November 2013"
+						}
+					}
 				}
 			]
 		}
