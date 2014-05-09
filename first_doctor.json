@@ -63,10 +63,12 @@
 									"episode": [
 										{
 											"name": "Original Pilot, version 1",
-											"airdate": "26 August 1991"
+											"airdate": "26 August 1991",
+											"overview": "The first episode, \"An Unearthly Child\", was originally recorded a month before full recording on the series began. However, the initial recording was bedevilled with technical problems and errors made during the performance.  Two versions of the scene set in the TARDIS were recorded, along with an aborted first attempt to start the second version."
 										}, {
 											"name": "Original Pilot, version 2",
-											"airdate": "unaired"
+											"airdate": "unaired",
+											"overview": "An unedited studio recording of the pilot \"An Unearthly Child\", including all takes of the second part of the show."
 										}
 									]
 								}	
@@ -109,22 +111,27 @@
 									"episode": [
 										{
 											"name": "An Unearthly Child",
-											"airdate": "23 November 1963"
+											"airdate": "23 November 1963",
+											"overview": "London, 1963. Schoolteachers Ian Chesterton and Barbara Wright are perplexed by the behaviour of one of their pupils, Susan Foreman. Her knowledge of science and history exceeds theirs, yet she seems totally ignorant of many common aspects of everyday life. They follow her to her home address, a junkyard with a police telephone box standing in it, and encounter her grandfather, the enigmatic Doctor. When they force their way past him into the police box, Susan's secret is revealed: she and the Doctor are aliens, and the police box is a time machine, the TARDIS, capable of visiting any point in the universe at any moment in time…"
 										}, {
 											"name": "The Cave of Skulls",
-											"airdate": "30 November 1963"
+											"airdate": "30 November 1963",
+											"overview": "Earth, 100,000 B.C. The enigmatic Doctor, afraid that schoolteachers Ian Chesterton and Barbara Wright will reveal his secrets to the people of 20th century Earth, has taken them and his granddaughter Susan back to the dawn of human history. There, the four travellers are dragged into the savage politics of a tribe of cavemen who have lost the secret of making fire…"
 										}, {
 											"name": "The Forest of Fear",
-											"airdate": "7 December 1963"
+											"airdate": "7 December 1963",
+											"overview": "Prisoners of the earliest humans, the TARDIS crew are caught in a deadly power play for leadership of the tribe."
 										}, {
 											"name": "The Firemaker",
-											"airdate": "14 December 1963"
+											"airdate": "14 December 1963",
+											"overview": "The TARDIS crew must make fire for the early humans to stay alive. But once they do, they may not be allowed to leave!"
 										}
 									]
 								}	
 							}, {
 								"name": "The Daleks",
 								"airdate": "21 December 1963 - 1 February 1964",
+								"overview": "An unedited studio recording of the pilot \"An Unearthly Child\", including all takes of the second part of the show.",
 								"companions": {
 									"companion": [
 										{ 
@@ -169,28 +176,36 @@
 									"episode": [
 										{
 											"name": "The Dead Planet, original recorded version",
-											"airdate": "Unaired"
+											"airdate": "Unaired",
+											"overview": "Time Unknown, Planet Unknown. The TARDIS lands in an eerie petrified forest overlooking a magnificent steel city.  The Doctor wants to explore the city – but what is waiting there?"
 										}, {
 											"name": "The Dead Planet, remounted version",
-											"airdate": "21 December 1963"
+											"airdate": "21 December 1963",
+											"overview": "Time Unknown, Planet Unknown. The TARDIS lands in an eerie petrified forest overlooking a magnificent steel city.  The Doctor wants to explore the city – but what is waiting there?"
 										}, {
 											"name": "The Survivors",
-											"airdate": "28 December 1963"
+											"airdate": "28 December 1963",
+											"overview": "The dead planet is not uninhabited after all. The Doctor is about to meet what will become his greatest enemies. And he and his crew are dying of radiation sickness."
 										}, {
 											"name": "The Escape",
-											"airdate": "4 January 1964"
+											"airdate": "4 January 1964",
+											"overview": "Imprisoned on Skaro by the scheming Daleks, the Doctor and his companions work to escape their clutches."
 										}, {
 											"name": "The Ambush",
-											"airdate": "11 January 1964"
+											"airdate": "11 January 1964",
+											"overview": "The time travellers work desperately to both escape the Dalek city and prevent a bloody massacre."
 										}, {
 											"name": "The Expedition",
-											"airdate": "18 January 1964"
+											"airdate": "18 January 1964",
+											"overview": "The time travellers have escaped from the Daleks, but left a vital piece of the TARDIS behind. Getting it back will mean pushing the Thals to mount a dangerous operation."
 										}, {
 											"name": "The Ordeal",
-											"airdate": "25 January 1964"
+											"airdate": "25 January 1964",
+											"overview": "Ian, Barbara and the Thals struggle through the caves to reach the Dalek city. Will they get there in time? Is there even a way through the treacherous caves? And what are the Daleks planning?"
 										}, {
 											"name": "The Rescue",
-											"airdate": "1 February 1964"
+											"airdate": "1 February 1964",
+											"overview": "Time is running out as the Doctor and his companions try to defeat the Daleks before they wipe out all life on Skaro."
 										}
 									]
 								}
@@ -233,10 +248,12 @@
 									"episode": [
 										{
 											"name": "The Edge of Destruction",
-											"airdate": "8 February 1964"
+											"airdate": "8 February 1964",
+											"overview": "A mysterious explosion has knocked the TARDIS into void. And in their confusion, the crew are turning on one another."
 										}, {
 											"name": "The Brink of Disaster",
-											"airdate": "15 February 1964"
+											"airdate": "15 February 1964",
+											"overview": "The TARDIS is adrift, the crew turning on each other. Only by working together can they find their way out before they are destroyed."
 										}
 									]
 								}
@@ -279,25 +296,32 @@
 									"episode": [
 										{
 											"name": "The Roof of the World",
-											"airdate": "22 February 1964"
+											"airdate": "22 February 1964",
+											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan..."
 										},{
 											"name": "The Singing Sands",
-											"airdate": "29 February 1964"
+											"airdate": "29 February 1964",
+											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan..."
 										},{
 											"name": "Five Hundred Eyes",
-											"airdate": "7 March 1964"
+											"airdate": "7 March 1964",
+											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan..."
 										},{
 											"name": "The Wall of Lies",
-											"airdate": "14 March 1964"
+											"airdate": "14 March 1964",
+											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan..."
 										},{
 											"name": "Rider From Shang-Tu",
-											"airdate": "21 March 1964"
+											"airdate": "21 March 1964",
+											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan..."
 										},{
 											"name": "Mighty Kublai Khan",
-											"airdate": "28 March 1964"
+											"airdate": "28 March 1964",
+											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan..."
 										},{
 											"name": "Assassin at Peking",
-											"airdate": "4 April 1964"
+											"airdate": "4 April 1964",
+											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan..."
 										}
 									]
 								}
@@ -351,22 +375,28 @@
 									"episode": [
 										{
 											"name": "The Sea of Death",
-											"airdate": "11 April 1964"
+											"airdate": "11 April 1964",
+											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way..."
 										},{
 											"name": "The Velvet Web",
-											"airdate": "18 April 1964"
+											"airdate": "18 April 1964",
+											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way..."
 										},{
 											"name": "The Screaming Jungle",
-											"airdate": "25 April 1964"
+											"airdate": "25 April 1964",
+											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way..."
 										},{
 											"name": "The Snows of Terror",
-											"airdate": "2 May 1964"
+											"airdate": "2 May 1964",
+											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way..."
 										},{
 											"name": "Sentence of Death",
-											"airdate": "9 May 1964"
+											"airdate": "9 May 1964",
+											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way..."
 										},{
 											"name": "The Keys of Marinus",
-											"airdate": "16 May 1964"
+											"airdate": "16 May 1964",
+											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way..."
 										}
 									]
 								}
@@ -409,16 +439,20 @@
 									"episode": [
 										{
 											"name": "The Temple of Evil",
-											"airdate": "23 May 1964"
+											"airdate": "23 May 1964",
+											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?"
 										},{
 											"name": "The Warriors of Death",
-											"airdate": "30 May 1964"
+											"airdate": "30 May 1964",
+											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?"
 										},{
 											"name": "The Bride of Sacrifice",
-											"airdate": "6 June 1964"
+											"airdate": "6 June 1964",
+											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?"
 										},{
 											"name": "The Day of Darkness",
-											"airdate": "13 June 1964"
+											"airdate": "13 June 1964",
+											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?"
 										}
 									]
 								}
