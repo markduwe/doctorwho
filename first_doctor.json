@@ -1,0 +1,2059 @@
+[
+	{
+		"doctor": "first",
+		"from": "1963",
+		"to": "2013",
+		"first_serial": "An Unearthly Child",
+		"last_serial": "The Day of The Doctor",
+		"actor": "William Hartnell",
+		"appearances": "29 stories (134 episodes)",
+		"sonic": "no",
+		"tardis_interior": "http://ichef.bbci.co.uk/images/ic/944x531_b/p0129mfd.jpg",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1963-tardis/",
+		"costume": "Edwardian grandfather",
+		"description": "Originally a very difficult and curmudgeonly person, the First Doctor matured from an apparent selfishness and became more inviting. His happier, kinder characteristics fostered when he began to acquire an entourage of companions to accompany him throughout the wonders of the fourth dimension and learned to be a caregiver with a sense of justice in a universe afflicted by evils.",
+		"first_words": "What are you doing here?",
+		"last_words": "Ah yes, thank you. Keep warm.",
+		"seasons": {
+			"season": [
+				{
+					"season": "1",
+					"from": "1963",
+					"to": "1964",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Pilot Episode",
+								"airdate": "26 August 1991",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Original Pilot, version 1",
+											"airdate": "26 August 1991"
+										}, {
+											"name": "Original Pilot, version 2",
+											"airdate": "unaired"
+										}
+									]
+								}	
+							}, {
+								"name": "An Unearthly Child",
+								"airdate": "23 November - 14 December 1963",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Kal",
+											"actor": [
+												{
+													"name": "Jeremy Young"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "An Unearthly Child",
+											"airdate": "23 November 1963"
+										}, {
+											"name": "The Cave of Skulls",
+											"airdate": "30 November 1963"
+										}, {
+											"name": "The Forest of Fear",
+											"airdate": "7 December 1963"
+										}, {
+											"name": "The Firemaker",
+											"airdate": "14 December 1963"
+										}
+									]
+								}	
+							}, {
+								"name": "The Daleks",
+								"airdate": "21 December 1963 - 1 February 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Robert Jewell"
+												}, {	
+													"name": "Kevin Manser"
+												}, {	
+													"name": "Michael Summerton"
+												}, {	
+													"name": "Gerald Taylor"
+												}, {	
+													"name": "Peter Murphy"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Dead Planet, original recorded version",
+											"airdate": "Unaired"
+										}, {
+											"name": "The Dead Planet, remounted version",
+											"airdate": "21 December 1963"
+										}, {
+											"name": "The Survivors",
+											"airdate": "28 December 1963"
+										}, {
+											"name": "The Escape",
+											"airdate": "4 January 1964"
+										}, {
+											"name": "The Ambush",
+											"airdate": "11 January 1964"
+										}, {
+											"name": "The Expedition",
+											"airdate": "18 January 1964"
+										}, {
+											"name": "The Ordeal",
+											"airdate": "25 January 1964"
+										}, {
+											"name": "The Rescue",
+											"airdate": "1 February 1964"
+										}
+									]
+								}
+							}, {
+								"name": "The Edge of Destruction",
+								"airdate": "8 – 15 February 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Edge of Destruction",
+											"airdate": "8 February 1964"
+										}, {
+											"name": "The Brink of Disaster",
+											"airdate": "15 February 1964"
+										}
+									]
+								}
+							}, {
+								"name": "Marco Polo",
+								"airdate": "22 February - 4 April 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Tegana",
+											"actor": [
+												{
+													"name": "Derren Nesbitt"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Roof of the World",
+											"airdate": "22 February 1964"
+										},{
+											"name": "The Singing Sands",
+											"airdate": "29 February 1964"
+										},{
+											"name": "Five Hundred Eyes",
+											"airdate": "7 March 1964"
+										},{
+											"name": "The Wall of Lies",
+											"airdate": "14 March 1964"
+										},{
+											"name": "Rider From Shang-Tu",
+											"airdate": "21 March 1964"
+										},{
+											"name": "Mighty Kublai Khan",
+											"airdate": "28 March 1964"
+										},{
+											"name": "Assassin at Peking",
+											"airdate": "4 April 1964"
+										}
+									]
+								}
+							}, {
+								"name": "The Keys of Marinus",
+								"airdate": "11 April - 16 May 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Yartek",
+											"actor": [
+												{
+													"name": "Stephen Dartnell"
+												}
+											]
+										}, {
+											"enemy": "The Voords",
+											"actor": [
+												{
+													"name": "Martin Cort"
+												}, {
+													"name": "Peter Stenson"
+												}, {
+													"name": "Gordon Wales"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Sea of Death",
+											"airdate": "11 April 1964"
+										},{
+											"name": "The Velvet Web",
+											"airdate": "18 April 1964"
+										},{
+											"name": "The Screaming Jungle",
+											"airdate": "25 April 1964"
+										},{
+											"name": "The Snows of Terror",
+											"airdate": "2 May 1964"
+										},{
+											"name": "Sentence of Death",
+											"airdate": "9 May 1964"
+										},{
+											"name": "The Keys of Marinus",
+											"airdate": "16 May 1964"
+										}
+									]
+								}
+							}, {
+								"name": "The Aztecs",
+								"airdate": "23 May - 13 June 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Tlotoxl",
+											"actor": [
+												{
+													"name": "John Ringham"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Temple of Evil",
+											"airdate": "23 May 1964"
+										},{
+											"name": "The Warriors of Death",
+											"airdate": "30 May 1964"
+										},{
+											"name": "The Bride of Sacrifice",
+											"airdate": "6 June 1964"
+										},{
+											"name": "The Day of Darkness",
+											"airdate": "13 June 1964"
+										}
+									]
+								}
+							}, {
+								"name": "The Sensorites",
+								"airdate": "20 June – 1 August 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Commander",
+											"actor": [
+												{
+													"name": "John Bailey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Strangers in Space",
+											"airdate": "20 June 1964"
+										},{
+											"name": "The Unwilling Warriors",
+											"airdate": "27 June 1964"
+										},{
+											"name": "Hidden Danger",
+											"airdate": "11 July 1964"
+										},{
+											"name": "A Race Against Death",
+											"airdate": "18 July 1964"
+										},{
+											"name": "Kidnap",
+											"airdate": "25 July 1964"
+										},{
+											"name": "A Desperate Venture",
+											"airdate": "1 August 1964"
+										}
+									]
+								}
+							}, {
+								"name": "The Reign of Terror",
+								"airdate": "8 August – 12 September 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "French Revolution",
+											"actor":[
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "A Land of Fear",
+											"airdate": "8 August 1964"
+										},{
+											"name": "Guests of Madame Guillotine",
+											"airdate": "15 August 1964"
+										},{
+											"name": "A Change of Identity",
+											"airdate": "22 August 1964"
+										},{
+											"name": "The Tyrant of France",
+											"airdate": "29 August 1964"
+										},{
+											"name": "A Bargain of Necessity",
+											"airdate": "5 September 1964"
+										},{
+											"name": "Prisoners of Conciergerie",
+											"airdate": "12 September 1964"
+										}
+									]
+								}
+							}
+						]
+					}
+				}, {
+					"season": "2",
+					"from": "1964",
+					"to": "1965",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "Planet of Giants",
+								"airdate": "31 October - 14 November 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Farrow",
+											"actor": [
+												{
+													"name": "Frank Crawshaw"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Planet of Giants",
+											"airdate": "31 October 1964"
+										},{
+											"name": "Dangerous Journey",
+											"airdate": "7 November 1964"
+										},{
+											"name": "Crisis, original recorded version",
+											"airdate": "Unaired"
+										},{
+											"name": "Crisis, broadcast version",
+											"airdate": "14 November 1964"
+										},{
+											"name": "The Urge to Live, original recorded version",
+											"airdate": "Unaired"
+										}
+									]
+								}
+							}, {
+								"name": "The Dalek Invasion of Earth",
+								"airdate": "21 November - 26 December 1964",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "yes"
+										}, { 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Nick Evans"
+												}, { 
+													"name": "Robert Jewell"
+												}, { 
+													"name": "Kevin Manser"
+												}, { 
+													"name": "Peter Murphy"
+												}, { 
+													"name": "Gerald Taylor"
+												}
+											]
+										}, { 
+											"enemy": "Robomen",
+											"actor": [
+												{
+													"name": "Peter Badger"
+												}, { 
+													"name": "Martyn Huntley"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "World's End",
+											"airdate": "21 November 1964"
+										},{
+											"name": "The Daleks",
+											"airdate": "28 November 1964"
+										},{
+											"name": "Day of Reckoning",
+											"airdate": "5 December 1964"
+										},{
+											"name": "The End of Tomorrow",
+											"airdate": "12 December 1964"
+										},{
+											"name": "The Waking Ally",
+											"airdate": "19 December 1964"
+										},{
+											"name": "Flashpoint",
+											"airdate": "26 December 1964"
+										}
+									]
+								}
+							}, {
+								"name": "The Rescue",
+								"airdate": "2 – 9 January 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Koquillion",
+											"actor": [
+												{
+													"name": "Ray Barrett"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Powerful Enemy",
+											"airdate": "2 January 1965"
+										},{
+											"name": "Desperate Measures",
+											"airdate": "9 January 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Romans ",
+								"airdate": "16 January - 6 February 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Nero",
+											"actor": [
+												{
+													"name": "Derek Francis"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Slave Traders",
+											"airdate": "16 January 1965"
+										},{
+											"name": "All Roads Lead to Rome",
+											"airdate": "23 January 1965"
+										},{
+											"name": "Conspiracy",
+											"airdate": "30 January 1965"
+										},{
+											"name": "Inferno",
+											"airdate": "6 February 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Web Planet",
+								"airdate": "13 February - 20 March 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Animus",
+											"actor": [
+												{
+													"name": "Catherine Fleming"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Web Planet",
+											"airdate": "13 February 1965"
+										},{
+											"name": "The Zarbi",
+											"airdate": "20 February 1965"
+										},{
+											"name": "Escape to Danger",
+											"airdate": "27 February 1965"
+										},{
+											"name": "Crater of Needles",
+											"airdate": "6 March 1965"
+										},{
+											"name": "Invasion",
+											"airdate": "13 March 1965"
+										},{
+											"name": "The Centre",
+											"airdate": "20 March 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Crusade",
+								"airdate": "27 March - 17 April 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Saladin",
+											"actor": [
+												{
+													"name": "Bernard Kay"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Lion",
+											"airdate": "27 March 1965"
+										},{
+											"name": "The Knight of Jaffa",
+											"airdate": "3 April 1965"
+										},{
+											"name": "The Wheel of Fortune",
+											"airdate": "10 April 1965"
+										},{
+											"name": "The Warlords",
+											"airdate": "17 April 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Space Museum",
+								"airdate": "24 April – 15 May 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Lobos",
+											"actor": [
+												{
+													"name": "Richard Shaw"
+												}
+											]
+										}, {
+											"enemy": "Moroks",
+											"actor": [
+												{
+													"name": "Ivor Salter"
+												}, {
+													"name": "Salvin Stewart"
+												}, {
+													"name": "Peter Diamond"
+												}, {
+													"name": "Lawrence Dean"
+												}, {
+													"name": "Ken Norris"
+												}, {
+													"name": "Salvin Stewart"
+												}, {
+													"name": "Peter Diamond"
+												}, {
+													"name": "Billy Cornelius"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Lion",
+											"airdate": "27 March 1965"
+										},{
+											"name": "The Knight of Jaffa",
+											"airdate": "3 April 1965"
+										},{
+											"name": "The Wheel of Fortune",
+											"airdate": "10 April 1965"
+										},{
+											"name": "The Warlords",
+											"airdate": "17 April 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Chase",
+								"airdate": "22 May – 26 June 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Barbara Wright",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}, { 
+											"character": "Ian Chesterton",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}, { 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Robert Jewell"
+												}, {
+													"name": "Kevin Manser"
+												}, {
+													"name": "John Scott Martin"
+												}, {
+													"name": "Gerald Taylor"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Executioners",
+											"airdate": "22 May 1965"
+										},{
+											"name": "The Death of Time",
+											"airdate": "29 May 1965"
+										},{
+											"name": "Flight Through Eternity",
+											"airdate": "5 June 1965"
+										},{
+											"name": "Journey into Terror",
+											"airdate": "12 June 1965"
+										},{
+											"name": "The Death of Doctor Who",
+											"airdate": "19 June 1965"
+										},{
+											"name": "The Planet of Decision",
+											"airdate": "26 June 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Time Meddler",
+								"airdate": "3 – 24 July 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Meddling Monk",
+											"actor": [
+												{
+													"name": "Peter Butterworth"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Watcher",
+											"airdate": "3 July 1965"
+										},{
+											"name": "The Meddling Monk",
+											"airdate": "10 July 1965"
+										},{
+											"name": "A Battle of Wits",
+											"airdate": "17 July 1965"
+										},{
+											"name": "Checkmate",
+											"airdate": "24 July 1965"
+										}
+									]
+								}
+							}
+						]
+					}		
+				}, {
+					"season": "3",
+					"from": "1965",
+					"to": "1966",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "Galaxy 4",
+								"airdate": "11 September – 2 October 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Maaga",
+											"actor": [
+												{
+													"name": "Stephanie Bidmead"
+												}
+											]
+										}, {
+											"enemy": "Drahvins",
+											"actor": [
+												{
+													"name": "Marina Martin"
+												}, {
+													"name": "Susanna Caroll"
+												}, {
+													"name": "Lyn Ashley"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Four Hundred Dawns",
+											"airdate": "11 September 1965"
+										},{
+											"name": "Trap of Steel",
+											"airdate": "18 September 1965"
+										},{
+											"name": "Air Lock",
+											"airdate": "25 September 1965"
+										},{
+											"name": "The Exploding Planet",
+											"airdate": "2 October 1965"
+										}
+									]
+								}
+							}, {
+								"name": "Mission to the Unknown",
+								"airdate": "9 October 1965",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Robert Jewell"
+												}, { 
+													"name": "Kevin Manser"
+												}, { 
+													"name": "John Scott Martin"
+												}, { 
+													"name": "Gerald Taylor"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Mission to the Unknown",
+											"airdate": "9 October 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Myth Makers",
+								"airdate": "16 October - 6 November 1965",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Vicki", 
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}, { 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Katarina",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"actor": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Temple of Secrets",
+											"airdate": "16 October 1965"
+										},{
+											"name": "Small Prophet, Quick Return",
+											"airdate": "23 October 1965"
+										},{
+											"name": "Death of a Spy",
+											"airdate": "30 October 1965"
+										},{
+											"name": "Horse of Destruction",
+											"airdate": "6 November 1965"
+										}
+									]
+								}
+							}, {
+								"name": "The Daleks' Master Plan",
+								"airdate": "13 November 1965 - 29 January 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Katarina",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Sara Kingdom",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Meddling Monk",
+											"actor": [
+												{
+													"name": "Peter Butterworth"
+												}
+											]
+										},{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Robert Jewell"
+												},{
+													"name": "Kevin Manser"
+												},{
+													"name": "John Scott Martin"
+												},{
+													"name": "Gerald Taylor"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Nightmare Begins",
+											"airdate": "13 November 1965"
+										},{
+											"name": "Day of Armageddon",
+											"airdate": "20 November 1965"
+										},{
+											"name": "Devil's Planet",
+											"airdate": "27 November 1965"
+										},{
+											"name": "The Traitors",
+											"airdate": "4 December 1965"
+										},{
+											"name": "Counter Plot",
+											"airdate": "11 December 1965"
+										},{
+											"name": "Coronas of the Sun",
+											"airdate": "18 December 1965"
+										},{
+											"name": "The Feast of Steven",
+											"airdate": "25 December 1965"
+										},{
+											"name": "Volcano",
+											"airdate": "1 January 1966"
+										},{
+											"name": "Golden Death",
+											"airdate": "8 January 1966"
+										},{
+											"name": "Escape Switch",
+											"airdate": "15 January 1966"
+										},{
+											"name": "The Abandoned Planet",
+											"airdate": "22 January 1966"
+										},{
+											"name": "The Destruction of Time",
+											"airdate": "29 January 1966"
+										}
+									]
+								}
+							}, {
+								"name": "The Massacre of St Bartholomew's Eve",
+								"airdate": "5 – 26 February 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Dodo Chaplet",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Catherine de Medici",
+											"actor": [
+												{
+													"name": "Joan Young"
+												}
+											]
+										}, {
+											"enemy": "Marshal Tavannes",
+											"actor": [
+												{
+													"name": "André Morell"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "War of God",
+											"airdate": "5 February 1966"
+										},{
+											"name": "The Sea Beggar",
+											"airdate": "12 February 1966"
+										},{
+											"name": "Priest of Death",
+											"airdate": "19 February 1966"
+										},{
+											"name": "Bell of Doom",
+											"airdate": "26 February 1966"
+										}
+									]
+								}
+							}, {
+								"name": "The Ark",
+								"airdate": "5 – 26 March 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Dodo Chaplet",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Monoids",
+											"actor": [
+												{
+													"name": "Edmund Coulter"
+												}, {
+													"name": "Frank George"
+												}, {
+													"name": "Ralph Carrigan"
+												}, { 
+													"name": "John Caesar"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Steel Sky",
+											"airdate": "5 March 1966"
+										},{
+											"name": "The Plague",
+											"airdate": "12 March 1966"
+										},{
+											"name": "The Return",
+											"airdate": "19 March 1966"
+										},{
+											"name": "The Bomb",
+											"airdate": "26 March 1966"
+										}
+									]
+								}
+							}, {
+								"name": "The Celestial Toymaker",
+								"airdate": "2 – 23 April 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Dodo Chaplet",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Toymaker",
+											"actor": [
+												{
+													"name": "Michael Gough"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Celestial Toyroom",
+											"airdate": "2 April 1966"
+										},{
+											"name": "The Hall of Dolls",
+											"airdate": "9 April 1966"
+										},{
+											"name": "The Dancing Floor",
+											"airdate": "16 April 1966"
+										},{
+											"name": "The Final Test",
+											"airdate": "23 April 1966"
+										}
+									]
+								}
+							}, {
+								"name": "The Gunfighters",
+								"airdate": "30 April – 21 May 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Dodo Chaplet",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Johnny Ringo",
+											"actor": [
+												{
+													"name": "Laurence Payne"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "A Holiday for the Doctor",
+											"airdate": "30 April 1966"
+										},{
+											"name": "Don't Shoot the Pianist",
+											"airdate": "7 May 1966"
+										},{
+											"name": "Johnny Ringo",
+											"airdate": "14 May 1966"
+										},{
+											"name": "The OK Corral",
+											"airdate": "21 May 1966"
+										}
+									]
+								}
+							}, {
+								"name": "The Savages",
+								"airdate": "28 May – 18 June 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Steven Taylor", 
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}, { 
+											"character": "Dodo Chaplet",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Jano",
+											"actor": [
+												{
+													"name": "Frederick Jaeger"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Episode 1",
+											"airdate": "28 May 1966"
+										},{
+											"name": "Episode 2",
+											"airdate": "4 June 1966"
+										},{
+											"name": "Episode 3",
+											"airdate": "11 June 1966"
+										},{
+											"name": "Episode 4",
+											"airdate": "18 June 1966"
+										}
+									]
+								}
+							}, {
+								"name": "The War Machines",
+								"airdate": "25 June - 16 July 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Dodo Chaplet",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}, { 
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "WOTAN",
+											"actor": [
+											{
+												"name": "Gerald Taylor"
+											}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Episode 1",
+											"airdate": "25 June 1966"
+										},{
+											"name": "Episode 2",
+											"airdate": "2 July 1966"
+										},{
+											"name": "Episode 3",
+											"airdate": "9 July 1966"
+										},{
+											"name": "Episode 4",
+											"airdate": "16 July 1966"
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "4",
+					"from": "1966",
+					"to": "1967",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Smugglers",
+								"airdate": "10 September – 1 October 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Captain Samuel Pike",
+											"actor": [
+												{
+													"name": "Michael Godfrey"
+												}
+											]
+										}, {
+											"enemy": "Cherub",
+											"actor": [
+												{
+													"name": "George A. Cooper"
+												}
+											]
+										}, {
+											"enemy": "The Squire",
+											"actor": [
+												{
+													"name": "Paul Whitsun-Jones"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Episode 1",
+											"airdate": "10 September 1966"
+										},{
+											"name": "Episode 2",
+											"airdate": "10 September 1966"
+										},{
+											"name": "Episode 3",
+											"airdate": "24 September 1966"
+										},{
+											"name": "Episode 4",
+											"airdate": "1 October 1966"
+										}
+									]
+								}
+							}, {
+								"name": "The Tenth Planet",
+								"airdate": "8 – 29 October 1966",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "Harry Brooks"
+												}, {
+													"name": "Reg Whitehead"
+												}, { 
+													"name": "Gregg Palmer"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Episode 1",
+											"airdate": "8 October 1966"
+										},{
+											"name": "Episode 2",
+											"airdate": "15 October 1966"
+										},{
+											"name": "Episode 3",
+											"airdate": "22 October 1966"
+										},{
+											"name": "Episode 4",
+											"airdate": "29 October 1966"
+										}
+									]
+								}	
+							}						
+						]
+					}
+				}, {
+					"season": "10",
+					"from": "1973",
+					"to": "1973",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Three Doctors",
+								"airdate": "30 December 1972 – 20 January 1973",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Omega",
+											"actor": [
+												{
+													"name": "Stephen Thorne"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "Episode 1",
+											"airdate": "30 December 1972"
+										},{
+											"name": "Episode 2",
+											"airdate": "6 January 1973"
+										},{
+											"name": "Episode 3",
+											"airdate": "13 January 1973"
+										},{
+											"name": "Episode 4",
+											"airdate": "20 January 1973"
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013"
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013"
+										}
+									]
+								}
+							}						
+						]
+					}
+				}
+			]
+		},
+		"companions": {
+			"companion": [
+				{ 
+					"character": "Susan Foreman",
+					"actor": "Carole Ann Ford", 
+					"from": "1963",
+					"to": "2014",
+					"first_serial": "An Unearthly Child",
+					"last_serial": "The Name of The Doctor"
+				}, { 
+					"character": "Barbara Wright",
+					"actor": "Jacqueline Hill", 
+					"from": "1963",
+					"to": "1965",
+					"first_serial": "An Unearthly Child",
+					"last_serial": "The Chase"
+				}, { 
+					"character": "Ian Chesterton",
+					"actor": "William Russell", 
+					"from": "1963",
+					"to": "1965",
+					"first_serial": "An Unearthly Child",
+					"last_serial": "The Chase"
+				}, { 
+					"character": "Vicki",
+					"actor": "Maureen O'Brien", 
+					"from": "1965",
+					"to": "1965",
+					"first_serial": "The Rescue",
+					"last_serial": "The Myth Makers"
+				}, { 
+					"character": "Steven Taylor",
+					"actor": "Peter Purves", 
+					"from": "1965",
+					"to": "1965",
+					"first_serial": "The Chase",
+					"last_serial": "The Savages"
+				}, { 
+					"character": "Katarina",
+					"actor": "Adrienne Hill", 
+					"from": "1965",
+					"to": "1965",
+					"first_serial": "The Myth mMakers",
+					"last_serial": "The Daleks' Master Plan"
+				}, { 
+					"character": "Sara Kingdom",
+					"actor": "Jean Marsh", 
+					"from": "1965",
+					"to": "1965",
+					"first_serial": "The Daleks' Master Plan",
+					"last_serial": "The Daleks' Master Plan"
+				}, { 
+					"character": "Dodo Chaplet",
+					"actor": "Jackie Lane", 
+					"from": "1966",
+					"to": "1966",
+					"first_serial": "The Massacre of St Bartholomew's Eve",
+					"last_serial": "The War Machines"
+				}, { 
+					"character": "Polly",
+					"actor": "Anneke Wills", 
+					"from": "1966",
+					"to": "1967",
+					"first_serial": "The War Machines",
+					"last_serial": "The Faceless Ones"
+				}, { 
+					"character": "Ben Jackson",
+					"actor": "Michael Craze", 
+					"from": "1966",
+					"to": "1967",
+					"first_serial": "The War Machines",
+					"last_serial": "The Faceless Ones"
+				}
+			]
+		}
+	}, {
+		"doctor": "first",
+		"from": "1983",
+		"to": "1983",
+		"first_serial": "The Five Doctors",
+		"last_serial": "The Five Doctors",
+		"actor": "Richard Hurndall",
+		"appearances": "1 stories (1 episode)",
+		"sonic": "no",
+		"tardis_interior": "http://ichef.bbci.co.uk/images/ic/944x531_b/p0129m6j.jpg",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1980-tardis/",
+		"costume": "Edwardian grandfather",
+		"description": "Originally a very difficult and curmudgeonly person, the First Doctor matured from an apparent selfishness and became more inviting. His happier, kinder characteristics fostered when he began to acquire an entourage of companions to accompany him throughout the wonders of the fourth dimension and learned to be a caregiver with a sense of justice in a universe afflicted by evils.",
+		"first_words": "Susan. Surely it's Susan.",
+		"last_words": "Neither our manners. Well, goodbye, my boy. You did quite well, quite well. It's reassuring to know that my future is in safe hands. Come along, Susan.",
+		"seasons": {
+			"season": [
+				{
+					"season": "20",
+					"from": "1983",
+					"to": "1983",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Five Doctors",
+								"airdate": "25 November 1983",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												}
+											]
+										}, {
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "David Banks"
+												}, {
+													"name": "Mark Hardy"
+												}, {
+													"name": "William Kenton"
+												}
+											]
+										}, {
+											"enemy": "Yeti",
+											"actor": [
+												{
+													"name": "Lee Woods"
+												}
+											]
+										}, {
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Anthony Ainley"
+												}
+											]
+										}, {
+											"enemy": "Rassilon",
+											"actor": [
+												{
+													"name": "Richard Mathews"
+												}
+											]
+										}, {
+											"enemy": "Raston Warrior Robot",
+											"actor": [
+												{
+													"name": "Keith Hodiak"
+												}
+											]
+										}, {
+											"enemy": "Lord President Borusa",
+											"actor": [
+												{
+													"name": "Philip Latham"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"name": "The Five Doctors",
+											"airdate": "25 November 1983"
+										}
+									]
+								}	
+							}							
+						]
+					}
+				}
+			]
+		},
+		"companions": {
+			"companion": [
+				{ 
+					"character": "Susan Foreman", 
+					"from": "1983",
+					"to": "1983",
+					"first_serial": "The Five Doctors",
+					"last_serial": "The Five Doctors"
+				}
+			]
+		}
+	}
+]

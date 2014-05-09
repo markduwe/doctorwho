@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+li.doctors {
+	text-transform: capitalize;
+}
+strong {
+	font-weight: 700;
+}
+b {
+	font-weight: 600;
+}
