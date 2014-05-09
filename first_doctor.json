@@ -598,9 +598,87 @@
 						}
 					}
 				}, {
-					"The Romans ": "16 January - 6 February 1965"
+					"The Romans ": "16 January - 6 February 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Nero",
+								"actor": {
+									"name": "Derek Francis"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Slave Traders": "16 January 1965",
+							"All Roads Lead to Rome": "23 January 1965",
+							"Conspiracy": "30 January 1965",
+							"Inferno": "6 February 1965"
+						}
+					}
 				}, {
-					"The Web Planet": "13 February - 20 March 1965"
+					"The Web Planet": "13 February - 20 March 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Animus",
+								"actor": {
+									"name": "Catherine Fleming"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Web Planet": "13 February 1965",
+							"The Zarbi": "20 February 1965",
+							"Escape to Danger": "27 February 1965",
+							"Crater of Needles": "6 March 1965",
+							"Invasion": "13 March 1965",
+							"The Centre": "20 March 1965"
+						}
+					}
 				}, {
 					"The Crusade": "27 March - 17 April 1965"
 				}, {
