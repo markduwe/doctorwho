@@ -17,27 +17,39 @@
 				{
 					"season": "1",
 					"from": "1963",
-					"to": "1964"
+					"to": "1964",
+					"classic": "yes",
+					"new": "no"
 				}, {
 					"season": "2",
 					"from": "1964",
-					"to": "1965"
+					"to": "1965",
+					"classic": "yes",
+					"new": "no"
 				}, {
 					"season": "3",
 					"from": "1965",
-					"to": "1966"
+					"to": "1966",
+					"classic": "yes",
+					"new": "no"
 				}, {
 					"season": "4",
 					"from": "1966",
-					"to": "1967"
+					"to": "1967",
+					"classic": "yes",
+					"new": "no"
 				}, {
 					"season": "10",
 					"from": "1973",
-					"to": "1973"
+					"to": "1973",
+					"classic": "yes",
+					"new": "no"
 				}, {
 					"season": "7",
 					"from": "2013",
-					"to": "2013"
+					"to": "2013",
+					"classic": "no",
+					"new": "yes"
 				}
 			]
 		},
@@ -680,9 +692,96 @@
 						}
 					}
 				}, {
-					"The Crusade": "27 March - 17 April 1965"
+					"The Crusade": "27 March - 17 April 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Saladin",
+								"actor": {
+									"name": "Bernard Kay"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Lion": "27 March 1965",
+							"The Knight of Jaffa": "3 April 1965",
+							"The Wheel of Fortune": "10 April 1965",
+							"The Warlords": "17 April 1965"
+						}
+					}
 				}, {
-					"The Space Museum": "24 April – 15 May 1965"
+					"The Space Museum": "24 April – 15 May 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Barbara Wright": "Jacqueline Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Ian Chesterton": "William Russell",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Lobos",
+								"actor": {
+									"name": "Richard Shaw"
+								},
+								"enemy": "Moroks",
+								"actor": {
+									"name": "Ivor Salter",
+									"name": "Salvin Stewart",
+									"name": "Peter Diamond",
+									"name": "Lawrence Dean",
+									"name": "Ken Norris",
+									"name": "Salvin Stewart",
+									"name": "Peter Diamond",
+									"name": "Billy Cornelius"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"The Lion": "27 March 1965",
+							"The Knight of Jaffa": "3 April 1965",
+							"The Wheel of Fortune": "10 April 1965",
+							"The Warlords": "17 April 1965"
+						}
+					}
 				}, {
 					"The Chase": "22 May – 26 June 1965"
 				}, {
