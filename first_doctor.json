@@ -132,7 +132,7 @@
 								}	
 							}, {
 								"name": "The Daleks",
-								"airdate": "21 December 1963 - 1 February 1964",,
+								"airdate": "21 December 1963 - 1 February 1964",
 								"production_code": "B",
 								"companions": {
 									"companion": [
@@ -1861,7 +1861,7 @@
 							{
 								"name": "The Name of the Doctor",
 								"airdate": "18 May 2013",
-								"production_code": "7.13"
+								"production_code": "7.13",
 								"companions": {
 									"companion": [
 										{ 
@@ -1895,7 +1895,7 @@
 							}, {
 								"name": "The Day of the Doctor",
 								"airdate": "23 November 2013",
-								"production_code": "TBA"
+								"production_code": "TBA",
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -2028,7 +2028,7 @@
 							{
 								"name": "The Five Doctors",
 								"airdate": "25 November 1983",
-								"production_code": "6K"
+								"production_code": "6K",
 								"companions": {
 									"companion": [
 										{ 
