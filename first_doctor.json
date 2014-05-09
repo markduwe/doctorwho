@@ -902,16 +902,64 @@
 					},
 					"episodes": {
 						"episode": {
-							"The Watcher": "3 July 1965",
-							"The Meddling Monk": "10 July 1965",
-							"A Battle of Wits": "17 July 1965",
-							"Checkmate": "24 July 1965"
+							"Four Hundred Dawns": "11 September 1965",
+							"Trap of Steel": "18 September 1965",
+							"Air Lock": "25 September 1965",
+							"The Exploding Planet": "2 October 1965"
 						}
 					}
 				}, {
-					"Mission to the Unknown": "9 October 1965"
+					"Mission to the Unknown": "9 October 1965",
+					"companions": { },
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Daleks",
+								"actor": {
+									"name": "Robert Jewell", 
+									"name": "Kevin Manser", 
+									"name": "John Scott Martin", 
+									"name": "Gerald Taylor"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"Mission to the Unknown": "9 October 1965"
+						}
+					}
 				}, {
-					"The Myth Makers": "16 October - 6 November 1965"
+					"The Myth Makers": "16 October - 6 November 1965",
+					"companions": {
+						"companion": [
+							{ 
+								"Vicki": "Maureen O'Brien", 
+								"died": "no",
+								"left": "yes",
+								"left_behind": "no"
+							}, { 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Katarina": "Adrienne Hill",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": { },
+					"episodes": {
+						"episode": {
+							"Temple of Secrets": "16 October 1965",
+							"Small Prophet, Quick Return": "23 October 1965",
+							"Death of a Spy": "30 October 1965",
+							"Horse of Destruction": "6 November 1965"
+						}
+					}
 				}, {
 					"The Daleks' Master Plan": "13 November 1965 - 29 January 1966"
 				}, {
