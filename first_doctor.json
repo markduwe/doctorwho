@@ -58,61 +58,71 @@
 		"companions": {
 			"companion": [
 				{ 
-					"Susan Foreman": "Carole Ann Ford", 
+					"character": "Susan Foreman",
+					"actor": "Carole Ann Ford", 
 					"from": "1963",
 					"to": "2014",
 					"first_serial": "An Unearthly Child",
 					"last_serial": "The Name of The Doctor"
 				}, { 
-					"Barbara Wright": "Jacqueline Hill", 
+					"character": "Barbara Wright",
+					"actor": "Jacqueline Hill", 
 					"from": "1963",
 					"to": "1965",
 					"first_serial": "An Unearthly Child",
 					"last_serial": "The Chase"
 				}, { 
-					"Ian Chesterton": "William Russell", 
+					"character": "Ian Chesterton",
+					"actor": "William Russell", 
 					"from": "1963",
 					"to": "1965",
 					"first_serial": "An Unearthly Child",
 					"last_serial": "The Chase"
 				}, { 
-					"Vicki": "Maureen O'Brien", 
+					"character": "Vicki",
+					"actor": "Maureen O'Brien", 
 					"from": "1965",
 					"to": "1965",
 					"first_serial": "The Rescue",
 					"last_serial": "The Myth Makers"
 				}, { 
-					"Steven Taylor": "Peter Purves", 
+					"character": "Steven Taylor",
+					"actor": "Peter Purves", 
 					"from": "1965",
 					"to": "1965",
 					"first_serial": "The Chase",
 					"last_serial": "The Savages"
 				}, { 
-					"Katarina": "Adrienne Hill", 
+					"character": "Katarina",
+					"actor": "Adrienne Hill", 
 					"from": "1965",
 					"to": "1965",
 					"first_serial": "The Myth mMakers",
 					"last_serial": "The Daleks' Master Plan"
 				}, { 
-					"Sara Kingdom": "Jean Marsh", 
+					"character": "Sara Kingdom",
+					"actor": "Jean Marsh", 
 					"from": "1965",
 					"to": "1965",
 					"first_serial": "The Daleks' Master Plan",
 					"last_serial": "The Daleks' Master Plan"
 				}, { 
-					"Dodo Chaplet": "Jackie Lane", 
+					"character": "Dodo Chaplet",
+					"actor": "Jackie Lane", 
 					"from": "1966",
 					"to": "1966",
 					"first_serial": "The Massacre of St Bartholomew's Eve",
 					"last_serial": "The War Machines"
 				}, { 
-					"Polly": "Anneke Wills", 
+					"character": "Polly",
+					"actor": "Anneke Wills", 
 					"from": "1966",
 					"to": "1967",
 					"first_serial": "The War Machines",
 					"last_serial": "The Faceless Ones"
 				}, { 
-					"Ben Jackson": "Michael Craze", 
+					"character": "Ben Jackson",
+					"actor": "Michael Craze", 
 					"from": "1966",
 					"to": "1967",
 					"first_serial": "The War Machines",
@@ -128,17 +138,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -164,17 +174,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -205,17 +215,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -254,17 +264,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -291,17 +301,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -335,17 +345,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -384,17 +394,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -425,17 +435,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -468,17 +478,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -508,17 +518,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -550,17 +560,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "yes"
 							}, { 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -602,17 +612,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -641,17 +651,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -682,17 +692,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -725,17 +735,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -766,17 +776,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -818,22 +828,22 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Barbara Wright": "Jacqueline Hill",
+								"character": "Barbara Wright",
 								"died": "no",
 								"left": "yes",
 								"left_behind": "no"
 							}, { 
-								"Ian Chesterton": "William Russell",
+								"character": "Ian Chesterton",
 								"died": "no",
 								"left": "yes",
 								"left_behind": "no"
 							}, { 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -869,12 +879,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -905,12 +915,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -969,17 +979,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Vicki": "Maureen O'Brien", 
+								"character": "Vicki", 
 								"died": "no",
 								"left": "yes",
 								"left_behind": "no"
 							}, { 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Katarina": "Adrienne Hill",
+								"character": "Katarina",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1001,17 +1011,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Katarina": "Adrienne Hill",
+								"character": "Katarina",
 								"died": "yes",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Sara Kingdom": "Jean Marsh",
+								"character": "Sara Kingdom",
 								"died": "yes",
 								"left": "no",
 								"left_behind": "no"
@@ -1057,12 +1067,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Dodo Chaplet": "Jackie Lane",
+								"character": "Dodo Chaplet",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1097,12 +1107,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Dodo Chaplet": "Jackie Lane",
+								"character": "Dodo Chaplet",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1136,12 +1146,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Dodo Chaplet": "Jackie Lane",
+								"character": "Dodo Chaplet",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1172,12 +1182,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Dodo Chaplet": "Jackie Lane",
+								"character": "Dodo Chaplet",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1208,12 +1218,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Steven Taylor": "Peter Purves", 
+								"character": "Steven Taylor", 
 								"died": "no",
 								"left": "yes",
 								"left_behind": "no"
 							}, { 
-								"Dodo Chaplet": "Jackie Lane",
+								"character": "Dodo Chaplet",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1244,17 +1254,17 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Dodo Chaplet": "Jackie Lane",
+								"character": "Dodo Chaplet",
 								"died": "no",
 								"left": "yes",
 								"left_behind": "no"
 							}, { 
-								"Polly": "Anneke Wills",
+								"character": "Polly",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ben Jackson": "Michael Craze",
+								"character": "Ben Jackson",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1285,12 +1295,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Polly": "Anneke Wills",
+								"character": "Polly",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ben Jackson": "Michael Craze",
+								"character": "Ben Jackson",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1329,12 +1339,12 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Polly": "Anneke Wills",
+								"character": "Polly",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
 							}, { 
-								"Ben Jackson": "Michael Craze",
+								"character": "Ben Jackson",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1389,7 +1399,7 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
@@ -1461,7 +1471,7 @@
 		"companions": {
 			"companion": [
 				{ 
-					"Susan Foreman": "Carole Ann Ford", 
+					"character": "Susan Foreman", 
 					"from": "1983",
 					"to": "1983",
 					"first_serial": "The Five Doctors",
@@ -1477,7 +1487,7 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Susan Foreman": "Carole Ann Ford",
+								"character": "Susan Foreman",
 								"died": "no",
 								"left": "no",
 								"left_behind": "no"
