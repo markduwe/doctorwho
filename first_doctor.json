@@ -971,11 +971,6 @@
 					"companions": {
 						"companion": [
 							{ 
-								"Vicki": "Maureen O'Brien", 
-								"died": "no",
-								"left": "yes",
-								"left_behind": "no"
-							}, { 
 								"Steven Taylor": "Peter Purves", 
 								"died": "no",
 								"left": "no",
@@ -1027,7 +1022,44 @@
 						}
 					}
 				}, {
-					"The Massacre of St Bartholomew's Eve": "5 – 26 February 1966"
+					"The Massacre of St Bartholomew's Eve": "5 – 26 February 1966",
+					"companions": {
+						"companion": [
+							{ 
+								"Steven Taylor": "Peter Purves", 
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}, { 
+								"Dodo Chaplet": "Jackie Lane",
+								"died": "no",
+								"left": "no",
+								"left_behind": "no"
+							}
+						]
+					},
+					"enemies": {
+						"enemy": [
+							{
+								"enemy": "Catherine de Medici",
+								"actor": {
+									"name": "Joan Young"
+								},
+								"enemy": "Marshal Tavannes",
+								"actor": {
+									"name": "André Morell"
+								}
+							}
+						]
+					},
+					"episodes": {
+						"episode": {
+							"War of God": "5 February 1966",
+							"The Sea Beggar": "12 February 1966",
+							"Priest of Death": "19 February 1966",
+							"Bell of Doom": "26 February 1966"
+						}
+					}
 				}, {
 					"The Ark": "5 – 26 March 1966"
 				}, {
