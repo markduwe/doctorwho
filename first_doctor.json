@@ -152,7 +152,10 @@
 					"enemies": {
 						"enemy": [
 							{
-								"enemy": "Cavemen"
+								"enemy": "Kal",
+								"actor": {
+									"name": "Jeremy Young"
+								}
 							}
 						]
 					},
@@ -189,7 +192,14 @@
 					"enemies": {
 						"enemy": [
 							{
-								"enemy": "Daleks"
+								"enemy": "Daleks",
+								"actor": {
+									"name": "Robert Jewell",
+									"name": "Kevin Manser",
+									"name": "Michael Summerton",
+									"name": "Gerald Taylor",
+									"name": "Peter Murphy"
+								}
 							}
 						]
 					},
@@ -230,7 +240,8 @@
 					"enemies": {
 						"enemy": [
 							{
-								"enemy": ""
+								"enemy": "",
+								"actor": {}
 							}
 						]
 					},
@@ -265,7 +276,10 @@
 					"enemies": {
 						"enemy": [
 							{
-								"enemy": "Tegana"
+								"enemy": "Tegana",
+								"actor": {
+									"name": "Derren Nesbitt"
+								}
 							}
 						]
 					},
@@ -305,13 +319,27 @@
 					"enemies": {
 						"enemy": [
 							{
-								
+								"enemy": "Yartek",
+								"actor": {
+									"name": "Stephen Dartnell"
+								},
+								"enemy": "The Voords",
+								"actor": {
+									"name": "Martin Cort",
+									"name": "Peter Stenson",
+									"name": "Gordon Wales"
+								}
 							}
 						]
 					},
 					"episodes": {
 						"episode": {
-							
+							"The Sea of Death": "11 April 1964",
+							"The Velvet Web": "18 April 1964",
+							"The Screaming Jungle": "25 April 1964",
+							"The Snows of Terror": "2 May 1964",
+							"Sentence of Death": "9 May 1964",
+							"The Keys of Marinus": "16 May 1964"
 						}
 					}
 				}, {
@@ -464,6 +492,8 @@
 					"The Smugglers": "10 September – 1 October 1966"
 				}, {
 					"The Tenth Planet": "8 – 29 October 1966"
+				}, {
+					"The Day of the Doctor": "23 November 2013"
 				}
 			]
 		}
