@@ -16,6 +16,7 @@ $(function() {
 	$.getJSON(dr, function(data) {
 		var doc = '<ul class="doctors">';
 		doc += '<li class="doctor"><a href="#" data-doctor="'+data[0].json+'">'+data[0].doctor+' Doctor</a></li>';
+		doc += '<li class="doctor"><a href="#" data-doctor="'+data[1].json+'">'+data[1].doctor+' Doctor</a></li>';
 		doc += '<li class="doctor"><a href="#" data-doctor="'+data[8].json+'">'+data[8].doctor+' Doctor</a></li>';
 		doc += '</ul>'
 		$('#doc').html(doc);
@@ -32,6 +33,7 @@ $(function() {
 					doc += '<li>Last appearance: <b>'+a.last_serial+'</b>, '+a.to+'</li>';
 					doc += '<li>First words: "<em>'+a.first_words+'</em>"</li>';
 					doc += '<li>Last words: "<em>'+a.last_words+'</em>"</li>';
+					doc += '<li>Sonic: '+a.sonic+'</li>';
 					doc += '<li>Description: '+a.description;
 					doc += '<ul>';
 					$.each(a.seasons.season, function (i, b) {
