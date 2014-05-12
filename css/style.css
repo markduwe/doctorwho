@@ -12,6 +12,13 @@ body {
 }
 li.doctor {
 	text-transform: capitalize;
+	overflow: hidden;
+}
+li.doctor img {
+	width: 100px;
+	height: auto;
+	float: left;
+	padding: 2px 7px 2px 0;
 }
 h2 {
 	font-size: 22px;

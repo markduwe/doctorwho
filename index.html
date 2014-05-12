@@ -15,11 +15,11 @@ $(function() {
 	var dr = 'doctors.json';
 	$.getJSON(dr, function(data) {
 		var doc = '<ul class="doctors">';
-		doc += '<li class="doctor"><a href="#" data-doctor="'+data[0].json+'">'+data[0].doctor+' Doctors</a></li>';
-		doc += '<li class="doctor"><a href="#" data-doctor="'+data[1].json+'">'+data[1].doctor+' Doctor</a></li>';
-		doc += '<li class="doctor"><a href="#" data-doctor="'+data[2].json+'">'+data[2].doctor+' Doctor</a></li>';
-		doc += '<li class="doctor"><a href="#" data-doctor="'+data[3].json+'">'+data[3].doctor+' Doctor</a></li>';
-		doc += '<li class="doctor"><a href="#" data-doctor="'+data[9].json+'">'+data[9].doctor+' Doctor</a></li>';
+		doc += '<li class="doctor"><a href="#" data-doctor="'+data[0].json+'"><img src="'+data[0].img+'"> '+data[0].doctor+' Doctors</a></li>';
+		doc += '<li class="doctor"><a href="#" data-doctor="'+data[1].json+'"><img src="'+data[1].img+'"> '+data[1].doctor+' Doctor</a></li>';
+		doc += '<li class="doctor"><a href="#" data-doctor="'+data[2].json+'"><img src="'+data[2].img+'"> '+data[2].doctor+' Doctor</a></li>';
+		doc += '<li class="doctor"><a href="#" data-doctor="'+data[3].json+'"><img src="'+data[3].img+'"> '+data[3].doctor+' Doctor</a></li>';
+		doc += '<li class="doctor"><a href="#" data-doctor="'+data[9].json+'"><img src="'+data[9].img+'"> '+data[9].doctor+' Doctor</a></li>';
 		doc += '</ul>'
 		$('#doc').html(doc);
 		$('body').on('click', 'a', function(e){
