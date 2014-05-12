@@ -12,7 +12,7 @@
 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script>
 $(function() {
-	var dr = 'js/doctors.json';
+	var dr = 'doctors.json';
 	$.getJSON(dr, function(data) {
 		var doc = '<ul class="doctors">';
 		doc += '<li class="doctor"><a href="#" data-doctor="'+data[0].json+'">'+data[0].doctor+' Doctor</a></li>';
