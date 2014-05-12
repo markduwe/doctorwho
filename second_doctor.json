@@ -2035,13 +2035,18 @@
 								}	
 							}, {
 								"name": "The Krotons",
-								"airdate": "",
-								"production_code": "",
+								"airdate": "28 December 1968 - 18 January 1969",
+								"production_code": "WW",
 								"overview": "On an unnamed planet, a race called the Gonds are subject to the mysterious Krotons, unseen beings to whom they provide their brightest members as \"companions\". ",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Zoe Heriot",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -2051,10 +2056,19 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "The Krotons",
 											"actor": [
 												{
-													"name": " "
+													"name": "Robert La'Bassiere"
+												}, {
+													"name": "Miles Northover"
+												}
+											]
+										}, {
+											"enemy": "Eelek",
+											"actor": [
+												{
+													"name": "Philip Madoc"
 												}
 											]
 										}
@@ -2063,14 +2077,47 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "16/35mm t/r",
+											"name": "Episode 1",
+											"airdate": "28 December 1968",
+											"overview": "For centuries the alien Krotons have hidden inside their Machine in the Hall of Learning, educating a small settlement of Gonds and selecting the two best students of each graduating class to become their Companions. This is seen as a great honour – until the Doctor and his friends arrive and discover that the Companions are in fact being killed. This revelation rocks Gond society to its foundations, and while the ambitious councillor Eelek seizes the opportunity to stage a coup and grasp power for himself, the Doctor and his friends investigate the Krotons' true agenda. Unfortunately, while doing so the Doctor and Zoe inadvertently wake the Krotons, crystalline conquerors who have been dormant for centuries waiting for the Gonds to become intelligent enough to provide them with the mental energy they need to power their spacecraft. And now that the Doctor and Zoe have arrived, they'll do nicely.",
+											"director": "David Maloney",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "4 January 1969",
+											"overview": "For centuries the alien Krotons have hidden inside their Machine in the Hall of Learning, educating a small settlement of Gonds and selecting the two best students of each graduating class to become their Companions. This is seen as a great honour – until the Doctor and his friends arrive and discover that the Companions are in fact being killed. This revelation rocks Gond society to its foundations, and while the ambitious councillor Eelek seizes the opportunity to stage a coup and grasp power for himself, the Doctor and his friends investigate the Krotons' true agenda. Unfortunately, while doing so the Doctor and Zoe inadvertently wake the Krotons, crystalline conquerors who have been dormant for centuries waiting for the Gonds to become intelligent enough to provide them with the mental energy they need to power their spacecraft. And now that the Doctor and Zoe have arrived, they'll do nicely.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "11 January 1969",
+											"overview": "For centuries the alien Krotons have hidden inside their Machine in the Hall of Learning, educating a small settlement of Gonds and selecting the two best students of each graduating class to become their Companions. This is seen as a great honour – until the Doctor and his friends arrive and discover that the Companions are in fact being killed. This revelation rocks Gond society to its foundations, and while the ambitious councillor Eelek seizes the opportunity to stage a coup and grasp power for himself, the Doctor and his friends investigate the Krotons' true agenda. Unfortunately, while doing so the Doctor and Zoe inadvertently wake the Krotons, crystalline conquerors who have been dormant for centuries waiting for the Gonds to become intelligent enough to provide them with the mental energy they need to power their spacecraft. And now that the Doctor and Zoe have arrived, they'll do nicely.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 4",
+											"airdate": "18 January 1969",
+											"overview": "For centuries the alien Krotons have hidden inside their Machine in the Hall of Learning, educating a small settlement of Gonds and selecting the two best students of each graduating class to become their Companions. This is seen as a great honour – until the Doctor and his friends arrive and discover that the Companions are in fact being killed. This revelation rocks Gond society to its foundations, and while the ambitious councillor Eelek seizes the opportunity to stage a coup and grasp power for himself, the Doctor and his friends investigate the Krotons' true agenda. Unfortunately, while doing so the Doctor and Zoe inadvertently wake the Krotons, crystalline conquerors who have been dormant for centuries waiting for the Gonds to become intelligent enough to provide them with the mental energy they need to power their spacecraft. And now that the Doctor and Zoe have arrived, they'll do nicely.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Robert Holmes"
 												}
 											]
 										}
