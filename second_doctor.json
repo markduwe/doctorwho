@@ -246,17 +246,66 @@
 													"name": "Gerry Davis"
 												}
 											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 2",
+											"airdate": "24 December 1966",
+											"overview": "The TARDIS materialises on Culloden Moor just after the rout of the Jacobite rebels in 1745. The British army is mopping up survivors, and when they find the Doctor and Ben in the company of rebels they are accused of desertion and arrested. They are saved from execution by Solicitor Grey, the Commissioner of Prisons – but he has his own agenda for the prisoners. Imprisoned in Inverness, the Doctor realises that Grey is running a scam of his own, removing rebels from the prisons with the promise that they will be saved from execution if they sign contracts binding them to service in the Jamaican plantations. In short, he's a slave trader. While the Doctor and Ben try to find a way to escape and help their new friends, Polly and Kirsty MacLaren, whose father has been kidnapped by Grey, blackmail an English officer into helping them locate their kidnapped friends and family. The Doctor and his companions must then find their way back to the TARDIS through a battlefield, and the young Highland piper who helps them, Jamie McCrimmon, accompanies them on their travels.",
+											"director": "Hugh David",
+											"writers": [
+												{
+													"name": "Elwyn Jones"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 3",
+											"airdate": "31 December 1966",
+											"overview": "The TARDIS materialises on Culloden Moor just after the rout of the Jacobite rebels in 1745. The British army is mopping up survivors, and when they find the Doctor and Ben in the company of rebels they are accused of desertion and arrested. They are saved from execution by Solicitor Grey, the Commissioner of Prisons – but he has his own agenda for the prisoners. Imprisoned in Inverness, the Doctor realises that Grey is running a scam of his own, removing rebels from the prisons with the promise that they will be saved from execution if they sign contracts binding them to service in the Jamaican plantations. In short, he's a slave trader. While the Doctor and Ben try to find a way to escape and help their new friends, Polly and Kirsty MacLaren, whose father has been kidnapped by Grey, blackmail an English officer into helping them locate their kidnapped friends and family. The Doctor and his companions must then find their way back to the TARDIS through a battlefield, and the young Highland piper who helps them, Jamie McCrimmon, accompanies them on their travels.",
+											"director": "Hugh David",
+											"writers": [
+												{
+													"name": "Elwyn Jones"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "7 January 1967",
+											"overview": "The TARDIS materialises on Culloden Moor just after the rout of the Jacobite rebels in 1745. The British army is mopping up survivors, and when they find the Doctor and Ben in the company of rebels they are accused of desertion and arrested. They are saved from execution by Solicitor Grey, the Commissioner of Prisons – but he has his own agenda for the prisoners. Imprisoned in Inverness, the Doctor realises that Grey is running a scam of his own, removing rebels from the prisons with the promise that they will be saved from execution if they sign contracts binding them to service in the Jamaican plantations. In short, he's a slave trader. While the Doctor and Ben try to find a way to escape and help their new friends, Polly and Kirsty MacLaren, whose father has been kidnapped by Grey, blackmail an English officer into helping them locate their kidnapped friends and family. The Doctor and his companions must then find their way back to the TARDIS through a battlefield, and the young Highland piper who helps them, Jamie McCrimmon, accompanies them on their travels.",
+											"director": "Hugh David",
+											"writers": [
+												{
+													"name": "Elwyn Jones"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
 										}
 									]
 								}	
 							}, {
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "The Underwater Menace",
+								"airdate": "14 January 1967 - 4 February 1967",
+								"production_code": "GG",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Jamie McCrimmon",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -266,10 +315,10 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "Professor Zaroff",
 											"actor": [
 												{
-													"name": " "
+													"name": "Joseph Fürst"
 												}
 											]
 										}
@@ -278,27 +327,70 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "14 January 1967",
+											"overview": "The Doctor and his friends materialise on a volcanic island, where they are kidnapped by natives of an underground civilisation. To the Doctor's great surprise, these are the survivors of Atlantis – and the famous Professor Zaroff, thought to have died twenty years ago, is amongst them. Zaroff has provided the Atlanteans with a new source of food, has taught them how to surgically convert their slave caste into Fish People who can survive underwater, and has promised to raise Atlantis from the waves. Only the Doctor realises that Zaroff is mad, and that his \"plan\" to raise Atlantis will in fact result in the destruction of the Earth.",
+											"director": "Julia Smith",
 											"writers": [
 												{
-													"name": ""
+													"name": "Geoffrey Orme"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "21 January 1967",
+											"overview": "The Doctor and his friends materialise on a volcanic island, where they are kidnapped by natives of an underground civilisation. To the Doctor's great surprise, these are the survivors of Atlantis – and the famous Professor Zaroff, thought to have died twenty years ago, is amongst them. Zaroff has provided the Atlanteans with a new source of food, has taught them how to surgically convert their slave caste into Fish People who can survive underwater, and has promised to raise Atlantis from the waves. Only the Doctor realises that Zaroff is mad, and that his \"plan\" to raise Atlantis will in fact result in the destruction of the Earth.",
+											"director": "Julia Smith",
+											"writers": [
+												{
+													"name": "Geoffrey Orme"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "28 January 1967",
+											"overview": "The Doctor and his friends materialise on a volcanic island, where they are kidnapped by natives of an underground civilisation. To the Doctor's great surprise, these are the survivors of Atlantis – and the famous Professor Zaroff, thought to have died twenty years ago, is amongst them. Zaroff has provided the Atlanteans with a new source of food, has taught them how to surgically convert their slave caste into Fish People who can survive underwater, and has promised to raise Atlantis from the waves. Only the Doctor realises that Zaroff is mad, and that his \"plan\" to raise Atlantis will in fact result in the destruction of the Earth.",
+											"director": "Julia Smith",
+											"writers": [
+												{
+													"name": "Geoffrey Orme"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "4 February 1967",
+											"overview": "The Doctor and his friends materialise on a volcanic island, where they are kidnapped by natives of an underground civilisation. To the Doctor's great surprise, these are the survivors of Atlantis – and the famous Professor Zaroff, thought to have died twenty years ago, is amongst them. Zaroff has provided the Atlanteans with a new source of food, has taught them how to surgically convert their slave caste into Fish People who can survive underwater, and has promised to raise Atlantis from the waves. Only the Doctor realises that Zaroff is mad, and that his \"plan\" to raise Atlantis will in fact result in the destruction of the Earth.",
+											"director": "Julia Smith",
+											"writers": [
+												{
+													"name": "Geoffrey Orme"
 												}
 											]
 										}
 									]
 								}	
 							}, {
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "The Moonbase",
+								"airdate": "11 February 1967 - 4 March 1967",
+								"production_code": "HH",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Jamie McCrimmon",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -308,10 +400,18 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "Cybermen",
 											"actor": [
 												{
-													"name": " "
+													"name": "John Wills"
+												}, {
+													"name": "Sonnie Willis"
+												}, {
+													"name": "Peter Greene"
+												}, {
+													"name": "Keith Goodman"
+												}, {
+													"name": "Reg Whitehead"
 												}
 											]
 										}
@@ -320,27 +420,78 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "11 February 1967",
+											"overview": "Trying to take his companions to Mars, the Doctor instead ends up on the Moon in the year 2070. Earth's weather is controlled by means of gravity waves directed from an internationally-run Moonbase, but the staff of the Moonbase are suffering from a mysterious outbreak of plague, and moments after the Doctor and his friends enter the entire Moonbase is placed under quarantine. The Doctor offers to help find a cure for the plague, which he suspects is no plague at all – and he's right. The base's food supplies have in fact been poisoned by Cybermen from the colony world Telos, who intend to seize control of the Graviton and use it to destroy the Earth – not as revenge for the destruction of Mondas, but simply and logically to eliminate a potential threat.",
+											"director": "Morris Barry",
 											"writers": [
 												{
-													"name": ""
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "18 February 1967",
+											"overview": "Trying to take his companions to Mars, the Doctor instead ends up on the Moon in the year 2070. Earth's weather is controlled by means of gravity waves directed from an internationally-run Moonbase, but the staff of the Moonbase are suffering from a mysterious outbreak of plague, and moments after the Doctor and his friends enter the entire Moonbase is placed under quarantine. The Doctor offers to help find a cure for the plague, which he suspects is no plague at all – and he's right. The base's food supplies have in fact been poisoned by Cybermen from the colony world Telos, who intend to seize control of the Graviton and use it to destroy the Earth – not as revenge for the destruction of Mondas, but simply and logically to eliminate a potential threat.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 3",
+											"airdate": "25 February 1967",
+											"overview": "Trying to take his companions to Mars, the Doctor instead ends up on the Moon in the year 2070. Earth's weather is controlled by means of gravity waves directed from an internationally-run Moonbase, but the staff of the Moonbase are suffering from a mysterious outbreak of plague, and moments after the Doctor and his friends enter the entire Moonbase is placed under quarantine. The Doctor offers to help find a cure for the plague, which he suspects is no plague at all – and he's right. The base's food supplies have in fact been poisoned by Cybermen from the colony world Telos, who intend to seize control of the Graviton and use it to destroy the Earth – not as revenge for the destruction of Mondas, but simply and logically to eliminate a potential threat.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 4",
+											"airdate": "4 March 1967",
+											"overview": "Trying to take his companions to Mars, the Doctor instead ends up on the Moon in the year 2070. Earth's weather is controlled by means of gravity waves directed from an internationally-run Moonbase, but the staff of the Moonbase are suffering from a mysterious outbreak of plague, and moments after the Doctor and his friends enter the entire Moonbase is placed under quarantine. The Doctor offers to help find a cure for the plague, which he suspects is no plague at all – and he's right. The base's food supplies have in fact been poisoned by Cybermen from the colony world Telos, who intend to seize control of the Graviton and use it to destroy the Earth – not as revenge for the destruction of Mondas, but simply and logically to eliminate a potential threat.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
 												}
 											]
 										}
 									]
 								}	
 							}, {
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "The Macra Terror",
+								"airdate": "11 March 1967 - 1 April 1967",
+								"production_code": "JJ",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Jamie McCrimmon",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -350,10 +501,10 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "The Macra",
 											"actor": [
 												{
-													"name": " "
+													"name": "Robert Jewell"
 												}
 											]
 										}
@@ -362,27 +513,70 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "11 March 1967",
+											"overview": "The TARDIS materialises in a human colony which is run like a giant holiday camp, where everybody is happy all round and fun and games are the order of the day. But a madman named Medok claims that the camp is stalked at night by hideous monsters, and as the Doctor learns more about the camp he realises that the people here risk their lives daily to mine a dangerously toxic natural gas – and yet nobody knows what it's for. His investigation attempt hits a snag when Ben is brainwashed by the colony's subliminal conditioning, and turns in his friends for acting against colony interests. In fact, the colony is under the control of the Macra, giant crab-like insects who are using the brainwashed humans to mine the gas they need to survive. It's up to the Doctor and his friends to prove the truth and free the colonists from a slavery they don't even know they're suffering.",
+											"director": "John Howard Davies",
 											"writers": [
 												{
-													"name": ""
+													"name": "Ian Stuart Black"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 2",
+											"airdate": "18 March 1967",
+											"overview": "The TARDIS materialises in a human colony which is run like a giant holiday camp, where everybody is happy all round and fun and games are the order of the day. But a madman named Medok claims that the camp is stalked at night by hideous monsters, and as the Doctor learns more about the camp he realises that the people here risk their lives daily to mine a dangerously toxic natural gas – and yet nobody knows what it's for. His investigation attempt hits a snag when Ben is brainwashed by the colony's subliminal conditioning, and turns in his friends for acting against colony interests. In fact, the colony is under the control of the Macra, giant crab-like insects who are using the brainwashed humans to mine the gas they need to survive. It's up to the Doctor and his friends to prove the truth and free the colonists from a slavery they don't even know they're suffering.",
+											"director": "John Howard Davies",
+											"writers": [
+												{
+													"name": "Ian Stuart Black"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 3",
+											"airdate": "25 March 1967",
+											"overview": "The TARDIS materialises in a human colony which is run like a giant holiday camp, where everybody is happy all round and fun and games are the order of the day. But a madman named Medok claims that the camp is stalked at night by hideous monsters, and as the Doctor learns more about the camp he realises that the people here risk their lives daily to mine a dangerously toxic natural gas – and yet nobody knows what it's for. His investigation attempt hits a snag when Ben is brainwashed by the colony's subliminal conditioning, and turns in his friends for acting against colony interests. In fact, the colony is under the control of the Macra, giant crab-like insects who are using the brainwashed humans to mine the gas they need to survive. It's up to the Doctor and his friends to prove the truth and free the colonists from a slavery they don't even know they're suffering.",
+											"director": "John Howard Davies",
+											"writers": [
+												{
+													"name": "Ian Stuart Black"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "1 April 1967",
+											"overview": "The TARDIS materialises in a human colony which is run like a giant holiday camp, where everybody is happy all round and fun and games are the order of the day. But a madman named Medok claims that the camp is stalked at night by hideous monsters, and as the Doctor learns more about the camp he realises that the people here risk their lives daily to mine a dangerously toxic natural gas – and yet nobody knows what it's for. His investigation attempt hits a snag when Ben is brainwashed by the colony's subliminal conditioning, and turns in his friends for acting against colony interests. In fact, the colony is under the control of the Macra, giant crab-like insects who are using the brainwashed humans to mine the gas they need to survive. It's up to the Doctor and his friends to prove the truth and free the colonists from a slavery they don't even know they're suffering.",
+											"director": "John Howard Davies",
+											"writers": [
+												{
+													"name": "Ian Stuart Black"
 												}
 											]
 										}
 									]
 								}	
 							}, {
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "The Faceless Ones",
+								"airdate": "8 April 1967 - 13 May 1967",
+								"production_code": "KK",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Polly",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}, { 
+											"character": "Jamie McCrimmon",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -392,10 +586,14 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "The Chameleons",
 											"actor": [
 												{
-													"name": " "
+													"name": "George Selway"
+												}, {
+													"name": "Victor Winding"
+												}, {
+													"name": "Donald Pickering"
 												}
 											]
 										}
@@ -404,14 +602,81 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "16mm t/r",
+											"name": "Episode 1",
+											"airdate": "8 April 1967",
+											"overview": "The TARDIS materialises on a runway at Gatwick Airport, and when the Doctor and his friends scatter to avoid policemen, Polly witnesses a murder in an airplane hangar. She tells the Doctor, but is then kidnapped – and reappears shortly afterwards, bearing a passport from Zurich and claiming to have no idea who the Doctor is. Jamie meets a young woman named Samantha who's looking for her missing brother, and when a detective from Scotland Yard shows up looking for his missing colleague, the airport Commandant is forced to concede that something very odd is going on. The Doctor soon discovers that \"Chameleon Tours\", ostensibly offering cheap package tours for students and hitch-hiking youths, is in fact a front for a massive kidnapping operation. The alien Chameleons, who lost their personal identities in a cosmic accident, intend to steal the identities of the thousands of kidnapped youths, and the Doctor and his friends must stop them. When the situation is resolved, Ben and Polly discover that this is the very day on which they began travelling with the First Doctor, and choose to remain in London.",
+											"director": "Gerry Mill",
 											"writers": [
 												{
-													"name": ""
+													"name": "David Ellis"
+												}, {
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 2",
+											"airdate": "15 April 1967",
+											"overview": "The TARDIS materialises on a runway at Gatwick Airport, and when the Doctor and his friends scatter to avoid policemen, Polly witnesses a murder in an airplane hangar. She tells the Doctor, but is then kidnapped – and reappears shortly afterwards, bearing a passport from Zurich and claiming to have no idea who the Doctor is. Jamie meets a young woman named Samantha who's looking for her missing brother, and when a detective from Scotland Yard shows up looking for his missing colleague, the airport Commandant is forced to concede that something very odd is going on. The Doctor soon discovers that \"Chameleon Tours\", ostensibly offering cheap package tours for students and hitch-hiking youths, is in fact a front for a massive kidnapping operation. The alien Chameleons, who lost their personal identities in a cosmic accident, intend to steal the identities of the thousands of kidnapped youths, and the Doctor and his friends must stop them. When the situation is resolved, Ben and Polly discover that this is the very day on which they began travelling with the First Doctor, and choose to remain in London.",
+											"director": "Gerry Mill",
+											"writers": [
+												{
+													"name": "David Ellis"
+												}, {
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "22 April 1967",
+											"overview": "The TARDIS materialises on a runway at Gatwick Airport, and when the Doctor and his friends scatter to avoid policemen, Polly witnesses a murder in an airplane hangar. She tells the Doctor, but is then kidnapped – and reappears shortly afterwards, bearing a passport from Zurich and claiming to have no idea who the Doctor is. Jamie meets a young woman named Samantha who's looking for her missing brother, and when a detective from Scotland Yard shows up looking for his missing colleague, the airport Commandant is forced to concede that something very odd is going on. The Doctor soon discovers that \"Chameleon Tours\", ostensibly offering cheap package tours for students and hitch-hiking youths, is in fact a front for a massive kidnapping operation. The alien Chameleons, who lost their personal identities in a cosmic accident, intend to steal the identities of the thousands of kidnapped youths, and the Doctor and his friends must stop them. When the situation is resolved, Ben and Polly discover that this is the very day on which they began travelling with the First Doctor, and choose to remain in London.",
+											"director": "Gerry Mill",
+											"writers": [
+												{
+													"name": "David Ellis"
+												}, {
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "29 April 1967",
+											"overview": "The TARDIS materialises on a runway at Gatwick Airport, and when the Doctor and his friends scatter to avoid policemen, Polly witnesses a murder in an airplane hangar. She tells the Doctor, but is then kidnapped – and reappears shortly afterwards, bearing a passport from Zurich and claiming to have no idea who the Doctor is. Jamie meets a young woman named Samantha who's looking for her missing brother, and when a detective from Scotland Yard shows up looking for his missing colleague, the airport Commandant is forced to concede that something very odd is going on. The Doctor soon discovers that \"Chameleon Tours\", ostensibly offering cheap package tours for students and hitch-hiking youths, is in fact a front for a massive kidnapping operation. The alien Chameleons, who lost their personal identities in a cosmic accident, intend to steal the identities of the thousands of kidnapped youths, and the Doctor and his friends must stop them. When the situation is resolved, Ben and Polly discover that this is the very day on which they began travelling with the First Doctor, and choose to remain in London.",
+											"director": "Gerry Mill",
+											"writers": [
+												{
+													"name": "David Ellis"
+												}, {
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 5",
+											"airdate": "6 May 1967",
+											"overview": "The TARDIS materialises on a runway at Gatwick Airport, and when the Doctor and his friends scatter to avoid policemen, Polly witnesses a murder in an airplane hangar. She tells the Doctor, but is then kidnapped – and reappears shortly afterwards, bearing a passport from Zurich and claiming to have no idea who the Doctor is. Jamie meets a young woman named Samantha who's looking for her missing brother, and when a detective from Scotland Yard shows up looking for his missing colleague, the airport Commandant is forced to concede that something very odd is going on. The Doctor soon discovers that \"Chameleon Tours\", ostensibly offering cheap package tours for students and hitch-hiking youths, is in fact a front for a massive kidnapping operation. The alien Chameleons, who lost their personal identities in a cosmic accident, intend to steal the identities of the thousands of kidnapped youths, and the Doctor and his friends must stop them. When the situation is resolved, Ben and Polly discover that this is the very day on which they began travelling with the First Doctor, and choose to remain in London.",
+											"director": "Gerry Mill",
+											"writers": [
+												{
+													"name": "David Ellis"
+												}, {
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 6",
+											"airdate": "13 May 1967",
+											"overview": "The TARDIS materialises on a runway at Gatwick Airport, and when the Doctor and his friends scatter to avoid policemen, Polly witnesses a murder in an airplane hangar. She tells the Doctor, but is then kidnapped – and reappears shortly afterwards, bearing a passport from Zurich and claiming to have no idea who the Doctor is. Jamie meets a young woman named Samantha who's looking for her missing brother, and when a detective from Scotland Yard shows up looking for his missing colleague, the airport Commandant is forced to concede that something very odd is going on. The Doctor soon discovers that \"Chameleon Tours\", ostensibly offering cheap package tours for students and hitch-hiking youths, is in fact a front for a massive kidnapping operation. The alien Chameleons, who lost their personal identities in a cosmic accident, intend to steal the identities of the thousands of kidnapped youths, and the Doctor and his friends must stop them. When the situation is resolved, Ben and Polly discover that this is the very day on which they began travelling with the First Doctor, and choose to remain in London.",
+											"director": "Gerry Mill",
+											"writers": [
+												{
+													"name": "David Ellis"
+												}, {
+													"name": "Malcolm Hulke"
 												}
 											]
 										}
