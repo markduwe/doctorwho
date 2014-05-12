@@ -65,7 +65,13 @@
 										{
 											"name": "Original Pilot, version 1",
 											"airdate": "26 August 1991",
-											"overview": "The first episode, \"An Unearthly Child\", was originally recorded a month before full recording on the series began. However, the initial recording was bedevilled with technical problems and errors made during the performance.  Two versions of the scene set in the TARDIS were recorded, along with an aborted first attempt to start the second version."
+											"overview": "The first episode, \"An Unearthly Child\", was originally recorded a month before full recording on the series began. However, the initial recording was bedevilled with technical problems and errors made during the performance.  Two versions of the scene set in the TARDIS were recorded, along with an aborted first attempt to start the second version.",
+											"director": "Waris Hussein",
+											"writers": [
+												{
+													"name": "Anthony Coburn"
+												}
+											]
 										}, {
 											"name": "Original Pilot, version 2",
 											"airdate": "unaired",
