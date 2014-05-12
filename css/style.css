@@ -66,3 +66,6 @@ em {
 	font-weight: 300;
 	font-style: italic;
 }
+ul.doctor, ul.season, ul.episode, h2, h4 {
+	cursor: pointer;
+}
