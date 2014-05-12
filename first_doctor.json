@@ -2642,6 +2642,16 @@
 													"name": "Nicholas Pegg"
 												}
 											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
 										}
 									]
 								},
@@ -2650,17 +2660,11 @@
 										{
 											"name": "The Day of the Doctor",
 											"airdate": "23 November 2013",
-											"overview": "",
-											"director": "",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
 											"writers": [
 												{
-													"name": ""
-												}
-											],
-											"director": "",
-											"writers": [
-												{
-													"name": ""
+													"name": "Steven Moffat"
 												}
 											]
 										}
@@ -2850,7 +2854,12 @@
 											"name": "The Five Doctors",
 											"airdate": "25 November 1983",
 											"overview": "Gallifrey, planet of the Time Lords. The Death Zone, where the ancient Gallifreyans once staged gladiatorial games between alien races from throughout the universe, has been reactivated. No less than three of the Doctor's former incarnations and several of his companions are brought here. But why? And who is the Player in the Game of Rassilon?",
-											"director": "Peter Moffatt"
+											"director": "Peter Moffatt",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
 										}
 									]
 								}	
