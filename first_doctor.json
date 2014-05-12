@@ -51,10 +51,10 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": " ",
 											"actor": [
 												{
-													"name": ""
+													"name": " "
 												}
 											]
 										}
@@ -63,6 +63,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "Original Pilot, version 1",
 											"airdate": "26 August 1991",
 											"overview": "The first episode, \"An Unearthly Child\", was originally recorded a month before full recording on the series began. However, the initial recording was bedevilled with technical problems and errors made during the performance.  Two versions of the scene set in the TARDIS were recorded, along with an aborted first attempt to start the second version.",
@@ -73,6 +74,7 @@
 												}
 											]
 										}, {
+											"archive": "16mm t/r",
 											"name": "Original Pilot, version 2",
 											"airdate": "unaired",
 											"overview": "An unedited studio recording of the pilot \"An Unearthly Child\", including all takes of the second part of the show.",
@@ -124,6 +126,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "An Unearthly Child",
 											"airdate": "23 November 1963",
 											"overview": "London, 1963. Schoolteachers Ian Chesterton and Barbara Wright are perplexed by the behaviour of one of their pupils, Susan Foreman. Her knowledge of science and history exceeds theirs, yet she seems totally ignorant of many common aspects of everyday life. They follow her to her home address, a junkyard with a police telephone box standing in it, and encounter her grandfather, the enigmatic Doctor. When they force their way past him into the police box, Susan's secret is revealed: she and the Doctor are aliens, and the police box is a time machine, the TARDIS, capable of visiting any point in the universe at any moment in time…",
@@ -134,6 +137,7 @@
 												}
 											]
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Cave of Skulls",
 											"airdate": "30 November 1963",
 											"overview": "Earth, 100,000 B.C. The enigmatic Doctor, afraid that schoolteachers Ian Chesterton and Barbara Wright will reveal his secrets to the people of 20th century Earth, has taken them and his granddaughter Susan back to the dawn of human history. There, the four travellers are dragged into the savage politics of a tribe of cavemen who have lost the secret of making fire…",
@@ -144,6 +148,7 @@
 												}
 											]
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Forest of Fear",
 											"airdate": "7 December 1963",
 											"overview": "Prisoners of the earliest humans, the TARDIS crew are caught in a deadly power play for leadership of the tribe.",
@@ -154,6 +159,7 @@
 												}
 											]
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Firemaker",
 											"airdate": "14 December 1963",
 											"overview": "The TARDIS crew must make fire for the early humans to stay alive. But once they do, they may not be allowed to leave!",
@@ -214,6 +220,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Dead Planet, original recorded version",
 											"airdate": "Unaired",
 											"overview": "Time Unknown, Planet Unknown. The TARDIS lands in an eerie petrified forest overlooking a magnificent steel city.  The Doctor wants to explore the city – but what is waiting there?",
@@ -225,6 +232,7 @@
 											]
 
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Dead Planet, remounted version",
 											"airdate": "21 December 1963",
 											"overview": "Time Unknown, Planet Unknown. The TARDIS lands in an eerie petrified forest overlooking a magnificent steel city.  The Doctor wants to explore the city – but what is waiting there?",
@@ -236,6 +244,7 @@
 											]
 
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Survivors",
 											"airdate": "28 December 1963",
 											"overview": "The dead planet is not uninhabited after all. The Doctor is about to meet what will become his greatest enemies. And he and his crew are dying of radiation sickness.",
@@ -247,6 +256,7 @@
 											]
 
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Escape",
 											"airdate": "4 January 1964",
 											"overview": "Imprisoned on Skaro by the scheming Daleks, the Doctor and his companions work to escape their clutches.",
@@ -258,6 +268,7 @@
 											]
 
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Ambush",
 											"airdate": "11 January 1964",
 											"overview": "The time travellers work desperately to both escape the Dalek city and prevent a bloody massacre.",
@@ -269,6 +280,7 @@
 											]
 
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Expedition",
 											"airdate": "18 January 1964",
 											"overview": "The time travellers have escaped from the Daleks, but left a vital piece of the TARDIS behind. Getting it back will mean pushing the Thals to mount a dangerous operation.",
@@ -280,6 +292,7 @@
 											]
 
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Ordeal",
 											"airdate": "25 January 1964",
 											"overview": "Ian, Barbara and the Thals struggle through the caves to reach the Dalek city. Will they get there in time? Is there even a way through the treacherous caves? And what are the Daleks planning?",
@@ -291,6 +304,7 @@
 											]
 
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Rescue",
 											"airdate": "1 February 1964",
 											"overview": "Time is running out as the Doctor and his companions try to defeat the Daleks before they wipe out all life on Skaro.",
@@ -330,10 +344,10 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": " ",
 											"actor": [
 												{
-													"name": ""
+													"name": " "
 												}
 											]
 										}
@@ -342,6 +356,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Edge of Destruction",
 											"airdate": "8 February 1964",
 											"overview": "A mysterious explosion has knocked the TARDIS into void. And in their confusion, the crew are turning on one another.",
@@ -352,6 +367,7 @@
 												}
 											]
 										}, {
+											"archive": "16mm t/r",
 											"name": "The Brink of Disaster",
 											"airdate": "15 February 1964",
 											"overview": "The TARDIS is adrift, the crew turning on each other. Only by working together can they find their way out before they are destroyed.",
@@ -403,6 +419,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Roof of the World",
 											"airdate": "22 February 1964",
 											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan...",
@@ -413,6 +430,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Singing Sands",
 											"airdate": "29 February 1964",
 											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan...",
@@ -423,6 +441,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Five Hundred Eyes",
 											"airdate": "7 March 1964",
 											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan...",
@@ -433,6 +452,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Wall of Lies",
 											"airdate": "14 March 1964",
 											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan...",
@@ -443,6 +463,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Rider From Shang-Tu",
 											"airdate": "21 March 1964",
 											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan...",
@@ -453,6 +474,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Mighty Kublai Khan",
 											"airdate": "28 March 1964",
 											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan...",
@@ -463,6 +485,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Assassin at Peking",
 											"airdate": "4 April 1964",
 											"overview": "The TARDIS experiences a total power failure and is stranded in the Himalayas in the 13th century. The travellers are forced to join the caravan of the famous explorer, Marco Polo, in order to survive -- but Polo, fascinated by their claims that the TARDIS can fly through the air, seizes it on behalf of Kublai Khan in the hope that presenting the Khan with such a fabulous gift will convince him to let Polo return home to Venice. The travellers are forced to accompany Polo on his long trek across Asia to the Khan's court, but their many attempts to reclaim their property are foiled -- not just by Polo, but by the war lord Tegana, who is apparently on a mission of peace but has entirely different plans for dealing with Kublai Khan...",
@@ -525,6 +548,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Sea of Death",
 											"airdate": "11 April 1964",
 											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way...",
@@ -535,6 +559,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Velvet Web",
 											"airdate": "18 April 1964",
 											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way...",
@@ -545,6 +570,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Screaming Jungle",
 											"airdate": "25 April 1964",
 											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way...",
@@ -555,6 +581,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Snows of Terror",
 											"airdate": "2 May 1964",
 											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way...",
@@ -565,6 +592,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Sentence of Death",
 											"airdate": "9 May 1964",
 											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way...",
@@ -575,6 +603,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Keys of Marinus",
 											"airdate": "16 May 1964",
 											"overview": "The alien world of Marinus. Perfect peace has reigned here for decades due to the mind-controlling influence of a machine known as the Conscience. But now a race known as the Voord have developed an immunity and Arbitan, keeper of the machine, has been forced to scatter the vital control keys around the planet. Now he needs the help of the time travellers to get them back - it will be an extraordinary journey, with perils every step of the way...",
@@ -626,6 +655,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Temple of Evil",
 											"airdate": "23 May 1964",
 											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?",
@@ -636,6 +666,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Warriors of Death",
 											"airdate": "30 May 1964",
 											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?",
@@ -646,6 +677,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Bride of Sacrifice",
 											"airdate": "6 June 1964",
 											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?",
@@ -656,6 +688,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Day of Darkness",
 											"airdate": "13 June 1964",
 											"overview": "Mexico, the early 15th century.The TARDIS arrives in the tomb of former Aztec High Priest Yetaxa. The travellers become cut off from the ship when they go and explore the temple outside. Barbara is acclaimed by the High Priest of Knowledge, Autloc, as Yetaxa's divine reincarnation. However, she incurs the wrath of the High Priest of Sacrifice, Tlotoxl, when she attempts to use her new-found authority to stop the Aztec practice of human sacrifice. Can Barbara change the course of history and save the Aztecs? Can the time travellers find a way back into the tomb? Or will they fall victim to Tlotoxl's altar of sacrifice?",
@@ -707,6 +740,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "Strangers in Space",
 											"airdate": "20 June 1964",
 											"overview": "The 28th century. The TARDIS materialises on a spaceship orbiting a planet known as the Sense-Sphere, whose natives, the Sensorites, have trapped the ship's human crew in a state of paralysis.",
@@ -717,6 +751,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Unwilling Warriors",
 											"airdate": "27 June 1964",
 											"overview": "The Doctor and his companions are on board an Earth ship trapped in orbit around the Sense-Sphere when it is boarded by the Sensorites, who steal the lock mechanism from the TARDIS.",
@@ -727,6 +762,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Hidden Danger",
 											"airdate": "11 July 1964",
 											"overview": "The Doctor and his companions are escorted to the Sense-Sphere where they attempt to negotiate with the Sensorites for the release of the TARDIS.",
@@ -737,6 +773,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "A Race Against Death",
 											"airdate": "18 July 1964",
 											"overview": "Trapped on the Sense-Sphere, Ian is dying from the illness that has been killing the Sensorites and the Doctor tries to find a cure.",
@@ -747,6 +784,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Kidnap",
 											"airdate": "25 July 1964",
 											"overview": "Trapped on the Sense-Sphere, the Doctor's investigations into the cause of the sickness affecting the Sensorites are hampered by the subversive activities of the City Administrator.",
@@ -757,6 +795,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "A Desperate Venture",
 											"airdate": "1 August 1964",
 											"overview": "Trapped on the Sense-Sphere, the Doctor and his companions find three deranged human survivors who have been fighting a guerilla war against the Sensorites.",
@@ -799,7 +838,7 @@
 											"enemy": "French Revolution",
 											"actor":[
 												{
-													"name": ""
+													"name": " "
 												}
 											]
 										}
@@ -808,6 +847,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "A Land of Fear",
 											"airdate": "8 August 1964",
 											"overview": "The Doctor's friends are captured by soldiers in post-Revolutionary France, during the reign of terror in which anyone suspected of Royalist sympathies is immediately executed. Ian is thrown into jail with a dying English prisoner, who gives him a vital message for English master spy James Stirling. Robespierre's right-hand man, Citizen Lemaitre, secretly helps Ian to escape. The Doctor arrives, disguised as a prominent Citizen to arrange for his friends' release, but Lemaitre sees through his guise and threatens to have Susan executed unless the Doctor leads him to the escape route run by Jules Renan. There, Lemaitre reveals himself to be Stirling, and enlists Ian and Barbara's help to complete his mission. So doing, they see Paul Barrass inviting Napoleon Bonaparte to rule the country as part of a triumverate after Robespierre is overthrown. Stirling tries to stop this for the sake of his own country, but he is too late to prevent the mob from turning on Robespierre. Nevertheless he is true to his word and releases Susan, allowing the travellers to escape from Paris.",
@@ -818,6 +858,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Guests of Madame Guillotine",
 											"airdate": "15 August 1964",
 											"overview": "The Doctor's friends are captured by soldiers in post-Revolutionary France, during the reign of terror in which anyone suspected of Royalist sympathies is immediately executed. Ian is thrown into jail with a dying English prisoner, who gives him a vital message for English master spy James Stirling. Robespierre's right-hand man, Citizen Lemaitre, secretly helps Ian to escape. The Doctor arrives, disguised as a prominent Citizen to arrange for his friends' release, but Lemaitre sees through his guise and threatens to have Susan executed unless the Doctor leads him to the escape route run by Jules Renan. There, Lemaitre reveals himself to be Stirling, and enlists Ian and Barbara's help to complete his mission. So doing, they see Paul Barrass inviting Napoleon Bonaparte to rule the country as part of a triumverate after Robespierre is overthrown. Stirling tries to stop this for the sake of his own country, but he is too late to prevent the mob from turning on Robespierre. Nevertheless he is true to his word and releases Susan, allowing the travellers to escape from Paris.",
@@ -828,6 +869,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "A Change of Identity",
 											"airdate": "22 August 1964",
 											"overview": "The Doctor's friends are captured by soldiers in post-Revolutionary France, during the reign of terror in which anyone suspected of Royalist sympathies is immediately executed. Ian is thrown into jail with a dying English prisoner, who gives him a vital message for English master spy James Stirling. Robespierre's right-hand man, Citizen Lemaitre, secretly helps Ian to escape. The Doctor arrives, disguised as a prominent Citizen to arrange for his friends' release, but Lemaitre sees through his guise and threatens to have Susan executed unless the Doctor leads him to the escape route run by Jules Renan. There, Lemaitre reveals himself to be Stirling, and enlists Ian and Barbara's help to complete his mission. So doing, they see Paul Barrass inviting Napoleon Bonaparte to rule the country as part of a triumverate after Robespierre is overthrown. Stirling tries to stop this for the sake of his own country, but he is too late to prevent the mob from turning on Robespierre. Nevertheless he is true to his word and releases Susan, allowing the travellers to escape from Paris.",
@@ -838,6 +880,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Tyrant of France",
 											"airdate": "29 August 1964",
 											"overview": "The Doctor's friends are captured by soldiers in post-Revolutionary France, during the reign of terror in which anyone suspected of Royalist sympathies is immediately executed. Ian is thrown into jail with a dying English prisoner, who gives him a vital message for English master spy James Stirling. Robespierre's right-hand man, Citizen Lemaitre, secretly helps Ian to escape. The Doctor arrives, disguised as a prominent Citizen to arrange for his friends' release, but Lemaitre sees through his guise and threatens to have Susan executed unless the Doctor leads him to the escape route run by Jules Renan. There, Lemaitre reveals himself to be Stirling, and enlists Ian and Barbara's help to complete his mission. So doing, they see Paul Barrass inviting Napoleon Bonaparte to rule the country as part of a triumverate after Robespierre is overthrown. Stirling tries to stop this for the sake of his own country, but he is too late to prevent the mob from turning on Robespierre. Nevertheless he is true to his word and releases Susan, allowing the travellers to escape from Paris.",
@@ -848,6 +891,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "A Bargain of Necessity",
 											"airdate": "5 September 1964",
 											"overview": "The Doctor's friends are captured by soldiers in post-Revolutionary France, during the reign of terror in which anyone suspected of Royalist sympathies is immediately executed. Ian is thrown into jail with a dying English prisoner, who gives him a vital message for English master spy James Stirling. Robespierre's right-hand man, Citizen Lemaitre, secretly helps Ian to escape. The Doctor arrives, disguised as a prominent Citizen to arrange for his friends' release, but Lemaitre sees through his guise and threatens to have Susan executed unless the Doctor leads him to the escape route run by Jules Renan. There, Lemaitre reveals himself to be Stirling, and enlists Ian and Barbara's help to complete his mission. So doing, they see Paul Barrass inviting Napoleon Bonaparte to rule the country as part of a triumverate after Robespierre is overthrown. Stirling tries to stop this for the sake of his own country, but he is too late to prevent the mob from turning on Robespierre. Nevertheless he is true to his word and releases Susan, allowing the travellers to escape from Paris.",
@@ -858,6 +902,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Prisoners of Conciergerie",
 											"airdate": "12 September 1964",
 											"overview": "The Doctor's friends are captured by soldiers in post-Revolutionary France, during the reign of terror in which anyone suspected of Royalist sympathies is immediately executed. Ian is thrown into jail with a dying English prisoner, who gives him a vital message for English master spy James Stirling. Robespierre's right-hand man, Citizen Lemaitre, secretly helps Ian to escape. The Doctor arrives, disguised as a prominent Citizen to arrange for his friends' release, but Lemaitre sees through his guise and threatens to have Susan executed unless the Doctor leads him to the escape route run by Jules Renan. There, Lemaitre reveals himself to be Stirling, and enlists Ian and Barbara's help to complete his mission. So doing, they see Paul Barrass inviting Napoleon Bonaparte to rule the country as part of a triumverate after Robespierre is overthrown. Stirling tries to stop this for the sake of his own country, but he is too late to prevent the mob from turning on Robespierre. Nevertheless he is true to his word and releases Susan, allowing the travellers to escape from Paris.",
@@ -920,6 +965,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "Planet of Giants",
 											"airdate": "31 October 1964",
 											"overview": "Earth, 1964. An accident on landing vastly reduces the TARDIS and the travellers in size. They come across a scheme run by Forester, a ruthless businessman and his misguided scientist colleague Smithers to launch a new insecticide which is capable of destroying the local ecology. Forester is prepared to commit murder to secure the success of this project - can the inch-high travellers somehow foil him?",
@@ -930,6 +976,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Dangerous Journey",
 											"airdate": "7 November 1964",
 											"overview": "Earth, 1964. An accident on landing vastly reduces the TARDIS and the travellers in size. They come across a scheme run by Forester, a ruthless businessman and his misguided scientist colleague Smithers to launch a new insecticide which is capable of destroying the local ecology. Forester is prepared to commit murder to secure the success of this project - can the inch-high travellers somehow foil him?",
@@ -940,6 +987,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Crisis, original recorded version",
 											"airdate": "Unaired",
 											"overview": "Earth, 1964. An accident on landing vastly reduces the TARDIS and the travellers in size. They come across a scheme run by Forester, a ruthless businessman and his misguided scientist colleague Smithers to launch a new insecticide which is capable of destroying the local ecology. Forester is prepared to commit murder to secure the success of this project - can the inch-high travellers somehow foil him?",
@@ -950,6 +998,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Crisis, broadcast version",
 											"airdate": "14 November 1964",
 											"overview": "Earth, 1964. An accident on landing vastly reduces the TARDIS and the travellers in size. They come across a scheme run by Forester, a ruthless businessman and his misguided scientist colleague Smithers to launch a new insecticide which is capable of destroying the local ecology. Forester is prepared to commit murder to secure the success of this project - can the inch-high travellers somehow foil him?",
@@ -960,6 +1009,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Urge to Live, original recorded version",
 											"airdate": "Unaired",
 											"overview": "Earth, 1964. An accident on landing vastly reduces the TARDIS and the travellers in size. They come across a scheme run by Forester, a ruthless businessman and his misguided scientist colleague Smithers to launch a new insecticide which is capable of destroying the local ecology. Forester is prepared to commit murder to secure the success of this project - can the inch-high travellers somehow foil him?",
@@ -1028,6 +1078,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "World's End",
 											"airdate": "21 November 1964",
 											"overview": "The TARDIS materialises in London in mid-22nd century. Dalek invaders are now ruling the Earth with the aid of humans converted into zombie-like \"Robomen\", but they are opposed by a group of resistance fighters. The Doctor and his companions discover that the Daleks have created a large mine in the English countryside for the purpose of removing the Earth's core (using a massive explosive device) and replacing it with a powerful drive system so that they can pilot the planet around the galaxy. Ian manages to create a barrier in the shaft in order to intercept and deflect the bomb. The resulting explosion destroys the Daleks and their mine. The Earth is safe once again! However, Susan has fallen in love with resistance fighter David Campbell, and the Doctor decides to leave her on Earth to find a new life with him. The Doctor continues on his travels with Ian and Barbara.",
@@ -1038,6 +1089,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Daleks",
 											"airdate": "28 November 1964",
 											"overview": "The TARDIS materialises in London in mid-22nd century. Dalek invaders are now ruling the Earth with the aid of humans converted into zombie-like \"Robomen\", but they are opposed by a group of resistance fighters. The Doctor and his companions discover that the Daleks have created a large mine in the English countryside for the purpose of removing the Earth's core (using a massive explosive device) and replacing it with a powerful drive system so that they can pilot the planet around the galaxy. Ian manages to create a barrier in the shaft in order to intercept and deflect the bomb. The resulting explosion destroys the Daleks and their mine. The Earth is safe once again! However, Susan has fallen in love with resistance fighter David Campbell, and the Doctor decides to leave her on Earth to find a new life with him. The Doctor continues on his travels with Ian and Barbara.",
@@ -1048,6 +1100,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Day of Reckoning",
 											"airdate": "5 December 1964",
 											"overview": "The TARDIS materialises in London in mid-22nd century. Dalek invaders are now ruling the Earth with the aid of humans converted into zombie-like \"Robomen\", but they are opposed by a group of resistance fighters. The Doctor and his companions discover that the Daleks have created a large mine in the English countryside for the purpose of removing the Earth's core (using a massive explosive device) and replacing it with a powerful drive system so that they can pilot the planet around the galaxy. Ian manages to create a barrier in the shaft in order to intercept and deflect the bomb. The resulting explosion destroys the Daleks and their mine. The Earth is safe once again! However, Susan has fallen in love with resistance fighter David Campbell, and the Doctor decides to leave her on Earth to find a new life with him. The Doctor continues on his travels with Ian and Barbara.",
@@ -1058,6 +1111,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The End of Tomorrow",
 											"airdate": "12 December 1964",
 											"overview": "The TARDIS materialises in London in mid-22nd century. Dalek invaders are now ruling the Earth with the aid of humans converted into zombie-like \"Robomen\", but they are opposed by a group of resistance fighters. The Doctor and his companions discover that the Daleks have created a large mine in the English countryside for the purpose of removing the Earth's core (using a massive explosive device) and replacing it with a powerful drive system so that they can pilot the planet around the galaxy. Ian manages to create a barrier in the shaft in order to intercept and deflect the bomb. The resulting explosion destroys the Daleks and their mine. The Earth is safe once again! However, Susan has fallen in love with resistance fighter David Campbell, and the Doctor decides to leave her on Earth to find a new life with him. The Doctor continues on his travels with Ian and Barbara.",
@@ -1068,6 +1122,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Waking Ally",
 											"airdate": "19 December 1964",
 											"overview": "The TARDIS materialises in London in mid-22nd century. Dalek invaders are now ruling the Earth with the aid of humans converted into zombie-like \"Robomen\", but they are opposed by a group of resistance fighters. The Doctor and his companions discover that the Daleks have created a large mine in the English countryside for the purpose of removing the Earth's core (using a massive explosive device) and replacing it with a powerful drive system so that they can pilot the planet around the galaxy. Ian manages to create a barrier in the shaft in order to intercept and deflect the bomb. The resulting explosion destroys the Daleks and their mine. The Earth is safe once again! However, Susan has fallen in love with resistance fighter David Campbell, and the Doctor decides to leave her on Earth to find a new life with him. The Doctor continues on his travels with Ian and Barbara.",
@@ -1078,6 +1133,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Flashpoint",
 											"airdate": "26 December 1964",
 											"overview": "The TARDIS materialises in London in mid-22nd century. Dalek invaders are now ruling the Earth with the aid of humans converted into zombie-like \"Robomen\", but they are opposed by a group of resistance fighters. The Doctor and his companions discover that the Daleks have created a large mine in the English countryside for the purpose of removing the Earth's core (using a massive explosive device) and replacing it with a powerful drive system so that they can pilot the planet around the galaxy. Ian manages to create a barrier in the shaft in order to intercept and deflect the bomb. The resulting explosion destroys the Daleks and their mine. The Earth is safe once again! However, Susan has fallen in love with resistance fighter David Campbell, and the Doctor decides to leave her on Earth to find a new life with him. The Doctor continues on his travels with Ian and Barbara.",
@@ -1129,6 +1185,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Powerful Enemy",
 											"airdate": "2 January 1965",
 											"overview": "Sometime in the 25th century, the Doctor and his friends land on the planet Dido and happen across a spaceship (from Earth) that has crash-landed. Its two occupants - a man named Bennett and a young girl called Vicki - are living in fear of a creature called Koquillion, a native of Dido possibly responsible for murdering other members from the spaceship. However, the Doctor realises after a while that Koquillion is in fact Bennett in disguise; it was Bennett who killed the others so as to conceal an earlier murder that he had performed on ship. In a confrontation with Dido humanoid inhabitants Bennett dies as he falls from a cliff. Not wishing the girl Vicki to be alone, the Doctor takes her with him in the TARDIS as a new companion.",
@@ -1139,6 +1196,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Desperate Measures",
 											"airdate": "9 January 1965",
 											"overview": "Sometime in the 25th century, the Doctor and his friends land on the planet Dido and happen across a spaceship (from Earth) that has crash-landed. Its two occupants - a man named Bennett and a young girl called Vicki - are living in fear of a creature called Koquillion, a native of Dido possibly responsible for murdering other members from the spaceship. However, the Doctor realises after a while that Koquillion is in fact Bennett in disguise; it was Bennett who killed the others so as to conceal an earlier murder that he had performed on ship. In a confrontation with Dido humanoid inhabitants Bennett dies as he falls from a cliff. Not wishing the girl Vicki to be alone, the Doctor takes her with him in the TARDIS as a new companion.",
@@ -1190,6 +1248,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Slave Traders",
 											"airdate": "16 January 1965",
 											"overview": "The story begins with the Doctor and his three friends, including new girl Vicki,in the year 64 AD enjoying a holiday at an Italian villa But the Doctor gets bored and sets off to visit nearby Rome, taking Vicki with him. While they are away, Ian and Barbara are captured by slave traders. In Rome the Doctor is mistaken for a musician and is asked to perform at Emperor Nero's Court. The Doctor, however, can't play a note and has to come up with elaborate schemes to avoid revealing this!!. Ian becomes a galley slave, while Barbara is sold to Nero's slave buyer Tavius at an auction in Rome. Ian and another slave escape from the galley when it is wrecked in a storm. They make their way to Rome to try to find and rescue Barbara but are recaptured and forced to fight as gladiators in the Arena. Events climax when, by accidentally setting fire to Nero's plans for the rebuilding of Rome, the Doctor gives him the idea of having the city burned to the ground. Nero plays the lyre while Rome burns, and the Doctor, Vicki and a now reunited Ian and Barbara go back to the villa.",
@@ -1200,6 +1259,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "All Roads Lead to Rome",
 											"airdate": "23 January 1965",
 											"overview": "The story begins with the Doctor and his three friends, including new girl Vicki,in the year 64 AD enjoying a holiday at an Italian villa But the Doctor gets bored and sets off to visit nearby Rome, taking Vicki with him. While they are away, Ian and Barbara are captured by slave traders. In Rome the Doctor is mistaken for a musician and is asked to perform at Emperor Nero's Court. The Doctor, however, can't play a note and has to come up with elaborate schemes to avoid revealing this!!. Ian becomes a galley slave, while Barbara is sold to Nero's slave buyer Tavius at an auction in Rome. Ian and another slave escape from the galley when it is wrecked in a storm. They make their way to Rome to try to find and rescue Barbara but are recaptured and forced to fight as gladiators in the Arena. Events climax when, by accidentally setting fire to Nero's plans for the rebuilding of Rome, the Doctor gives him the idea of having the city burned to the ground. Nero plays the lyre while Rome burns, and the Doctor, Vicki and a now reunited Ian and Barbara go back to the villa.",
@@ -1210,6 +1270,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Conspiracy",
 											"airdate": "30 January 1965",
 											"overview": "The story begins with the Doctor and his three friends, including new girl Vicki,in the year 64 AD enjoying a holiday at an Italian villa But the Doctor gets bored and sets off to visit nearby Rome, taking Vicki with him. While they are away, Ian and Barbara are captured by slave traders. In Rome the Doctor is mistaken for a musician and is asked to perform at Emperor Nero's Court. The Doctor, however, can't play a note and has to come up with elaborate schemes to avoid revealing this!!. Ian becomes a galley slave, while Barbara is sold to Nero's slave buyer Tavius at an auction in Rome. Ian and another slave escape from the galley when it is wrecked in a storm. They make their way to Rome to try to find and rescue Barbara but are recaptured and forced to fight as gladiators in the Arena. Events climax when, by accidentally setting fire to Nero's plans for the rebuilding of Rome, the Doctor gives him the idea of having the city burned to the ground. Nero plays the lyre while Rome burns, and the Doctor, Vicki and a now reunited Ian and Barbara go back to the villa.",
@@ -1220,6 +1281,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Inferno",
 											"airdate": "6 February 1965",
 											"overview": "The story begins with the Doctor and his three friends, including new girl Vicki,in the year 64 AD enjoying a holiday at an Italian villa But the Doctor gets bored and sets off to visit nearby Rome, taking Vicki with him. While they are away, Ian and Barbara are captured by slave traders. In Rome the Doctor is mistaken for a musician and is asked to perform at Emperor Nero's Court. The Doctor, however, can't play a note and has to come up with elaborate schemes to avoid revealing this!!. Ian becomes a galley slave, while Barbara is sold to Nero's slave buyer Tavius at an auction in Rome. Ian and another slave escape from the galley when it is wrecked in a storm. They make their way to Rome to try to find and rescue Barbara but are recaptured and forced to fight as gladiators in the Arena. Events climax when, by accidentally setting fire to Nero's plans for the rebuilding of Rome, the Doctor gives him the idea of having the city burned to the ground. Nero plays the lyre while Rome burns, and the Doctor, Vicki and a now reunited Ian and Barbara go back to the villa.",
@@ -1271,6 +1333,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Web Planet",
 											"airdate": "13 February 1965",
 											"overview": "The TARDIS arrives on the planet Vortis. There the Doctor and his companions discover and become involved in the plans of butterfly-like creatures (Menoptra) to reclaim their planet from a spidery parasite that is steadily enveloping it in a web-like structure. They join up with a party of Menoptra and their allies (the underground-dwelling Optera) and manage to destroy the parasite.",
@@ -1281,6 +1344,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Zarbi",
 											"airdate": "20 February 1965",
 											"overview": "The TARDIS arrives on the planet Vortis. There the Doctor and his companions discover and become involved in the plans of butterfly-like creatures (Menoptra) to reclaim their planet from a spidery parasite that is steadily enveloping it in a web-like structure. They join up with a party of Menoptra and their allies (the underground-dwelling Optera) and manage to destroy the parasite.",
@@ -1291,6 +1355,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Escape to Danger",
 											"airdate": "27 February 1965",
 											"overview": "The TARDIS arrives on the planet Vortis. There the Doctor and his companions discover and become involved in the plans of butterfly-like creatures (Menoptra) to reclaim their planet from a spidery parasite that is steadily enveloping it in a web-like structure. They join up with a party of Menoptra and their allies (the underground-dwelling Optera) and manage to destroy the parasite.",
@@ -1301,6 +1366,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Crater of Needles",
 											"airdate": "6 March 1965",
 											"overview": "The TARDIS arrives on the planet Vortis. There the Doctor and his companions discover and become involved in the plans of butterfly-like creatures (Menoptra) to reclaim their planet from a spidery parasite that is steadily enveloping it in a web-like structure. They join up with a party of Menoptra and their allies (the underground-dwelling Optera) and manage to destroy the parasite.",
@@ -1311,6 +1377,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Invasion",
 											"airdate": "13 March 1965",
 											"overview": "The TARDIS arrives on the planet Vortis. There the Doctor and his companions discover and become involved in the plans of butterfly-like creatures (Menoptra) to reclaim their planet from a spidery parasite that is steadily enveloping it in a web-like structure. They join up with a party of Menoptra and their allies (the underground-dwelling Optera) and manage to destroy the parasite.",
@@ -1321,6 +1388,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Centre",
 											"airdate": "20 March 1965",
 											"overview": "The TARDIS arrives on the planet Vortis. There the Doctor and his companions discover and become involved in the plans of butterfly-like creatures (Menoptra) to reclaim their planet from a spidery parasite that is steadily enveloping it in a web-like structure. They join up with a party of Menoptra and their allies (the underground-dwelling Optera) and manage to destroy the parasite.",
@@ -1372,6 +1440,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Lion",
 											"airdate": "27 March 1965",
 											"overview": "The TARDIS materialises in the Holy Land during King Richard I's crusade against the Muslims. Saracen raiders led by the evil El Akir attack the King's hunting party, and when the travellers stumble into the fray the King escapes and Barbara is captured. The King, weary of the fighting, knights Ian and sends him to the Sultan Saladin's court, to negotiate Barbara's release and offer the hand of the King's sister in marriage to the Sultan's brother, Saphadin. However, Ian learns that El Akir, humiliated by his failure to capture Richard, has taken Barbara to add to his harem. With the help of a mischievous bandit and a merchant whose family was murdered by El Akir, Ian rescues Barbara and takes her back to Jaffa. There, despite their best efforts to avoid palace politics, the Doctor and Vicki have made an enemy of the Earl of Leicester, and the travellers barely escape with their lives.",
@@ -1382,6 +1451,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Knight of Jaffa",
 											"airdate": "3 April 1965",
 											"overview": "The TARDIS materialises in the Holy Land during King Richard I's crusade against the Muslims. Saracen raiders led by the evil El Akir attack the King's hunting party, and when the travellers stumble into the fray the King escapes and Barbara is captured. The King, weary of the fighting, knights Ian and sends him to the Sultan Saladin's court, to negotiate Barbara's release and offer the hand of the King's sister in marriage to the Sultan's brother, Saphadin. However, Ian learns that El Akir, humiliated by his failure to capture Richard, has taken Barbara to add to his harem. With the help of a mischievous bandit and a merchant whose family was murdered by El Akir, Ian rescues Barbara and takes her back to Jaffa. There, despite their best efforts to avoid palace politics, the Doctor and Vicki have made an enemy of the Earl of Leicester, and the travellers barely escape with their lives.",
@@ -1392,6 +1462,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Wheel of Fortune",
 											"airdate": "10 April 1965",
 											"overview": "The TARDIS materialises in the Holy Land during King Richard I's crusade against the Muslims. Saracen raiders led by the evil El Akir attack the King's hunting party, and when the travellers stumble into the fray the King escapes and Barbara is captured. The King, weary of the fighting, knights Ian and sends him to the Sultan Saladin's court, to negotiate Barbara's release and offer the hand of the King's sister in marriage to the Sultan's brother, Saphadin. However, Ian learns that El Akir, humiliated by his failure to capture Richard, has taken Barbara to add to his harem. With the help of a mischievous bandit and a merchant whose family was murdered by El Akir, Ian rescues Barbara and takes her back to Jaffa. There, despite their best efforts to avoid palace politics, the Doctor and Vicki have made an enemy of the Earl of Leicester, and the travellers barely escape with their lives.",
@@ -1402,6 +1473,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Warlords",
 											"airdate": "17 April 1965",
 											"overview": "The TARDIS materialises in the Holy Land during King Richard I's crusade against the Muslims. Saracen raiders led by the evil El Akir attack the King's hunting party, and when the travellers stumble into the fray the King escapes and Barbara is captured. The King, weary of the fighting, knights Ian and sends him to the Sultan Saladin's court, to negotiate Barbara's release and offer the hand of the King's sister in marriage to the Sultan's brother, Saphadin. However, Ian learns that El Akir, humiliated by his failure to capture Richard, has taken Barbara to add to his harem. With the help of a mischievous bandit and a merchant whose family was murdered by El Akir, Ian rescues Barbara and takes her back to Jaffa. There, despite their best efforts to avoid palace politics, the Doctor and Vicki have made an enemy of the Earl of Leicester, and the travellers barely escape with their lives.",
@@ -1474,6 +1546,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Space Museum",
 											"airdate": "24 April 1965",
 											"overview": "Having been displaced across a 'time track' the TARDIS with the Doctor et al arrives on the planet Xeros. There the travellers find their future selves displayed in a museum! The museum is actually a monument to the conquests of belligerent invaders (Moroks) who now rule Xeros. When time shifts back to normal, the Doctor realises that he and his companions have to do whatever they can to try to avert this future. They help the native people of Xeros to revolt against the Moroks. The revolution succeeds, the future is changed, and the travellers depart in the TARDIS.",
@@ -1484,6 +1557,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Dimensions of Time",
 											"airdate": "1 May 1965",
 											"overview": "Having been displaced across a 'time track' the TARDIS with the Doctor et al arrives on the planet Xeros. There the travellers find their future selves displayed in a museum! The museum is actually a monument to the conquests of belligerent invaders (Moroks) who now rule Xeros. When time shifts back to normal, the Doctor realises that he and his companions have to do whatever they can to try to avert this future. They help the native people of Xeros to revolt against the Moroks. The revolution succeeds, the future is changed, and the travellers depart in the TARDIS.",
@@ -1494,6 +1568,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Search",
 											"airdate": "8 May 1965",
 											"overview": "Having been displaced across a 'time track' the TARDIS with the Doctor et al arrives on the planet Xeros. There the travellers find their future selves displayed in a museum! The museum is actually a monument to the conquests of belligerent invaders (Moroks) who now rule Xeros. When time shifts back to normal, the Doctor realises that he and his companions have to do whatever they can to try to avert this future. They help the native people of Xeros to revolt against the Moroks. The revolution succeeds, the future is changed, and the travellers depart in the TARDIS.",
@@ -1504,6 +1579,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Final Phase",
 											"airdate": "15 May 1965",
 											"overview": "Having been displaced across a 'time track' the TARDIS with the Doctor et al arrives on the planet Xeros. There the travellers find their future selves displayed in a museum! The museum is actually a monument to the conquests of belligerent invaders (Moroks) who now rule Xeros. When time shifts back to normal, the Doctor realises that he and his companions have to do whatever they can to try to avert this future. They help the native people of Xeros to revolt against the Moroks. The revolution succeeds, the future is changed, and the travellers depart in the TARDIS.",
@@ -1566,6 +1642,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Executioners",
 											"airdate": "22 May 1965",
 											"overview": "The Doctor and his companions learn that a group of Daleks, equipped with a time machine of their own, are on their trail with orders to exterminate them. The Doctor et al flee in the TARDIS and a chase begins! First stop is the planet Aridius and they then go onto various other places including New York's Empire State Building, the ship Mary Celeste and a haunted house! Eventually both time machines arrive on the planet Mechanus, where the Daleks try to kill the Doctor's group using a robot double of him. The travellers are taken prisoner by the Mechanoids - a group of colonizing robots - and meet Steven Taylor, a stranded astronaut who has been the Mechanoids' captive for the past two years. The Daleks and the Mechanoids do battle, leading to their mutual destruction, whilst the Doctor and his companions escape with Ian and Barbara returning home to Earth in the Dalek's time machine!",
@@ -1576,6 +1653,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Death of Time",
 											"airdate": "29 May 1965",
 											"overview": "The Doctor and his companions learn that a group of Daleks, equipped with a time machine of their own, are on their trail with orders to exterminate them. The Doctor et al flee in the TARDIS and a chase begins! First stop is the planet Aridius and they then go onto various other places including New York's Empire State Building, the ship Mary Celeste and a haunted house! Eventually both time machines arrive on the planet Mechanus, where the Daleks try to kill the Doctor's group using a robot double of him. The travellers are taken prisoner by the Mechanoids - a group of colonizing robots - and meet Steven Taylor, a stranded astronaut who has been the Mechanoids' captive for the past two years. The Daleks and the Mechanoids do battle, leading to their mutual destruction, whilst the Doctor and his companions escape with Ian and Barbara returning home to Earth in the Dalek's time machine!",
@@ -1586,6 +1664,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Flight Through Eternity",
 											"airdate": "5 June 1965",
 											"overview": "The Doctor and his companions learn that a group of Daleks, equipped with a time machine of their own, are on their trail with orders to exterminate them. The Doctor et al flee in the TARDIS and a chase begins! First stop is the planet Aridius and they then go onto various other places including New York's Empire State Building, the ship Mary Celeste and a haunted house! Eventually both time machines arrive on the planet Mechanus, where the Daleks try to kill the Doctor's group using a robot double of him. The travellers are taken prisoner by the Mechanoids - a group of colonizing robots - and meet Steven Taylor, a stranded astronaut who has been the Mechanoids' captive for the past two years. The Daleks and the Mechanoids do battle, leading to their mutual destruction, whilst the Doctor and his companions escape with Ian and Barbara returning home to Earth in the Dalek's time machine!",
@@ -1596,6 +1675,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Journey into Terror",
 											"airdate": "12 June 1965",
 											"overview": "The Doctor and his companions learn that a group of Daleks, equipped with a time machine of their own, are on their trail with orders to exterminate them. The Doctor et al flee in the TARDIS and a chase begins! First stop is the planet Aridius and they then go onto various other places including New York's Empire State Building, the ship Mary Celeste and a haunted house! Eventually both time machines arrive on the planet Mechanus, where the Daleks try to kill the Doctor's group using a robot double of him. The travellers are taken prisoner by the Mechanoids - a group of colonizing robots - and meet Steven Taylor, a stranded astronaut who has been the Mechanoids' captive for the past two years. The Daleks and the Mechanoids do battle, leading to their mutual destruction, whilst the Doctor and his companions escape with Ian and Barbara returning home to Earth in the Dalek's time machine!",
@@ -1606,6 +1686,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Death of Doctor Who",
 											"airdate": "19 June 1965",
 											"overview": "The Doctor and his companions learn that a group of Daleks, equipped with a time machine of their own, are on their trail with orders to exterminate them. The Doctor et al flee in the TARDIS and a chase begins! First stop is the planet Aridius and they then go onto various other places including New York's Empire State Building, the ship Mary Celeste and a haunted house! Eventually both time machines arrive on the planet Mechanus, where the Daleks try to kill the Doctor's group using a robot double of him. The travellers are taken prisoner by the Mechanoids - a group of colonizing robots - and meet Steven Taylor, a stranded astronaut who has been the Mechanoids' captive for the past two years. The Daleks and the Mechanoids do battle, leading to their mutual destruction, whilst the Doctor and his companions escape with Ian and Barbara returning home to Earth in the Dalek's time machine!",
@@ -1616,6 +1697,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Planet of Decision",
 											"airdate": "26 June 1965",
 											"overview": "The Doctor and his companions learn that a group of Daleks, equipped with a time machine of their own, are on their trail with orders to exterminate them. The Doctor et al flee in the TARDIS and a chase begins! First stop is the planet Aridius and they then go onto various other places including New York's Empire State Building, the ship Mary Celeste and a haunted house! Eventually both time machines arrive on the planet Mechanus, where the Daleks try to kill the Doctor's group using a robot double of him. The travellers are taken prisoner by the Mechanoids - a group of colonizing robots - and meet Steven Taylor, a stranded astronaut who has been the Mechanoids' captive for the past two years. The Daleks and the Mechanoids do battle, leading to their mutual destruction, whilst the Doctor and his companions escape with Ian and Barbara returning home to Earth in the Dalek's time machine!",
@@ -1662,6 +1744,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Watcher",
 											"airdate": "3 July 1965",
 											"overview": "Northumbria, 1066. The time-travellers are bemused to find high-technology artefacts littering the 11th-century countryside. Is it just a coincidence that one of the key events in English history is only days away? A Time Lord called the Monk is planning to give King Harold a new army to help him win the Battle Of Hastings. However the Doctor puts a stop to the Monk's plans.",
@@ -1672,6 +1755,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Meddling Monk",
 											"airdate": "10 July 1965",
 											"overview": "Northumbria, 1066. The time-travellers are bemused to find high-technology artefacts littering the 11th-century countryside. Is it just a coincidence that one of the key events in English history is only days away? A Time Lord called the Monk is planning to give King Harold a new army to help him win the Battle Of Hastings. However the Doctor puts a stop to the Monk's plans.",
@@ -1682,6 +1766,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "A Battle of Wits",
 											"airdate": "17 July 1965",
 											"overview": "Northumbria, 1066. The time-travellers are bemused to find high-technology artefacts littering the 11th-century countryside. Is it just a coincidence that one of the key events in English history is only days away? A Time Lord called the Monk is planning to give King Harold a new army to help him win the Battle Of Hastings. However the Doctor puts a stop to the Monk's plans.",
@@ -1692,6 +1777,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Checkmate",
 											"airdate": "24 July 1965",
 											"overview": "Northumbria, 1066. The time-travellers are bemused to find high-technology artefacts littering the 11th-century countryside. Is it just a coincidence that one of the key events in English history is only days away? A Time Lord called the Monk is planning to give King Harold a new army to help him win the Battle Of Hastings. However the Doctor puts a stop to the Monk's plans.",
@@ -1760,6 +1846,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Four Hundred Dawns",
 											"airdate": "11 September 1965",
 											"overview": "The TARDIS materialises on a doomed planet in Galaxy 4, and the travellers are captured by warriors of the beautiful female clone race known as Drahvins. According to the Drahvins' leader, Maaga, their ship was shot down in an unprovoked attack by the vicious alien Rills, but they managed to inflict damage on the Rill ship as well; now both ships are stuck here, on a planet doomed to explode in fourteen days. Maaga orders the Doctor to help her and her warriors capture the Rill ship, and keeps Steven hostage to ensure his co-operation; however, the Doctor soon learns that Maaga is both lying and mistaken. The Drahvins are in fact the aggressors, and the peaceful Rills want nothing more than to escape in one piece – and help their enemies do so as well, if they can. Unfortunately, that may not be possible, as the Doctor discovers that time is shorter than they thought; the planet in fact has less than a day of life remaining...",
@@ -1770,6 +1857,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Trap of Steel",
 											"airdate": "18 September 1965",
 											"overview": "The TARDIS materialises on a doomed planet in Galaxy 4, and the travellers are captured by warriors of the beautiful female clone race known as Drahvins. According to the Drahvins' leader, Maaga, their ship was shot down in an unprovoked attack by the vicious alien Rills, but they managed to inflict damage on the Rill ship as well; now both ships are stuck here, on a planet doomed to explode in fourteen days. Maaga orders the Doctor to help her and her warriors capture the Rill ship, and keeps Steven hostage to ensure his co-operation; however, the Doctor soon learns that Maaga is both lying and mistaken. The Drahvins are in fact the aggressors, and the peaceful Rills want nothing more than to escape in one piece – and help their enemies do so as well, if they can. Unfortunately, that may not be possible, as the Doctor discovers that time is shorter than they thought; the planet in fact has less than a day of life remaining...",
@@ -1780,6 +1868,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Air Lock",
 											"airdate": "25 September 1965",
 											"overview": "The TARDIS materialises on a doomed planet in Galaxy 4, and the travellers are captured by warriors of the beautiful female clone race known as Drahvins. According to the Drahvins' leader, Maaga, their ship was shot down in an unprovoked attack by the vicious alien Rills, but they managed to inflict damage on the Rill ship as well; now both ships are stuck here, on a planet doomed to explode in fourteen days. Maaga orders the Doctor to help her and her warriors capture the Rill ship, and keeps Steven hostage to ensure his co-operation; however, the Doctor soon learns that Maaga is both lying and mistaken. The Drahvins are in fact the aggressors, and the peaceful Rills want nothing more than to escape in one piece – and help their enemies do so as well, if they can. Unfortunately, that may not be possible, as the Doctor discovers that time is shorter than they thought; the planet in fact has less than a day of life remaining...",
@@ -1790,6 +1879,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Exploding Planet",
 											"airdate": "2 October 1965",
 											"overview": "The TARDIS materialises on a doomed planet in Galaxy 4, and the travellers are captured by warriors of the beautiful female clone race known as Drahvins. According to the Drahvins' leader, Maaga, their ship was shot down in an unprovoked attack by the vicious alien Rills, but they managed to inflict damage on the Rill ship as well; now both ships are stuck here, on a planet doomed to explode in fourteen days. Maaga orders the Doctor to help her and her warriors capture the Rill ship, and keeps Steven hostage to ensure his co-operation; however, the Doctor soon learns that Maaga is both lying and mistaken. The Drahvins are in fact the aggressors, and the peaceful Rills want nothing more than to escape in one piece – and help their enemies do so as well, if they can. Unfortunately, that may not be possible, as the Doctor discovers that time is shorter than they thought; the planet in fact has less than a day of life remaining...",
@@ -1828,6 +1918,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Mission to the Unknown",
 											"airdate": "9 October 1965",
 											"overview": "Space Security agent Marc Cory visits the planet Kembel to investigate rumours of Dalek activity in the area. However, his ship is shot down and his crewmates are poisoned by the thorns of Varga plants, genetically engineered carnivores which transform their unlucky victims into Vargas as well. Despite these dangers, Cory discovers that the Daleks have formed an alliance with several other alien species, intending to launch a war against Earth. He makes a tape of his discoveries -- but is exterminated before he can get word to his superiors...",
@@ -1867,7 +1958,7 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": " ",
 											"actor": [
 												{
 													"actor": ""
@@ -1879,6 +1970,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Temple of Secrets",
 											"airdate": "16 October 1965",
 											"overview": "The TARDIS arrives on the plains of Asia Minor during the Trojan War, and when the Doctor emerges the credulous Achilles mistakes him for Zeus. The brutal Odysseus finds this highly unlikely, especially when he catches Steven trying to rescue his friend. When the TARDIS disappears, and the Doctor is thus unable to present a miracle to the Greeks, he is sentenced to death – but Odysseus, intrigued by the newcomers, offers to spare the Doctor's life if he comes up with a way to end the war. The TARDIS has in fact been captured by the Trojans and taken into the city, where Vicki befriends the royal family, adopts the name Cressida – and makes a bitter enemy of the high priestess Cassandra, who feels she has a monopoly on foretelling the future. Outside the city, the Doctor eventually has little choice but to suggest the construction of a large wooden horse, and history takes its unfortunate course. Vicki, who has fallen in love with the Trojan prince Troilus, rescues him from the massacre, and together they join cavalry leader Aeneas and set off to found another city – Rome. Having lost one companion, the Doctor and Steven depart from Troy with a temple handmaiden named Katarina.",
@@ -1889,6 +1981,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Small Prophet, Quick Return",
 											"airdate": "23 October 1965",
 											"overview": "The TARDIS arrives on the plains of Asia Minor during the Trojan War, and when the Doctor emerges the credulous Achilles mistakes him for Zeus. The brutal Odysseus finds this highly unlikely, especially when he catches Steven trying to rescue his friend. When the TARDIS disappears, and the Doctor is thus unable to present a miracle to the Greeks, he is sentenced to death – but Odysseus, intrigued by the newcomers, offers to spare the Doctor's life if he comes up with a way to end the war. The TARDIS has in fact been captured by the Trojans and taken into the city, where Vicki befriends the royal family, adopts the name Cressida – and makes a bitter enemy of the high priestess Cassandra, who feels she has a monopoly on foretelling the future. Outside the city, the Doctor eventually has little choice but to suggest the construction of a large wooden horse, and history takes its unfortunate course. Vicki, who has fallen in love with the Trojan prince Troilus, rescues him from the massacre, and together they join cavalry leader Aeneas and set off to found another city – Rome. Having lost one companion, the Doctor and Steven depart from Troy with a temple handmaiden named Katarina.",
@@ -1899,6 +1992,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Death of a Spy",
 											"airdate": "30 October 1965",
 											"overview": "The TARDIS arrives on the plains of Asia Minor during the Trojan War, and when the Doctor emerges the credulous Achilles mistakes him for Zeus. The brutal Odysseus finds this highly unlikely, especially when he catches Steven trying to rescue his friend. When the TARDIS disappears, and the Doctor is thus unable to present a miracle to the Greeks, he is sentenced to death – but Odysseus, intrigued by the newcomers, offers to spare the Doctor's life if he comes up with a way to end the war. The TARDIS has in fact been captured by the Trojans and taken into the city, where Vicki befriends the royal family, adopts the name Cressida – and makes a bitter enemy of the high priestess Cassandra, who feels she has a monopoly on foretelling the future. Outside the city, the Doctor eventually has little choice but to suggest the construction of a large wooden horse, and history takes its unfortunate course. Vicki, who has fallen in love with the Trojan prince Troilus, rescues him from the massacre, and together they join cavalry leader Aeneas and set off to found another city – Rome. Having lost one companion, the Doctor and Steven depart from Troy with a temple handmaiden named Katarina.",
@@ -1909,6 +2003,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Horse of Destruction",
 											"airdate": "6 November 1965",
 											"overview": "The TARDIS arrives on the plains of Asia Minor during the Trojan War, and when the Doctor emerges the credulous Achilles mistakes him for Zeus. The brutal Odysseus finds this highly unlikely, especially when he catches Steven trying to rescue his friend. When the TARDIS disappears, and the Doctor is thus unable to present a miracle to the Greeks, he is sentenced to death – but Odysseus, intrigued by the newcomers, offers to spare the Doctor's life if he comes up with a way to end the war. The TARDIS has in fact been captured by the Trojans and taken into the city, where Vicki befriends the royal family, adopts the name Cressida – and makes a bitter enemy of the high priestess Cassandra, who feels she has a monopoly on foretelling the future. Outside the city, the Doctor eventually has little choice but to suggest the construction of a large wooden horse, and history takes its unfortunate course. Vicki, who has fallen in love with the Trojan prince Troilus, rescues him from the massacre, and together they join cavalry leader Aeneas and set off to found another city – Rome. Having lost one companion, the Doctor and Steven depart from Troy with a temple handmaiden named Katarina.",
@@ -1973,6 +2068,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Nightmare Begins",
 											"airdate": "13 November 1965",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -1983,6 +2079,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Day of Armageddon",
 											"airdate": "20 November 1965",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -1993,6 +2090,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Devil's Planet",
 											"airdate": "27 November 1965",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2003,6 +2101,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Traitors",
 											"airdate": "4 December 1965",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2013,6 +2112,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Counter Plot",
 											"airdate": "11 December 1965",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2023,6 +2123,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Coronas of the Sun",
 											"airdate": "18 December 1965",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2033,6 +2134,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Feast of Steven",
 											"airdate": "25 December 1965",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2043,6 +2145,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Volcano",
 											"airdate": "1 January 1966",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2053,6 +2156,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Golden Death",
 											"airdate": "8 January 1966",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2063,6 +2167,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Escape Switch",
 											"airdate": "15 January 1966",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2073,6 +2178,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Abandoned Planet",
 											"airdate": "22 January 1966",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2083,6 +2189,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Destruction of Time",
 											"airdate": "29 January 1966",
 											"overview": "The Daleks assemble the leaders of several alien empires, apparently intending to unite them in an Alliance which will then declare war on Earth. In fact, each empire has brought components or technology which the Daleks require to construct the ultimate weapon – a Time Destructor. The last component they require is the power source, a core of the rare element Taranium – and Mavic Chen, the Guardian of the Solar System, intends to supply it to them and then betray them, seizing the Time Destructor for himself. The Doctor and his companions stumble into this affair when the TARDIS materialises on Kembel, and with the aid of Space Security Service agent Bret Vyon, sent to investigate the disappearance of Marc Cory, the Doctor steals the taranium core. The Daleks pursue the Doctor and his companions across the galaxy to get it back, and in the course of the flight the Trojan handmaiden Katarina gives her life to help the Doctor escape from a vicious criminal.",
@@ -2136,6 +2243,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "War of God",
 											"airdate": "5 February 1966",
 											"overview": "The TARDIS materialises in Paris in the year 1572, and the Doctor leaves Steven on his own while he visits the apothecary Charles Preslin. However, Preslin faces persecution at the hands of the Catholics, and the Doctor thus comes up with a scheme to get him out of Paris. Steven, meanwhile, falls in with a group of Huguenots who fear that the Catholics are plotting against them, but when Steven recognises the Abbot of Amboise as the Doctor, his Huguenot friends conclude that he's part of the conspiracy. As it happens, the Abbot in fact only looks like the Doctor, but since the Huguenots won't listen to Steven's warnings, the Admiral de Coligny is mortally wounded in an assassination attempt orchestrated by the Queen Mother, Catherine de Medici. When the attempt fails, the Queen Mother manages to convince her weak-willed son that the Huguenots will respond violently, and he authorises the slaughter of all Huguenots within the city. The real Doctor returns, and he and Steven escape just as the St Bartholomew's Day Massacre begins. The TARDIS then materialises briefly in present-day Wimbledon, where a young girl named Dodo Chaplet stumbles aboard the TARDIS and is whisked away on new adventures.",
@@ -2146,6 +2254,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Sea Beggar",
 											"airdate": "12 February 1966",
 											"overview": "The TARDIS materialises in Paris in the year 1572, and the Doctor leaves Steven on his own while he visits the apothecary Charles Preslin. However, Preslin faces persecution at the hands of the Catholics, and the Doctor thus comes up with a scheme to get him out of Paris. Steven, meanwhile, falls in with a group of Huguenots who fear that the Catholics are plotting against them, but when Steven recognises the Abbot of Amboise as the Doctor, his Huguenot friends conclude that he's part of the conspiracy. As it happens, the Abbot in fact only looks like the Doctor, but since the Huguenots won't listen to Steven's warnings, the Admiral de Coligny is mortally wounded in an assassination attempt orchestrated by the Queen Mother, Catherine de Medici. When the attempt fails, the Queen Mother manages to convince her weak-willed son that the Huguenots will respond violently, and he authorises the slaughter of all Huguenots within the city. The real Doctor returns, and he and Steven escape just as the St Bartholomew's Day Massacre begins. The TARDIS then materialises briefly in present-day Wimbledon, where a young girl named Dodo Chaplet stumbles aboard the TARDIS and is whisked away on new adventures.",
@@ -2156,6 +2265,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Priest of Death",
 											"airdate": "19 February 1966",
 											"overview": "The TARDIS materialises in Paris in the year 1572, and the Doctor leaves Steven on his own while he visits the apothecary Charles Preslin. However, Preslin faces persecution at the hands of the Catholics, and the Doctor thus comes up with a scheme to get him out of Paris. Steven, meanwhile, falls in with a group of Huguenots who fear that the Catholics are plotting against them, but when Steven recognises the Abbot of Amboise as the Doctor, his Huguenot friends conclude that he's part of the conspiracy. As it happens, the Abbot in fact only looks like the Doctor, but since the Huguenots won't listen to Steven's warnings, the Admiral de Coligny is mortally wounded in an assassination attempt orchestrated by the Queen Mother, Catherine de Medici. When the attempt fails, the Queen Mother manages to convince her weak-willed son that the Huguenots will respond violently, and he authorises the slaughter of all Huguenots within the city. The real Doctor returns, and he and Steven escape just as the St Bartholomew's Day Massacre begins. The TARDIS then materialises briefly in present-day Wimbledon, where a young girl named Dodo Chaplet stumbles aboard the TARDIS and is whisked away on new adventures.",
@@ -2166,6 +2276,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Bell of Doom",
 											"airdate": "26 February 1966",
 											"overview": "The TARDIS materialises in Paris in the year 1572, and the Doctor leaves Steven on his own while he visits the apothecary Charles Preslin. However, Preslin faces persecution at the hands of the Catholics, and the Doctor thus comes up with a scheme to get him out of Paris. Steven, meanwhile, falls in with a group of Huguenots who fear that the Catholics are plotting against them, but when Steven recognises the Abbot of Amboise as the Doctor, his Huguenot friends conclude that he's part of the conspiracy. As it happens, the Abbot in fact only looks like the Doctor, but since the Huguenots won't listen to Steven's warnings, the Admiral de Coligny is mortally wounded in an assassination attempt orchestrated by the Queen Mother, Catherine de Medici. When the attempt fails, the Queen Mother manages to convince her weak-willed son that the Huguenots will respond violently, and he authorises the slaughter of all Huguenots within the city. The real Doctor returns, and he and Steven escape just as the St Bartholomew's Day Massacre begins. The TARDIS then materialises briefly in present-day Wimbledon, where a young girl named Dodo Chaplet stumbles aboard the TARDIS and is whisked away on new adventures.",
@@ -2218,6 +2329,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "The Steel Sky",
 											"airdate": "5 March 1966",
 											"overview": "The TARDIS arrives some 10,000,000 years in the future on a giant spaceship. The ship is carrying all of the Earth's surviving plant, animal and human life (and is hence nicknamed The Ark) on a 700 year-long trip to a new home on the planet Refusis. The Doctors' companion Dodo has a head cold but the human Guardians of the ship, and their servant race the Monoids, have no resistance, and so a plague breaks out!! The Guardians place the travellers on trial and Steven has to defend them against the charge that they deliberately spread the disease. However, the Doctor finds a cure. The TARDIS leaves the spaceship only to arrive back there as it is approaching the end of its voyage. As a result of the earlier plague, the Monoids have now grown strong and enslaved the humans. They plan to make Refusis their own but the Doctor persuades the two races to live together in peace.",
@@ -2230,6 +2342,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Plague",
 											"airdate": "12 March 1966",
 											"overview": "The TARDIS arrives some 10,000,000 years in the future on a giant spaceship. The ship is carrying all of the Earth's surviving plant, animal and human life (and is hence nicknamed The Ark) on a 700 year-long trip to a new home on the planet Refusis. The Doctors' companion Dodo has a head cold but the human Guardians of the ship, and their servant race the Monoids, have no resistance, and so a plague breaks out!! The Guardians place the travellers on trial and Steven has to defend them against the charge that they deliberately spread the disease. However, the Doctor finds a cure. The TARDIS leaves the spaceship only to arrive back there as it is approaching the end of its voyage. As a result of the earlier plague, the Monoids have now grown strong and enslaved the humans. They plan to make Refusis their own but the Doctor persuades the two races to live together in peace.",
@@ -2242,6 +2355,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Return",
 											"airdate": "19 March 1966",
 											"overview": "The TARDIS arrives some 10,000,000 years in the future on a giant spaceship. The ship is carrying all of the Earth's surviving plant, animal and human life (and is hence nicknamed The Ark) on a 700 year-long trip to a new home on the planet Refusis. The Doctors' companion Dodo has a head cold but the human Guardians of the ship, and their servant race the Monoids, have no resistance, and so a plague breaks out!! The Guardians place the travellers on trial and Steven has to defend them against the charge that they deliberately spread the disease. However, the Doctor finds a cure. The TARDIS leaves the spaceship only to arrive back there as it is approaching the end of its voyage. As a result of the earlier plague, the Monoids have now grown strong and enslaved the humans. They plan to make Refusis their own but the Doctor persuades the two races to live together in peace.",
@@ -2254,6 +2368,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Bomb",
 											"airdate": "26 March 1966",
 											"overview": "The TARDIS arrives some 10,000,000 years in the future on a giant spaceship. The ship is carrying all of the Earth's surviving plant, animal and human life (and is hence nicknamed The Ark) on a 700 year-long trip to a new home on the planet Refusis. The Doctors' companion Dodo has a head cold but the human Guardians of the ship, and their servant race the Monoids, have no resistance, and so a plague breaks out!! The Guardians place the travellers on trial and Steven has to defend them against the charge that they deliberately spread the disease. However, the Doctor finds a cure. The TARDIS leaves the spaceship only to arrive back there as it is approaching the end of its voyage. As a result of the earlier plague, the Monoids have now grown strong and enslaved the humans. They plan to make Refusis their own but the Doctor persuades the two races to live together in peace.",
@@ -2302,6 +2417,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Celestial Toyroom",
 											"airdate": "2 April 1966",
 											"overview": "The Doctor, Steven and Dodo fall into the clutches of the Celestial Toymaker, an immortal who challenges his victims to games – with their souls forfeit to him should they lose. While the Doctor plays the Trilogic Game, a variation on the classic Towers of Hanoi puzzle, Steven and Dodo are sent on a quest to find the TARDIS, against opponents who may be figments of the Toymaker's imagination – or may be living beings, ensnared in his clutches, who seek to escape. If they win their games, the Toyroom will be destroyed, and the Toymaker will go on to construct another… but this means that the Doctor must find a way to make the last move of his game without destroying himself and his friends along with the Toyroom.",
@@ -2312,6 +2428,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Hall of Dolls",
 											"airdate": "9 April 1966",
 											"overview": "The Doctor, Steven and Dodo fall into the clutches of the Celestial Toymaker, an immortal who challenges his victims to games – with their souls forfeit to him should they lose. While the Doctor plays the Trilogic Game, a variation on the classic Towers of Hanoi puzzle, Steven and Dodo are sent on a quest to find the TARDIS, against opponents who may be figments of the Toymaker's imagination – or may be living beings, ensnared in his clutches, who seek to escape. If they win their games, the Toyroom will be destroyed, and the Toymaker will go on to construct another… but this means that the Doctor must find a way to make the last move of his game without destroying himself and his friends along with the Toyroom.",
@@ -2322,6 +2439,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "The Dancing Floor",
 											"airdate": "16 April 1966",
 											"overview": "The Doctor, Steven and Dodo fall into the clutches of the Celestial Toymaker, an immortal who challenges his victims to games – with their souls forfeit to him should they lose. While the Doctor plays the Trilogic Game, a variation on the classic Towers of Hanoi puzzle, Steven and Dodo are sent on a quest to find the TARDIS, against opponents who may be figments of the Toymaker's imagination – or may be living beings, ensnared in his clutches, who seek to escape. If they win their games, the Toyroom will be destroyed, and the Toymaker will go on to construct another… but this means that the Doctor must find a way to make the last move of his game without destroying himself and his friends along with the Toyroom.",
@@ -2332,6 +2450,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The Final Test",
 											"airdate": "23 April 1966",
 											"overview": "The Doctor, Steven and Dodo fall into the clutches of the Celestial Toymaker, an immortal who challenges his victims to games – with their souls forfeit to him should they lose. While the Doctor plays the Trilogic Game, a variation on the classic Towers of Hanoi puzzle, Steven and Dodo are sent on a quest to find the TARDIS, against opponents who may be figments of the Toymaker's imagination – or may be living beings, ensnared in his clutches, who seek to escape. If they win their games, the Toyroom will be destroyed, and the Toymaker will go on to construct another… but this means that the Doctor must find a way to make the last move of his game without destroying himself and his friends along with the Toyroom.",
@@ -2378,6 +2497,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "A Holiday for the Doctor",
 											"airdate": "30 April 1966",
 											"overview": "Suffering from toothache, the Doctor puts down in Tombstone, Arizona, where the local dentist is none other than the notorious Doc Holliday. The Clanton brothers have ridden into town, looking for the man who killed their brother – and when they see the Doctor in Doc Holliday's office, and he answers to the name \"Doc\", they think they've found him. Marshall Wyatt Earp plays along with the mistake in order to give his old friend Holliday enough time to get out of town – but events get out of control when the Clantons threaten to lynch Steven in order to lure the Doctor out of hiding. Wyatt is forced to arrest Phineas Clanton, and when the others break their brother out of jail they shoot and kill Wyatt's own brother Virgil. The grief-stricken Wyatt thus calls them out, and the Doctor finds himself unable to prevent the infamous gunfight at the OK Corral.",
@@ -2388,6 +2508,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Don't Shoot the Pianist",
 											"airdate": "7 May 1966",
 											"overview": "Suffering from toothache, the Doctor puts down in Tombstone, Arizona, where the local dentist is none other than the notorious Doc Holliday. The Clanton brothers have ridden into town, looking for the man who killed their brother – and when they see the Doctor in Doc Holliday's office, and he answers to the name \"Doc\", they think they've found him. Marshall Wyatt Earp plays along with the mistake in order to give his old friend Holliday enough time to get out of town – but events get out of control when the Clantons threaten to lynch Steven in order to lure the Doctor out of hiding. Wyatt is forced to arrest Phineas Clanton, and when the others break their brother out of jail they shoot and kill Wyatt's own brother Virgil. The grief-stricken Wyatt thus calls them out, and the Doctor finds himself unable to prevent the infamous gunfight at the OK Corral.",
@@ -2398,6 +2519,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Johnny Ringo",
 											"airdate": "14 May 1966",
 											"overview": "Suffering from toothache, the Doctor puts down in Tombstone, Arizona, where the local dentist is none other than the notorious Doc Holliday. The Clanton brothers have ridden into town, looking for the man who killed their brother – and when they see the Doctor in Doc Holliday's office, and he answers to the name \"Doc\", they think they've found him. Marshall Wyatt Earp plays along with the mistake in order to give his old friend Holliday enough time to get out of town – but events get out of control when the Clantons threaten to lynch Steven in order to lure the Doctor out of hiding. Wyatt is forced to arrest Phineas Clanton, and when the others break their brother out of jail they shoot and kill Wyatt's own brother Virgil. The grief-stricken Wyatt thus calls them out, and the Doctor finds himself unable to prevent the infamous gunfight at the OK Corral.",
@@ -2408,6 +2530,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "The OK Corral",
 											"airdate": "21 May 1966",
 											"overview": "Suffering from toothache, the Doctor puts down in Tombstone, Arizona, where the local dentist is none other than the notorious Doc Holliday. The Clanton brothers have ridden into town, looking for the man who killed their brother – and when they see the Doctor in Doc Holliday's office, and he answers to the name \"Doc\", they think they've found him. Marshall Wyatt Earp plays along with the mistake in order to give his old friend Holliday enough time to get out of town – but events get out of control when the Clantons threaten to lynch Steven in order to lure the Doctor out of hiding. Wyatt is forced to arrest Phineas Clanton, and when the others break their brother out of jail they shoot and kill Wyatt's own brother Virgil. The grief-stricken Wyatt thus calls them out, and the Doctor finds himself unable to prevent the infamous gunfight at the OK Corral.",
@@ -2454,6 +2577,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 1",
 											"airdate": "28 May 1966",
 											"overview": "The TARDIS materialises in what the Doctor claims is a time of great peace and prosperity – but if the Elders of the city are so wise and powerful why do savages still live in the wilderness outside the city walls? And why do the people of the city apparently hunt and harvest the savages? The Doctor learns that all of the Elders' great achievements are based on a terrible form of exploitation; the people of the city are harvesting the life essence of the savages, reducing them to little more than cattle and devastating their civilisation while the Elders prosper. When the Doctor vows to put an end to this, the leader of the Elders, Jano, has him sent to the laboratories – but Jano, unwilling to risk the life essence of an alien on any of his people, takes it all into himself, and thus acquires the Doctor's morals and ethics as well. With Jano's help, the Doctor, Steven and Dodo organise the savages and help them strike back against the cruel Elders. They will require a strong leader to guide them, however, and they choose Steven, who leaves the Doctor's company to lead the newly united people.",
@@ -2464,6 +2588,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 2",
 											"airdate": "4 June 1966",
 											"overview": "The TARDIS materialises in what the Doctor claims is a time of great peace and prosperity – but if the Elders of the city are so wise and powerful why do savages still live in the wilderness outside the city walls? And why do the people of the city apparently hunt and harvest the savages? The Doctor learns that all of the Elders' great achievements are based on a terrible form of exploitation; the people of the city are harvesting the life essence of the savages, reducing them to little more than cattle and devastating their civilisation while the Elders prosper. When the Doctor vows to put an end to this, the leader of the Elders, Jano, has him sent to the laboratories – but Jano, unwilling to risk the life essence of an alien on any of his people, takes it all into himself, and thus acquires the Doctor's morals and ethics as well. With Jano's help, the Doctor, Steven and Dodo organise the savages and help them strike back against the cruel Elders. They will require a strong leader to guide them, however, and they choose Steven, who leaves the Doctor's company to lead the newly united people.",
@@ -2474,6 +2599,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 3",
 											"airdate": "11 June 1966",
 											"overview": "The TARDIS materialises in what the Doctor claims is a time of great peace and prosperity – but if the Elders of the city are so wise and powerful why do savages still live in the wilderness outside the city walls? And why do the people of the city apparently hunt and harvest the savages? The Doctor learns that all of the Elders' great achievements are based on a terrible form of exploitation; the people of the city are harvesting the life essence of the savages, reducing them to little more than cattle and devastating their civilisation while the Elders prosper. When the Doctor vows to put an end to this, the leader of the Elders, Jano, has him sent to the laboratories – but Jano, unwilling to risk the life essence of an alien on any of his people, takes it all into himself, and thus acquires the Doctor's morals and ethics as well. With Jano's help, the Doctor, Steven and Dodo organise the savages and help them strike back against the cruel Elders. They will require a strong leader to guide them, however, and they choose Steven, who leaves the Doctor's company to lead the newly united people.",
@@ -2484,6 +2610,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 4",
 											"airdate": "18 June 1966",
 											"overview": "The TARDIS materialises in what the Doctor claims is a time of great peace and prosperity – but if the Elders of the city are so wise and powerful why do savages still live in the wilderness outside the city walls? And why do the people of the city apparently hunt and harvest the savages? The Doctor learns that all of the Elders' great achievements are based on a terrible form of exploitation; the people of the city are harvesting the life essence of the savages, reducing them to little more than cattle and devastating their civilisation while the Elders prosper. When the Doctor vows to put an end to this, the leader of the Elders, Jano, has him sent to the laboratories – but Jano, unwilling to risk the life essence of an alien on any of his people, takes it all into himself, and thus acquires the Doctor's morals and ethics as well. With Jano's help, the Doctor, Steven and Dodo organise the savages and help them strike back against the cruel Elders. They will require a strong leader to guide them, however, and they choose Steven, who leaves the Doctor's company to lead the newly united people.",
@@ -2535,6 +2662,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "Episode 1",
 											"airdate": "25 June 1966",
 											"overview": "London 1966 and the Doctor and Dodo, on a visit to the Post Office Tower, meet Professor Brett whose new computer WOTAN can actually think for itself and is soon to be networked with other computers around the world. However, WOTAN believes that humans are inferior to machines and should, therefore, be ruled by them. Exerting a hypnotic influence, WOTAN arranges for the construction of War Machines - heavily-armed, self-contained mobile computers - with which to take over the world. These prove more than a match for the Army, but the Doctor is able to capture one of them, which he then re-programs to destroy WOTAN. When the crisis is over, Dodo chooses to remain in London; Ben and Polly, however, inadvertently become the Doctor's new companions when they enter the TARDIS to return his lost key.",
@@ -2545,6 +2673,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Episode 2",
 											"airdate": "2 July 1966",
 											"overview": "London 1966 and the Doctor and Dodo, on a visit to the Post Office Tower, meet Professor Brett whose new computer WOTAN can actually think for itself and is soon to be networked with other computers around the world. However, WOTAN believes that humans are inferior to machines and should, therefore, be ruled by them. Exerting a hypnotic influence, WOTAN arranges for the construction of War Machines - heavily-armed, self-contained mobile computers - with which to take over the world. These prove more than a match for the Army, but the Doctor is able to capture one of them, which he then re-programs to destroy WOTAN. When the crisis is over, Dodo chooses to remain in London; Ben and Polly, however, inadvertently become the Doctor's new companions when they enter the TARDIS to return his lost key.",
@@ -2555,6 +2684,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Episode 3",
 											"airdate": "9 July 1966",
 											"overview": "London 1966 and the Doctor and Dodo, on a visit to the Post Office Tower, meet Professor Brett whose new computer WOTAN can actually think for itself and is soon to be networked with other computers around the world. However, WOTAN believes that humans are inferior to machines and should, therefore, be ruled by them. Exerting a hypnotic influence, WOTAN arranges for the construction of War Machines - heavily-armed, self-contained mobile computers - with which to take over the world. These prove more than a match for the Army, but the Doctor is able to capture one of them, which he then re-programs to destroy WOTAN. When the crisis is over, Dodo chooses to remain in London; Ben and Polly, however, inadvertently become the Doctor's new companions when they enter the TARDIS to return his lost key.",
@@ -2565,6 +2695,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Episode 4",
 											"airdate": "16 July 1966",
 											"overview": "London 1966 and the Doctor and Dodo, on a visit to the Post Office Tower, meet Professor Brett whose new computer WOTAN can actually think for itself and is soon to be networked with other computers around the world. However, WOTAN believes that humans are inferior to machines and should, therefore, be ruled by them. Exerting a hypnotic influence, WOTAN arranges for the construction of War Machines - heavily-armed, self-contained mobile computers - with which to take over the world. These prove more than a match for the Army, but the Doctor is able to capture one of them, which he then re-programs to destroy WOTAN. When the crisis is over, Dodo chooses to remain in London; Ben and Polly, however, inadvertently become the Doctor's new companions when they enter the TARDIS to return his lost key.",
@@ -2636,6 +2767,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 1",
 											"airdate": "10 September 1966",
 											"overview": "Ben and Polly's first trip by TARDIS takes them to the 17th-century Cornish coast, in the era of smugglers and pirates. There, the Doctor receives a clue to the location of hidden pirate treasure – making him a target for the vicious captain Pike. His interrogation is delayed when a smuggler named Jacob Kewper contacts Pike, erroneously believing him to be a fellow smuggler; when Pike learns that the local Squire is the head of a smuggling ring, he decides to impersonate a smuggler, learn the location of the smugglers' hoard, and then kill them all and acquire the goods for himself. The Doctor and Kewper manage to escape, but Kewper goes straight to the Squire with news of the hidden treasure. The Doctor and his friends have only one ally – Revenue man Josiah Blake, who has been investigating smuggling in the area but now finds that all hell is about to break loose. While Blake rides for the militia, the Doctor struggles to decipher the clue he's been given, knowing that only by locating the treasure himself can he bargain with the pirates and smugglers and prevent a battle which will inevitably result in the deaths of innocent townsfolk.",
@@ -2646,6 +2778,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 2",
 											"airdate": "10 September 1966",
 											"overview": "Ben and Polly's first trip by TARDIS takes them to the 17th-century Cornish coast, in the era of smugglers and pirates. There, the Doctor receives a clue to the location of hidden pirate treasure – making him a target for the vicious captain Pike. His interrogation is delayed when a smuggler named Jacob Kewper contacts Pike, erroneously believing him to be a fellow smuggler; when Pike learns that the local Squire is the head of a smuggling ring, he decides to impersonate a smuggler, learn the location of the smugglers' hoard, and then kill them all and acquire the goods for himself. The Doctor and Kewper manage to escape, but Kewper goes straight to the Squire with news of the hidden treasure. The Doctor and his friends have only one ally – Revenue man Josiah Blake, who has been investigating smuggling in the area but now finds that all hell is about to break loose. While Blake rides for the militia, the Doctor struggles to decipher the clue he's been given, knowing that only by locating the treasure himself can he bargain with the pirates and smugglers and prevent a battle which will inevitably result in the deaths of innocent townsfolk.",
@@ -2656,6 +2789,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 3",
 											"airdate": "24 September 1966",
 											"overview": "Ben and Polly's first trip by TARDIS takes them to the 17th-century Cornish coast, in the era of smugglers and pirates. There, the Doctor receives a clue to the location of hidden pirate treasure – making him a target for the vicious captain Pike. His interrogation is delayed when a smuggler named Jacob Kewper contacts Pike, erroneously believing him to be a fellow smuggler; when Pike learns that the local Squire is the head of a smuggling ring, he decides to impersonate a smuggler, learn the location of the smugglers' hoard, and then kill them all and acquire the goods for himself. The Doctor and Kewper manage to escape, but Kewper goes straight to the Squire with news of the hidden treasure. The Doctor and his friends have only one ally – Revenue man Josiah Blake, who has been investigating smuggling in the area but now finds that all hell is about to break loose. While Blake rides for the militia, the Doctor struggles to decipher the clue he's been given, knowing that only by locating the treasure himself can he bargain with the pirates and smugglers and prevent a battle which will inevitably result in the deaths of innocent townsfolk.",
@@ -2666,6 +2800,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 4",
 											"airdate": "1 October 1966",
 											"overview": "Ben and Polly's first trip by TARDIS takes them to the 17th-century Cornish coast, in the era of smugglers and pirates. There, the Doctor receives a clue to the location of hidden pirate treasure – making him a target for the vicious captain Pike. His interrogation is delayed when a smuggler named Jacob Kewper contacts Pike, erroneously believing him to be a fellow smuggler; when Pike learns that the local Squire is the head of a smuggling ring, he decides to impersonate a smuggler, learn the location of the smugglers' hoard, and then kill them all and acquire the goods for himself. The Doctor and Kewper manage to escape, but Kewper goes straight to the Squire with news of the hidden treasure. The Doctor and his friends have only one ally – Revenue man Josiah Blake, who has been investigating smuggling in the area but now finds that all hell is about to break loose. While Blake rides for the militia, the Doctor struggles to decipher the clue he's been given, knowing that only by locating the treasure himself can he bargain with the pirates and smugglers and prevent a battle which will inevitably result in the deaths of innocent townsfolk.",
@@ -2716,6 +2851,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "16mm t/r",
 											"name": "Episode 1",
 											"airdate": "8 October 1966",
 											"overview": "The TARDIS materialises decades in the future, in the year 1986, at Snowcap Tracking Station at the South Pole. There, an international team is struggling to bring down a shuttle which has inexplicably been drawn out of orbit – by the gravity of a tenth planet, Earth's exact mirror twin. The Doctor realises what's about to happen, but before he can deliver his warning, Snowcap is invaded by the Cybermen – natives of the planet Mondas who have slowly replaced most of their body parts with cybernetic prostheses, and who have now returned to their twin to drain the energy away from Earth. However, the Doctor and his friends soon find themselves fighting a threat closer to home – in order to save his astronaut son, the American General Cutler intends to attack Mondas with a Z-Bomb despite the danger that the radiation from the explosion will render half of Earth uninhabitable. The Doctor realises that the Cybermen have invaded Earth because Mondas is drawing away too much energy, and that their best hope is simply to stall the Cybermen until Mondas explodes of its own accord. But the energy drain is affecting the elderly Doctor's health, and when he finally returns to his TARDIS he collapses – and before Ben's and Polly's eyes, he seems to change into an entirely different person...",
@@ -2726,6 +2862,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Episode 2",
 											"airdate": "15 October 1966",
 											"overview": "The TARDIS materialises decades in the future, in the year 1986, at Snowcap Tracking Station at the South Pole. There, an international team is struggling to bring down a shuttle which has inexplicably been drawn out of orbit – by the gravity of a tenth planet, Earth's exact mirror twin. The Doctor realises what's about to happen, but before he can deliver his warning, Snowcap is invaded by the Cybermen – natives of the planet Mondas who have slowly replaced most of their body parts with cybernetic prostheses, and who have now returned to their twin to drain the energy away from Earth. However, the Doctor and his friends soon find themselves fighting a threat closer to home – in order to save his astronaut son, the American General Cutler intends to attack Mondas with a Z-Bomb despite the danger that the radiation from the explosion will render half of Earth uninhabitable. The Doctor realises that the Cybermen have invaded Earth because Mondas is drawing away too much energy, and that their best hope is simply to stall the Cybermen until Mondas explodes of its own accord. But the energy drain is affecting the elderly Doctor's health, and when he finally returns to his TARDIS he collapses – and before Ben's and Polly's eyes, he seems to change into an entirely different person...",
@@ -2736,6 +2873,7 @@
 												}
 											]
 										},{
+											"archive": "16mm t/r",
 											"name": "Episode 3",
 											"airdate": "22 October 1966",
 											"overview": "The TARDIS materialises decades in the future, in the year 1986, at Snowcap Tracking Station at the South Pole. There, an international team is struggling to bring down a shuttle which has inexplicably been drawn out of orbit – by the gravity of a tenth planet, Earth's exact mirror twin. The Doctor realises what's about to happen, but before he can deliver his warning, Snowcap is invaded by the Cybermen – natives of the planet Mondas who have slowly replaced most of their body parts with cybernetic prostheses, and who have now returned to their twin to drain the energy away from Earth. However, the Doctor and his friends soon find themselves fighting a threat closer to home – in order to save his astronaut son, the American General Cutler intends to attack Mondas with a Z-Bomb despite the danger that the radiation from the explosion will render half of Earth uninhabitable. The Doctor realises that the Cybermen have invaded Earth because Mondas is drawing away too much energy, and that their best hope is simply to stall the Cybermen until Mondas explodes of its own accord. But the energy drain is affecting the elderly Doctor's health, and when he finally returns to his TARDIS he collapses – and before Ben's and Polly's eyes, he seems to change into an entirely different person...",
@@ -2746,6 +2884,7 @@
 												}
 											]
 										},{
+											"archive": "Only stills and/or fragments exist",
 											"name": "Episode 4",
 											"airdate": "29 October 1966",
 											"overview": "The TARDIS materialises decades in the future, in the year 1986, at Snowcap Tracking Station at the South Pole. There, an international team is struggling to bring down a shuttle which has inexplicably been drawn out of orbit – by the gravity of a tenth planet, Earth's exact mirror twin. The Doctor realises what's about to happen, but before he can deliver his warning, Snowcap is invaded by the Cybermen – natives of the planet Mondas who have slowly replaced most of their body parts with cybernetic prostheses, and who have now returned to their twin to drain the energy away from Earth. However, the Doctor and his friends soon find themselves fighting a threat closer to home – in order to save his astronaut son, the American General Cutler intends to attack Mondas with a Z-Bomb despite the danger that the radiation from the explosion will render half of Earth uninhabitable. The Doctor realises that the Cybermen have invaded Earth because Mondas is drawing away too much energy, and that their best hope is simply to stall the Cybermen until Mondas explodes of its own accord. But the energy drain is affecting the elderly Doctor's health, and when he finally returns to his TARDIS he collapses – and before Ben's and Polly's eyes, he seems to change into an entirely different person...",
@@ -2789,6 +2928,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "PAL 2\" colour videotape",
 											"name": "Episode 1",
 											"airdate": "30 December 1972",
 											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
@@ -2801,6 +2941,7 @@
 												}
 											]
 										},{
+											"archive": "PAL 2\" colour videotape",
 											"name": "Episode 2",
 											"airdate": "6 January 1973",
 											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
@@ -2813,6 +2954,7 @@
 												}
 											]
 										},{
+											"archive": "PAL 2\" colour videotape",
 											"name": "Episode 3",
 											"airdate": "13 January 1973",
 											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
@@ -2825,6 +2967,7 @@
 												}
 											]
 										},{
+											"archive": "PAL 2\" colour videotape",
 											"name": "Episode 4",
 											"airdate": "20 January 1973",
 											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
@@ -2879,6 +3022,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "",
 											"name": "The Name of the Doctor",
 											"airdate": "18 May 2013",
 											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
@@ -2923,6 +3067,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "",
 											"name": "The Day of the Doctor",
 											"airdate": "23 November 2013",
 											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
@@ -3116,6 +3261,7 @@
 								"episodes": {
 									"episode": [
 										{
+											"archive": "",
 											"name": "The Five Doctors",
 											"airdate": "25 November 1983",
 											"overview": "Gallifrey, planet of the Time Lords. The Death Zone, where the ancient Gallifreyans once staged gladiatorial games between alien races from throughout the universe, has been reactivated. No less than three of the Doctor's former incarnations and several of his companions are brought here. But why? And who is the Player in the Game of Rassilon?",
