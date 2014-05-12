@@ -46,7 +46,11 @@ $(function() {
 							doc += '<li><strong>'+c.name+'</strong><br /><span>Production Code: '+c.production_code+'</span>';
 							doc += '<ul>';
 							$.each(c.episodes.episode, function (i, d) {
-								doc += '<li><b>'+d.name+'</b><br />('+d.airdate+')<br /><span>'+d.overview+'</span></li>';
+								doc += '<li><b>'+d.name+'</b><br />('+d.airdate+')<br /><span>'+d.overview+'</span><br /><span>'+d.director+'</span>';
+								$.each(d.writers.writer, function (i, e) {
+									doc += '<br /><span>'+e.name+'</span>'
+								});
+								doc += '</li>';
 							});
 							doc += '</ul>';
 							doc += '<strong>Companions:</strong>';
