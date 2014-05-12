@@ -1,0 +1,476 @@
+[
+	{
+		"doctor": "first",
+		"from": "1966",
+		"to": "2013",
+		"first_serial": "The Tenth Planet",
+		"last_serial": "The Day of The Doctor",
+		"actor": "William Hartnell",
+		"appearances": "21 stories (119 episodes)",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1966-tardis/",
+		"costume": "Cosmic Hobo",
+		"description": "Though outwardly warm, bumbling, and somewhat clownish, the Second Doctor had a darker, more cunning aspect to his personality — one which he usually kept hidden in order to carry out his plans.",
+		"first_words": "Slower... SLOWER!!! Concentrate on one thing... ONE THING!!!...",
+		"last_words": "No! Stop, you’re making me giddy! No, you can’t do this to me! No, no, no, no, no, no, no, no, no, no, no, no, no!",
+		"seasons": {
+			"season": [
+				{
+					"season": "4",
+					"from": "1963",
+					"to": "1964",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}							
+						]
+					}
+				}, {
+					"season": "5",
+					"from": "1963",
+					"to": "1964",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}							
+						]
+					}
+				}, {
+					"season": "6",
+					"from": "1963",
+					"to": "1964",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}							
+						]
+					}
+				}, {
+					"season": "20",
+					"from": "1983",
+					"to": "1983",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Five Doctors",
+								"airdate": "25 November 1983",
+								"production_code": "6K",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												}
+											]
+										}, {
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "David Banks"
+												}, {
+													"name": "Mark Hardy"
+												}, {
+													"name": "William Kenton"
+												}
+											]
+										}, {
+											"enemy": "Yeti",
+											"actor": [
+												{
+													"name": "Lee Woods"
+												}
+											]
+										}, {
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Anthony Ainley"
+												}
+											]
+										}, {
+											"enemy": "Rassilon",
+											"actor": [
+												{
+													"name": "Richard Mathews"
+												}
+											]
+										}, {
+											"enemy": "Raston Warrior Robot",
+											"actor": [
+												{
+													"name": "Keith Hodiak"
+												}
+											]
+										}, {
+											"enemy": "Lord President Borusa",
+											"actor": [
+												{
+													"name": "Philip Latham"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Five Doctors",
+											"airdate": "25 November 1983",
+											"overview": "Gallifrey, planet of the Time Lords. The Death Zone, where the ancient Gallifreyans once staged gladiatorial games between alien races from throughout the universe, has been reactivated. No less than three of the Doctor's former incarnations and several of his companions are brought here. But why? And who is the Player in the Game of Rassilon?",
+											"director": "Peter Moffatt",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										}
+									]
+								}	
+							}							
+						]
+					}
+				}, {
+					"season": "22",
+					"from": "1985",
+					"to": "1985",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Two Doctors",
+								"airdate": "16 February - 2 March 1985",
+								"production_code": "6W",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Susan Foreman",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												}
+											]
+										}, {
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "David Banks"
+												}, {
+													"name": "Mark Hardy"
+												}, {
+													"name": "William Kenton"
+												}
+											]
+										}, {
+											"enemy": "Yeti",
+											"actor": [
+												{
+													"name": "Lee Woods"
+												}
+											]
+										}, {
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Anthony Ainley"
+												}
+											]
+										}, {
+											"enemy": "Rassilon",
+											"actor": [
+												{
+													"name": "Richard Mathews"
+												}
+											]
+										}, {
+											"enemy": "Raston Warrior Robot",
+											"actor": [
+												{
+													"name": "Keith Hodiak"
+												}
+											]
+										}, {
+											"enemy": "Lord President Borusa",
+											"actor": [
+												{
+													"name": "Philip Latham"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Five Doctors",
+											"airdate": "25 November 1983",
+											"overview": "Gallifrey, planet of the Time Lords. The Death Zone, where the ancient Gallifreyans once staged gladiatorial games between alien races from throughout the universe, has been reactivated. No less than three of the Doctor's former incarnations and several of his companions are brought here. But why? And who is the Player in the Game of Rassilon?",
+											"director": "Peter Moffatt",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										}
+									]
+								}	
+							}							
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+		"companions": {
+			"companion": [
+				{ 
+					"character": "Polly",
+					"actor": "Anneke Wills", 
+					"from": "1966",
+					"to": "1967",
+					"first_serial": "The War Machines",
+					"last_serial": "The Faceless Ones"
+				}, { 
+					"character": "Ben Jackson",
+					"actor": "Michael Craze", 
+					"from": "1966",
+					"to": "1967",
+					"first_serial": "The War Machines",
+					"last_serial": "The Faceless Ones"
+				}, { 
+					"character": "Jamie McCrimmon",
+					"actor": "Frazer Hines", 
+					"from": "1966",
+					"to": "1985",
+					"first_serial": "The Highlanders",
+					"last_serial": "The Two Doctors"
+				}, { 
+					"character": "Victoria Waterfield",
+					"actor": "Deborah Watling", 
+					"from": "1967",
+					"to": "1968",
+					"first_serial": "The Evil of the Daleks",
+					"last_serial": "Fury from the Deep"
+				}, { 
+					"character": "Zoe Heriot",
+					"actor": "Wendy Padbury", 
+					"from": "1968",
+					"to": "1983",
+					"first_serial": "The War Machines",
+					"last_serial": "The Five Doctors"
+				}
+			]
+		}
+	}
+]
