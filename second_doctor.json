@@ -2252,7 +2252,12 @@
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Zoe Heriot",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -2262,10 +2267,10 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "Caven",
 											"actor": [
 												{
-													"name": " "
+													"name": "Dudley Foster"
 												}
 											]
 										}
@@ -2274,14 +2279,69 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "8 March 1969",
+											"overview": "The TARDIS materialises on a beacon station in deep space moments before space pirates break it up for its argonite. General Hermack of the Space Corps vows to stop the pirates by any means necessary, and when the grizzled old prospector Milo Clancey shows up in a restricted area of space, Hermack concludes that he must be involved in some way. In order to recover the TARDIS from the pirates, the Doctor, Zoe and Jamie must join forces with Clancey as he evades the Space Corps and tries to prove that the real leader of the pirates is the dastardly Maurice Caven. However, this proves more difficult when Caven is revealed to be in league with Clancey's rival, Madeline Issigri – and with her somewhat unwilling help, Caven plans to kill Clancey and his new friends and frame them for the pirate attacks, thus getting away scot-free with his crimes.",
+											"director": "Michael Hart",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "35mm t/r",
+											"name": "Episode 2",
+											"airdate": "15 March 1969",
+											"overview": "The TARDIS materialises on a beacon station in deep space moments before space pirates break it up for its argonite. General Hermack of the Space Corps vows to stop the pirates by any means necessary, and when the grizzled old prospector Milo Clancey shows up in a restricted area of space, Hermack concludes that he must be involved in some way. In order to recover the TARDIS from the pirates, the Doctor, Zoe and Jamie must join forces with Clancey as he evades the Space Corps and tries to prove that the real leader of the pirates is the dastardly Maurice Caven. However, this proves more difficult when Caven is revealed to be in league with Clancey's rival, Madeline Issigri – and with her somewhat unwilling help, Caven plans to kill Clancey and his new friends and frame them for the pirate attacks, thus getting away scot-free with his crimes.",
+											"director": "Michael Hart",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 3",
+											"airdate": "22 March 1969",
+											"overview": "The TARDIS materialises on a beacon station in deep space moments before space pirates break it up for its argonite. General Hermack of the Space Corps vows to stop the pirates by any means necessary, and when the grizzled old prospector Milo Clancey shows up in a restricted area of space, Hermack concludes that he must be involved in some way. In order to recover the TARDIS from the pirates, the Doctor, Zoe and Jamie must join forces with Clancey as he evades the Space Corps and tries to prove that the real leader of the pirates is the dastardly Maurice Caven. However, this proves more difficult when Caven is revealed to be in league with Clancey's rival, Madeline Issigri – and with her somewhat unwilling help, Caven plans to kill Clancey and his new friends and frame them for the pirate attacks, thus getting away scot-free with his crimes.",
+											"director": "Michael Hart",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "29 March 1969",
+											"overview": "The TARDIS materialises on a beacon station in deep space moments before space pirates break it up for its argonite. General Hermack of the Space Corps vows to stop the pirates by any means necessary, and when the grizzled old prospector Milo Clancey shows up in a restricted area of space, Hermack concludes that he must be involved in some way. In order to recover the TARDIS from the pirates, the Doctor, Zoe and Jamie must join forces with Clancey as he evades the Space Corps and tries to prove that the real leader of the pirates is the dastardly Maurice Caven. However, this proves more difficult when Caven is revealed to be in league with Clancey's rival, Madeline Issigri – and with her somewhat unwilling help, Caven plans to kill Clancey and his new friends and frame them for the pirate attacks, thus getting away scot-free with his crimes.",
+											"director": "Michael Hart",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 5",
+											"airdate": "5 April 1969",
+											"overview": "The TARDIS materialises on a beacon station in deep space moments before space pirates break it up for its argonite. General Hermack of the Space Corps vows to stop the pirates by any means necessary, and when the grizzled old prospector Milo Clancey shows up in a restricted area of space, Hermack concludes that he must be involved in some way. In order to recover the TARDIS from the pirates, the Doctor, Zoe and Jamie must join forces with Clancey as he evades the Space Corps and tries to prove that the real leader of the pirates is the dastardly Maurice Caven. However, this proves more difficult when Caven is revealed to be in league with Clancey's rival, Madeline Issigri – and with her somewhat unwilling help, Caven plans to kill Clancey and his new friends and frame them for the pirate attacks, thus getting away scot-free with his crimes.",
+											"director": "Michael Hart",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 6",
+											"airdate": "12 April 1969",
+											"overview": "The TARDIS materialises on a beacon station in deep space moments before space pirates break it up for its argonite. General Hermack of the Space Corps vows to stop the pirates by any means necessary, and when the grizzled old prospector Milo Clancey shows up in a restricted area of space, Hermack concludes that he must be involved in some way. In order to recover the TARDIS from the pirates, the Doctor, Zoe and Jamie must join forces with Clancey as he evades the Space Corps and tries to prove that the real leader of the pirates is the dastardly Maurice Caven. However, this proves more difficult when Caven is revealed to be in league with Clancey's rival, Madeline Issigri – and with her somewhat unwilling help, Caven plans to kill Clancey and his new friends and frame them for the pirate attacks, thus getting away scot-free with his crimes.",
+											"director": "Michael Hart",
+											"writers": [
+												{
+													"name": "Robert Holmes"
 												}
 											]
 										}
