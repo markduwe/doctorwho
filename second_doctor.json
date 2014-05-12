@@ -1759,8 +1759,8 @@
 								}	
 							}, {
 								"name": "The Mind Robber",
-								"airdate": "",
-								"production_code": "",
+								"airdate": "14 September 1968 - 12 October 1968",
+								"production_code": "UU",
 								"overview": "By blowing a fluid link, the Doctor is forced to use the emergency unit to take the TARDIS away from danger and indeed out of reality itself: to the Land of Fiction.",
 								"companions": {
 									"companion": [
@@ -1882,13 +1882,18 @@
 								}	
 							}, {
 								"name": "The Invasion",
-								"airdate": "",
-								"production_code": "",
+								"airdate": "2 November 1968 - 21 December 1968",
+								"production_code": "VV",
 								"overview": "The Doctor arrives in late twentieth-century London. He soon finds out that the Cybermen are hidden somewhere on Earth and planning an invasion.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Zoe Heriot",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -1898,10 +1903,38 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "Tobias Vaughn",
 											"actor": [
 												{
-													"name": " "
+													"name": "Kevin Stoney"
+												}
+											]
+										}, {
+											"enemy": "Packer",
+											"actor": [
+												{
+													"name": "Peter Halliday"
+												}
+											]
+										}, {
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "Pat Gorman"
+												}, {	
+													"name": "Ralph Carrigan"
+												}, {	
+													"name": "Charles Finch"
+												}, {	
+													"name": "John Spradbury"
+												}, {	
+													"name": "Derek Chafer"
+												}, {	
+													"name": "Terence Denville"
+												}, {	
+													"name": "Peter Thornton"
+												}, {	
+													"name": "Richard King"
 												}
 											]
 										}
@@ -1910,14 +1943,91 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "2 November 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
 											"writers": [
 												{
-													"name": ""
+													"name": "Derrick Sherwin"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "9 November 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Derrick Sherwin"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "16 November 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Derrick Sherwin"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "23 November 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Derrick Sherwin"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 5",
+											"airdate": "30 November 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Derrick Sherwin"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 6",
+											"airdate": "7 December 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Derrick Sherwin"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 7",
+											"airdate": "14 December 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Derrick Sherwin"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 8",
+											"airdate": "21 December 1968",
+											"overview": "The TARDIS is in need of repair, but when the Doctor tries to track down an old friend for help he falls into the hands of Tobias Vaughn, the megalomaniac CEO of International Electromatics. The electronics company is under observation by the United Nations Intelligence Taskforce, a new international military team for fighting threats from beyond the Earth – headed by the Doctor and Jamie's old friend, Alistair Gordon Lethbridge-Stewart (promoted to Brigadier following the Yeti invasion). Vaughn is in league with aliens who intend to invade Earth, but he intends to betray them and seize control; however, as insurance should his plans fail, he wants the Doctor's TARDIS. When Vaughn kidnaps Zoe, the Doctor requests UNIT's help to rescue her – but their interference forces Vaughn to advance the invasion schedule, leaving the Doctor with little time to mount a defense… and the situation becomes more urgent when the Doctor realises that Vaughn's allies are the Cybermen, and that their army is already in place in the sewers beneath London, waiting for the signal to attack.",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Derrick Sherwin"
 												}
 											]
 										}
