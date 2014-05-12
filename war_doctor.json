@@ -58,7 +58,18 @@
 										}
 									]
 								}
-							}, {
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
 								"name": "The Night of the Doctor",
 								"airdate": "14 November 2013",
 								"production_code": "NA",
@@ -87,7 +98,7 @@
 								"episodes": {
 									"episode": [
 										{
-											"name": "The Name of the Doctor",
+											"name": "The Night of the Doctor",
 											"airdate": "14 November 2013",
 											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
 											"director": "John Hayes",
