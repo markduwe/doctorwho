@@ -6,7 +6,9 @@
 <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-<div id="doc"></div>
+<div id="container">
+	<div id="doc"></div>
+</div>
 <script src="js/jquery-1.8.2.min.js"></script>
 <script>
 $(function() {
@@ -25,8 +27,8 @@ $(function() {
 				$.each(data, function (i, a) {
 					doc += '<li><strong>'+a.actor+'</strong>';
 					doc += '<ul>';
-					doc += '<li>From: '+a.first_serial+', '+a.from+'</li>';
-					doc += '<li>To: '+a.last_serial+', '+a.to+'</li>';
+					doc += '<li>First appearance: <b>'+a.first_serial+'</b>, '+a.from+'</li>';
+					doc += '<li>Last appearance: <b>'+a.last_serial+'</b>, '+a.to+'</li>';
 					doc += '<li>First words: "<em>'+a.first_words+'</em>"</li>';
 					doc += '<li>Last words: "<em>'+a.last_words+'</em>"</li>';
 					doc += '<li>Description: '+a.description;
@@ -41,10 +43,10 @@ $(function() {
 						doc += '<br />from: '+b.from+' to: '+b.to;
 						doc += '<ul>';
 						$.each(b.serials.serial, function (i, c) {
-							doc += '<li><strong>'+c.name+'</strong>';
+							doc += '<li><strong>'+c.name+'</strong><br /><span>Production Code: '+c.production_code+'</span>';
 							doc += '<ul>';
 							$.each(c.episodes.episode, function (i, d) {
-								doc += '<li><b>'+d.name+'</b><br />('+d.airdate+')</li>';
+								doc += '<li><b>'+d.name+'</b><br />('+d.airdate+')<br /><span>'+d.overview+'</span></li>';
 							});
 							doc += '</ul>';
 							doc += '<strong>Companions:</strong>';
@@ -100,3 +102,4 @@ $(function() {
 </script>
 </body>
 </html>
+foo
