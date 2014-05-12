@@ -25,6 +25,399 @@
 					"serials": {
 						"serial": [
 							{
+								"name": "The Tenth Planet",
+								"airdate": "8 – 29 October 1966",
+								"production_code": "DD",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "Harry Brooks"
+												}, {
+													"name": "Reg Whitehead"
+												}, { 
+													"name": "Gregg Palmer"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "29 October 1966",
+											"overview": "The TARDIS materialises decades in the future, in the year 1986, at Snowcap Tracking Station at the South Pole. There, an international team is struggling to bring down a shuttle which has inexplicably been drawn out of orbit – by the gravity of a tenth planet, Earth's exact mirror twin. The Doctor realises what's about to happen, but before he can deliver his warning, Snowcap is invaded by the Cybermen – natives of the planet Mondas who have slowly replaced most of their body parts with cybernetic prostheses, and who have now returned to their twin to drain the energy away from Earth. However, the Doctor and his friends soon find themselves fighting a threat closer to home – in order to save his astronaut son, the American General Cutler intends to attack Mondas with a Z-Bomb despite the danger that the radiation from the explosion will render half of Earth uninhabitable. The Doctor realises that the Cybermen have invaded Earth because Mondas is drawing away too much energy, and that their best hope is simply to stall the Cybermen until Mondas explodes of its own accord. But the energy drain is affecting the elderly Doctor's health, and when he finally returns to his TARDIS he collapses – and before Ben's and Polly's eyes, he seems to change into an entirely different person...",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Power of the Daleks",
+								"airdate": "5 November – 10 December 1966",
+								"production_code": "EE",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Gerald Taylor"
+												}, {
+													"name": "Kevin Manser" 
+												}, {
+													"name": "Robert Jewell"
+												}, {
+													"name": "John Scott Martin"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "5 November 1966",
+											"overview": "The Doctor appears to have transformed into an entirely different person, but Ben and Polly are unsure whether this strange man really is the Doctor or not. They soon have other matters to worry about, as the TARDIS takes them to a human colony on the planet Vulcan. Rebel activity is causing trouble for the colony governor, an Earth Examiner has recently been murdered, and the colony scientist Lesterson is obsessed with his experiments on an alien capsule unearthed from the mercury swamps. The Doctor takes the Examiner's place in order to investigate his murder, but soon discovers that the alien capsule is far more significant – for it contains dormant Daleks which Lesterson has woken. Lesterson believes that the Daleks are harmless robots which can be used to serve the colony, while the rebels are far more interested in the uses of the Daleks' in-built weaponry. Nobody will listen to the Doctor when he warns them that the Daleks have their own agenda – one which could result in the extermination of all human beings in the colony.",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}, {
+													"name": "Dennis Spooner"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 2",
+											"airdate": "12 November 1966",
+											"overview": "The Doctor appears to have transformed into an entirely different person, but Ben and Polly are unsure whether this strange man really is the Doctor or not. They soon have other matters to worry about, as the TARDIS takes them to a human colony on the planet Vulcan. Rebel activity is causing trouble for the colony governor, an Earth Examiner has recently been murdered, and the colony scientist Lesterson is obsessed with his experiments on an alien capsule unearthed from the mercury swamps. The Doctor takes the Examiner's place in order to investigate his murder, but soon discovers that the alien capsule is far more significant – for it contains dormant Daleks which Lesterson has woken. Lesterson believes that the Daleks are harmless robots which can be used to serve the colony, while the rebels are far more interested in the uses of the Daleks' in-built weaponry. Nobody will listen to the Doctor when he warns them that the Daleks have their own agenda – one which could result in the extermination of all human beings in the colony.",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}, {
+													"name": "Dennis Spooner"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 3",
+											"airdate": "19 November 1966",
+											"overview": "The Doctor appears to have transformed into an entirely different person, but Ben and Polly are unsure whether this strange man really is the Doctor or not. They soon have other matters to worry about, as the TARDIS takes them to a human colony on the planet Vulcan. Rebel activity is causing trouble for the colony governor, an Earth Examiner has recently been murdered, and the colony scientist Lesterson is obsessed with his experiments on an alien capsule unearthed from the mercury swamps. The Doctor takes the Examiner's place in order to investigate his murder, but soon discovers that the alien capsule is far more significant – for it contains dormant Daleks which Lesterson has woken. Lesterson believes that the Daleks are harmless robots which can be used to serve the colony, while the rebels are far more interested in the uses of the Daleks' in-built weaponry. Nobody will listen to the Doctor when he warns them that the Daleks have their own agenda – one which could result in the extermination of all human beings in the colony.",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}, {
+													"name": "Dennis Spooner"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "26 November 1966",
+											"overview": "The Doctor appears to have transformed into an entirely different person, but Ben and Polly are unsure whether this strange man really is the Doctor or not. They soon have other matters to worry about, as the TARDIS takes them to a human colony on the planet Vulcan. Rebel activity is causing trouble for the colony governor, an Earth Examiner has recently been murdered, and the colony scientist Lesterson is obsessed with his experiments on an alien capsule unearthed from the mercury swamps. The Doctor takes the Examiner's place in order to investigate his murder, but soon discovers that the alien capsule is far more significant – for it contains dormant Daleks which Lesterson has woken. Lesterson believes that the Daleks are harmless robots which can be used to serve the colony, while the rebels are far more interested in the uses of the Daleks' in-built weaponry. Nobody will listen to the Doctor when he warns them that the Daleks have their own agenda – one which could result in the extermination of all human beings in the colony.",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}, {
+													"name": "Dennis Spooner"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 5",
+											"airdate": "3 December 1966",
+											"overview": "The Doctor appears to have transformed into an entirely different person, but Ben and Polly are unsure whether this strange man really is the Doctor or not. They soon have other matters to worry about, as the TARDIS takes them to a human colony on the planet Vulcan. Rebel activity is causing trouble for the colony governor, an Earth Examiner has recently been murdered, and the colony scientist Lesterson is obsessed with his experiments on an alien capsule unearthed from the mercury swamps. The Doctor takes the Examiner's place in order to investigate his murder, but soon discovers that the alien capsule is far more significant – for it contains dormant Daleks which Lesterson has woken. Lesterson believes that the Daleks are harmless robots which can be used to serve the colony, while the rebels are far more interested in the uses of the Daleks' in-built weaponry. Nobody will listen to the Doctor when he warns them that the Daleks have their own agenda – one which could result in the extermination of all human beings in the colony.",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}, {
+													"name": "Dennis Spooner"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 6",
+											"airdate": "10 December 1966",
+											"overview": "The Doctor appears to have transformed into an entirely different person, but Ben and Polly are unsure whether this strange man really is the Doctor or not. They soon have other matters to worry about, as the TARDIS takes them to a human colony on the planet Vulcan. Rebel activity is causing trouble for the colony governor, an Earth Examiner has recently been murdered, and the colony scientist Lesterson is obsessed with his experiments on an alien capsule unearthed from the mercury swamps. The Doctor takes the Examiner's place in order to investigate his murder, but soon discovers that the alien capsule is far more significant – for it contains dormant Daleks which Lesterson has woken. Lesterson believes that the Daleks are harmless robots which can be used to serve the colony, while the rebels are far more interested in the uses of the Daleks' in-built weaponry. Nobody will listen to the Doctor when he warns them that the Daleks have their own agenda – one which could result in the extermination of all human beings in the colony.",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}, {
+													"name": "Dennis Spooner"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Highlanders",
+								"airdate": "17 December  - 7 January 1967",
+								"production_code": "FF",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Polly",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Ben Jackson",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Solicitor Grey",
+											"actor": [
+												{
+													"name": "David Garth"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "17 December 1966",
+											"overview": "The TARDIS materialises on Culloden Moor just after the rout of the Jacobite rebels in 1745. The British army is mopping up survivors, and when they find the Doctor and Ben in the company of rebels they are accused of desertion and arrested. They are saved from execution by Solicitor Grey, the Commissioner of Prisons – but he has his own agenda for the prisoners. Imprisoned in Inverness, the Doctor realises that Grey is running a scam of his own, removing rebels from the prisons with the promise that they will be saved from execution if they sign contracts binding them to service in the Jamaican plantations. In short, he's a slave trader. While the Doctor and Ben try to find a way to escape and help their new friends, Polly and Kirsty MacLaren, whose father has been kidnapped by Grey, blackmail an English officer into helping them locate their kidnapped friends and family. The Doctor and his companions must then find their way back to the TARDIS through a battlefield, and the young Highland piper who helps them, Jamie McCrimmon, accompanies them on their travels.",
+											"director": "Hugh David",
+											"writers": [
+												{
+													"name": "Elwyn Jones"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
 								"name": "",
 								"airdate": "",
 								"production_code": "",
