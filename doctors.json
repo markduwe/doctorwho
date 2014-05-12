@@ -24,6 +24,9 @@
 		"doctor": "eigth",
 		"json": "eigth_doctor.json"
 	}, {
+		"doctor": "war",
+		"json": "war_doctor.json"
+	}, {
 		"doctor": "ninth",
 		"json": "ninth_doctor.json"
 	}, {
@@ -35,8 +38,5 @@
 	}, {
 		"doctor": "twelfth",
 		"json": "twelfth_doctor.json"
-	}, {
-		"doctor": "war",
-		"json": "war_doctor.json"
 	}
 ]
