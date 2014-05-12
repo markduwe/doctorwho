@@ -47,7 +47,7 @@ $(function() {
 							doc += '<li><strong>'+c.name+'</strong><br /><span>Production Code: '+c.production_code+'</span>';
 							doc += '<ul>';
 							$.each(c.episodes.episode, function (i, d) {
-								doc += '<li><b>'+d.name+'</b><br />('+d.airdate+')<br /><span>'+d.overview+'</span><br /><span>Director: <b>'+d.director+'</b></span>';
+								doc += '<li><b>'+d.name+'</b> ('+d.archive+')<br />('+d.airdate+')<br /><span>'+d.overview+'</span><br /><span>Director: <b>'+d.director+'</b></span>';
 								$.each(d.writers, function (i, e) {
 									doc += '<br /><span>Writer: <b>'+e.name+'</b>';
 								});
