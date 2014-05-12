@@ -28,6 +28,7 @@
 								"name": "The Tenth Planet",
 								"airdate": "8 – 29 October 1966",
 								"production_code": "DD",
+								"overview": "The TARDIS crew arrive at the South Pole in the year 1986, near the Snowcap base. Soon afterwards, hostile cyborgs from Earth's twin planet Mondas, known as Cybermen, quickly take over the base, planning to convert every human being into Cybermen like themselves while the Doctor's old body is wearing a little bit thin.",
 								"companions": {
 									"companion": [
 										{ 
@@ -79,6 +80,7 @@
 								"name": "The Power of the Daleks",
 								"airdate": "5 November – 10 December 1966",
 								"production_code": "EE",
+								"overview": "The newly regenerated Doctor, Ben and Polly soon arrive on the planet Vulcan, a human colony. There, the Doctor finds the humans claiming that the Daleks are their servants. But a more sinister plan is behind the Daleks.",
 								"companions": {
 									"companion": [
 										{ 
@@ -199,6 +201,7 @@
 								"name": "The Highlanders",
 								"airdate": "17 December  - 7 January 1967",
 								"production_code": "FF",
+								"overview": "The TARDIS arrives after the Battle of Culloden, where they encounter a plan to sell defeated Scots rebels into slavery.",
 								"companions": {
 									"companion": [
 										{ 
@@ -292,6 +295,7 @@
 								"name": "The Underwater Menace",
 								"airdate": "14 January 1967 - 4 February 1967",
 								"production_code": "GG",
+								"overview": "The TARDIS lands on a deserted volcanic island. The Doctor, Ben, Polly and Jamie are captured and taken in a lift down a shaft below the seabed, There they realise they are prisoners of the survivors of Atlantis, and that their High Priest, Lolem, declares they are to be sacrificed to the great god Amdo. Professor Zaroff arrives and has a plan to raise Atlantis from the sea. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -377,6 +381,7 @@
 								"name": "The Moonbase",
 								"airdate": "11 February 1967 - 4 March 1967",
 								"production_code": "HH",
+								"overview": "The TARDIS makes a bumpy landing on the Moon in the year 2070. When the TARDIS crew venture outside, they find a moonbase. Suddenly on the base, people start becoming seriously ill with symptoms of fever and delirium. The Doctor realises that their old enemies, the Cybermen, are stalking the moonbase and taking the patients' bodies. The leader of the moonbase gives the Doctor 24 hours to discover the cause of the virus, or else he leaves the Moon.",
 								"companions": {
 									"companion": [
 										{ 
@@ -478,6 +483,7 @@
 								"name": "The Macra Terror",
 								"airdate": "11 March 1967 - 1 April 1967",
 								"production_code": "JJ",
+								"overview": "The Doctor and his companions arrive at a planet in Earth's colonial future, where they discover that the inhabitants are being menaced by giant crabs called the Macra. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -563,6 +569,7 @@
 								"name": "The Faceless Ones",
 								"airdate": "8 April 1967 - 13 May 1967",
 								"production_code": "KK",
+								"overview": "After the TARDIS lands on the runway at Gatwick Airport, the Doctor and his companions find out that aliens are stealing the identities of travellers. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -686,6 +693,7 @@
 								"name": "The Evil of the Daleks",
 								"airdate": "20 May 1967 - 1 July 1967",
 								"production_code": "LL",
+								"overview": "While trying to retrieve the TARDIS, the Doctor and Jamie are transported back in time to the 19th century by a professor working for the Daleks; the Daleks aim to use the Doctor's knowledge to give the Daleks human intelligence, but the plan backfires spectacularly. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -818,6 +826,7 @@
 								"name": "The Tomb of the Cybermen",
 								"airdate": "2 September 1967 - 23 September 1967",
 								"production_code": "MM",
+								"overview": "The TARDIS crew arrives on Telos where they find an expedition excavating the Tomb of the Cybermen. Inside the tomb, they find frozen Cybermen who are soon to awake.",
 								"companions": {
 									"companion": [
 										{ 
@@ -943,6 +952,7 @@
 								"name": "The Abominable Snowmen",
 								"airdate": "30 September 1967 - 4 November 1967",
 								"production_code": "NN",
+								"overview": "The TARDIS crew arrive on a cold and windy hillside. After exploring, the Doctor—wearing an extremely furry coat—is mistaken for what they think could be ... a Yeti. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1070,6 +1080,7 @@
 								"name": "The Ice Warriors",
 								"airdate": "11 November 1967 - 16 December 1967",
 								"production_code": "OO",
+								"overview": "In the distant future the crew at Brittanicus Base struggle to control an ioniser, which they are using to slow the progress of glaciers rolling over Britain. Creatures then awaken from the glacier, identifying themselves as Ice Warriors from the planet Mars. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1180,6 +1191,7 @@
 								"name": "The Enemy of the World",
 								"airdate": "23 December 1967 - 27 January 1968",
 								"production_code": "PP",
+								"overview": "The Doctor's evil double plans to rule the world with volcanoes. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1282,6 +1294,7 @@
 								"name": "The Web of Fear",
 								"airdate": "3 February 1968 - 9 March 1968",
 								"production_code": "QQ",
+								"overview": "The Doctor, with the help of the military, tries to stop yeti invading the London Underground.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1413,6 +1426,7 @@
 								"name": "Fury from the Deep",
 								"airdate": "16 March 1968 - 20 April 1968",
 								"production_code": "RR",
+								"overview": "The TARDIS lands in the sea off the eastern coast of England. The Second Doctor, Jamie, and Victoria investigate a nearby beach where there's something nasty in the pipes.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1511,6 +1525,7 @@
 								"name": "The Wheel in Space",
 								"airdate": "27 April 1968 - 1 June 1968",
 								"production_code": "SS",
+								"overview": "The Cybermen plan to attack a space station.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1623,9 +1638,10 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
+								"name": "The Dominators",
 								"airdate": "",
 								"production_code": "",
+								"overview": "",
 								"companions": {
 									"companion": [
 										{ 
@@ -1665,9 +1681,10 @@
 									]
 								}	
 							}, {
-								"name": "",
+								"name": "The Mind Robber",
 								"airdate": "",
 								"production_code": "",
+								"overview": "",
 								"companions": {
 									"companion": [
 										{ 
@@ -1707,9 +1724,10 @@
 									]
 								}	
 							}, {
-								"name": "",
+								"name": "The Invasion",
 								"airdate": "",
 								"production_code": "",
+								"overview": "",
 								"companions": {
 									"companion": [
 										{ 
@@ -1749,9 +1767,10 @@
 									]
 								}	
 							}, {
-								"name": "",
+								"name": "The Krotons",
 								"airdate": "",
 								"production_code": "",
+								"overview": "",
 								"companions": {
 									"companion": [
 										{ 
@@ -1791,9 +1810,10 @@
 									]
 								}	
 							}, {
-								"name": "",
+								"name": "The Seeds of Death",
 								"airdate": "",
 								"production_code": "",
+								"overview": "",
 								"companions": {
 									"companion": [
 										{ 
@@ -1833,9 +1853,10 @@
 									]
 								}	
 							}, {
-								"name": "",
+								"name": "The Space Pirates",
 								"airdate": "",
 								"production_code": "",
+								"overview": "",
 								"companions": {
 									"companion": [
 										{ 
@@ -1875,9 +1896,10 @@
 									]
 								}	
 							}, {
-								"name": "",
+								"name": "The War Games",
 								"airdate": "",
 								"production_code": "",
+								"overview": "",
 								"companions": {
 									"companion": [
 										{ 

@@ -28,6 +28,7 @@
 								"name": "The Pilot Episode",
 								"airdate": "26 August 1991",
 								"production_code": "A",
+								"overview": "The first pilot episode of The Unearthly Child.",
 								"companions": {
 									"companion": [
 										{ 
@@ -91,6 +92,7 @@
 								"name": "An Unearthly Child",
 								"airdate": "23 November - 14 December 1963",
 								"production_code": "A",
+								"overview": "Schoolteachers Ian Chesterton and Barbara Wright are concerned about one of their pupils, Susan Foreman, who seems to have a very alien outlook on England. They have come to her listed address to investigate. They arrive in a junkyard and find a police box, which proves to be no ordinary police box. When Ian and Barbara enter, they discover it to be much bigger on the inside than the outside. In the TARDIS is Susan and her grandfather, the Doctor. Fearing that Barbara and Ian will give away the secret of the TARDIS, he kidnaps them and takes the machine to the Stone Age, where they will have to fight for their lives.",
 								"companions": {
 									"companion": [
 										{ 
@@ -177,6 +179,7 @@
 								"name": "The Daleks",
 								"airdate": "21 December 1963 - 1 February 1964",
 								"production_code": "B",
+								"overview": "The TARDIS lands in a petrified jungle, where they find an advanced city and decide to explore it. Barbara becomes separated from her colleagues, threatened by an unseen creature. Before long, the entire crew is captured by the Daleks, and learn they are in the middle of a war between the Daleks and the Thals.",
 								"companions": {
 									"companion": [
 										{ 
@@ -321,6 +324,7 @@
 								"name": "The Edge of Destruction",
 								"airdate": "8 – 15 February 1964",
 								"production_code": "C",
+								"overview": "The Doctor, while attempting to correct the TARDIS's faulty navigation circuits, causes a small explosion. The Doctor, Barbara, Ian and Susan are all temporarily rendered unconscious. After they awake, Ian and Susan appear to have slight cases of amnesia and everyone begins to act strangely.",
 								"companions": {
 									"companion": [
 										{ 
@@ -384,6 +388,7 @@
 								"name": "Marco Polo",
 								"airdate": "22 February - 4 April 1964",
 								"production_code": "D",
+								"overview": "The TARDIS crew meet the real Marco Polo.",
 								"companions": {
 									"companion": [
 										{ 
@@ -502,6 +507,7 @@
 								"name": "The Keys of Marinus",
 								"airdate": "11 April - 16 May 1964",
 								"production_code": "E",
+								"overview": "After arriving on a small island, the TARDIS crew go on a quest to find the five keys to Marinus. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -620,6 +626,7 @@
 								"name": "The Aztecs",
 								"airdate": "23 May - 13 June 1964",
 								"production_code": "F",
+								"overview": "The TARDIS crew arrive in Mexico in the 15th Century. With the TARDIS trapped in a tomb, Barbara is mistaken for a female reincarnation of the ancient high priest Yetaxa, and assumes her guise and identity. From her new position of power, Barbara sees her chance to bring an end to human sacrifice. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -705,6 +712,7 @@
 								"name": "The Sensorites",
 								"airdate": "20 June – 1 August 1964",
 								"production_code": "G",
+								"overview": "The TARDIS travellers land on a spaceship and find the crew apparently dead. However, other crew members regain consciousness and Ian Chesterton fully revives them. These two tell the travellers that they are on an exploration mission from Earth and are orbiting Sense-Sphere. However, its inhabitants, the Sensorites, refuse to let them leave the orbit.",
 								"companions": {
 									"companion": [
 										{ 
@@ -812,6 +820,7 @@
 								"name": "The Reign of Terror",
 								"airdate": "8 August – 12 September 1964",
 								"production_code": "G",
+								"overview": "The Doctor, Ian, Barbara and Susan arrive in what they believe to be England. However, it is soon clear that they have travelled back into Earth history yet again, this time to 18th Century France, during The French Revolution. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -930,6 +939,7 @@
 								"name": "Planet of Giants",
 								"airdate": "31 October - 14 November 1964",
 								"production_code": "J",
+								"overview": "Following a malfunction on the TARDIS console, the Doctor leads his companions Ian, Barbara and Susan to the world beyond. After some deduction the travellers realise they have arrived on Earth but have shrunk in size to about an inch.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1026,6 +1036,7 @@
 								"name": "The Dalek Invasion of Earth",
 								"airdate": "21 November - 26 December 1964",
 								"production_code": "K",
+								"overview": "The TARDIS materialises in London only to find it devastated and in ruins. The TARDIS crew discover that they have landed in the 22nd century and the Earth has been invaded by the Daleks.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1150,6 +1161,7 @@
 								"name": "The Rescue",
 								"airdate": "2 – 9 January 1965",
 								"production_code": "L",
+								"overview": "The trio soon encounter two survivors of a space crash, Vicki and Bennett, who are awaiting a rescue ship, due to arrive in three days time. Vicki and Bennett live in fear of Koquillion, a bipedal inhabitant of Dido, which is stalking the area.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1213,6 +1225,7 @@
 								"name": "The Romans",
 								"airdate": "16 January - 6 February 1965",
 								"production_code": "M",
+								"overview": "While enjoying a holiday at a Roman villa in the year 64AD , the Doctor and Vicki decide to visit the city of Rome while Ian and Barbara are kidnapped and sold into slavery. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1298,6 +1311,7 @@
 								"name": "The Web Planet",
 								"airdate": "13 February - 20 March 1965",
 								"production_code": "N",
+								"overview": "An unknown force pulls the TARDIS off course and onto the planet Vortis. The TARDIS crew find two species, The Zarbi and the Menoptra at battle with each other.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1405,6 +1419,7 @@
 								"name": "The Crusade",
 								"airdate": "27 March - 17 April 1965",
 								"production_code": "P",
+								"overview": "The TARDIS materialises in 12th century Palestine, during the time of the Third Crusade. When the Doctor, Ian, Barbara, and Vicki emerge, they find themselves in the middle of a Saracen ambush. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1490,6 +1505,7 @@
 								"name": "The Space Museum",
 								"airdate": "24 April – 15 May 1965",
 								"production_code": "Q",
+								"overview": "The TARDIS arrives near a vast Space Museum on the planet Xeros, but has jumped a time-track. The TARDIS crew have a series of bizarre experiences as they venture into the Museum – not least that they see but cannot be seen by the militaristic Moroks who run the museum, or the servile indigenous Xerons who work for them. The crew find the four travellers themselves encased and on display. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1596,6 +1612,7 @@
 								"name": "The Chase",
 								"airdate": "22 May – 26 June 1965",
 								"production_code": "R",
+								"overview": "The Daleks finally detect the TARDIS in their time region and begin a deadly pursuit through time and space. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1714,6 +1731,7 @@
 								"name": "The Time Meddler",
 								"airdate": "3 – 24 July 1965",
 								"production_code": "S",
+								"overview": "The Doctor and Vicki are amazed to find Steven Taylor aboard the TARDIS, after thinking he perished following their chase from the Daleks. They arrive in 1066 on the coast of Northumbria, and their arrival has been witnessed by a mysterious Monk who is somehow aware of what the TARDIS really is...",
 								"companions": {
 									"companion": [
 										{ 
@@ -1805,6 +1823,7 @@
 								"name": "Galaxy 4",
 								"airdate": "11 September – 2 October 1965",
 								"production_code": "T",
+								"overview": "Two ships have crashed after a space battle, but the planet they have landed on is about to be destroyed. The beautiful female Drahvins seem friendly, but in fact it is the ugly Rills that are more tolerant and forgiving.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1896,6 +1915,7 @@
 								"name": "Mission to the Unknown",
 								"airdate": "9 October 1965",
 								"production_code": "T/A",
+								"overview": "Space agent Marc Cory is investigating the sighting of a Dalek ship and discovers they have a base on Kembel. But his crew are infected by Varga plants, imported from Skaro, and start to mutate into Vargas.",
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -1935,6 +1955,7 @@
 								"name": "The Myth Makers",
 								"airdate": "16 October - 6 November 1965",
 								"production_code": "U",
+								"overview": "The TARDIS lands outside Troy during the siege. The Doctor is captured by the Greeks and given two days to devise a plan for taking the city. Steven and Vicki are captured by the Trojans, and given two days to devise a means of banishing the Greeks. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -2020,6 +2041,7 @@
 								"name": "The Daleks' Master Plan",
 								"airdate": "13 November 1965 - 29 January 1966",
 								"production_code": "V",
+								"overview": "Some six months after the events of \"Mission to the Unknown\", the TARDIS arrives on the planet Kembel, and the Doctor leaves the TARDIS to try to find medical aid for the wounded Steven Taylor leaving him with the Trojan girl Katarina. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -2206,6 +2228,7 @@
 								"name": "The Massacre of St Bartholomew's Eve",
 								"airdate": "5 – 26 February 1966",
 								"production_code": "W",
+								"overview": "The arrival of the TARDIS in Paris in 1572 places its occupants, the Doctor and Steven in a dangerous siuation. Tensions between Protestants and Catholics are at fever pitch in the city.",
 								"companions": {
 									"companion": [
 										{ 
@@ -2293,6 +2316,7 @@
 								"name": "The Ark",
 								"airdate": "5 – 26 March 1966",
 								"production_code": "X",
+								"overview": "Ten million years into the future, the TARDIS materialises on a vast spacecraft called the Ark where the whole human race is bound for a new world.",
 								"companions": {
 									"companion": [
 										{ 
@@ -2387,6 +2411,7 @@
 								"name": "The Celestial Toymaker",
 								"airdate": "2 – 23 April 1966",
 								"production_code": "Y",
+								"overview": "The Doctor becomes invisible in the domain of the Toymaker, leaving Dodo and Steven incredulous. They step outside into a strange realm where the Doctor reappears, saying he recognises the place they are in.",
 								"companions": {
 									"companion": [
 										{ 
@@ -2467,6 +2492,7 @@
 								"name": "The Gunfighters",
 								"airdate": "30 April – 21 May 1966",
 								"production_code": "Z",
+								"overview": "The Doctor gets his tooth pulled by Doc Holliday in Tombstone while Dodo and Steven literally sing for their lives. The travellers are caught up in the events leading up to the famous \"Gunfight at the OK Corral\".",
 								"companions": {
 									"companion": [
 										{ 
@@ -2547,6 +2573,7 @@
 								"name": "The Savages",
 								"airdate": "28 May – 18 June 1966",
 								"production_code": "AA",
+								"overview": "The TARDIS materialises on a distant planet in the far future. The TARDIS crew find the planet inhabited by both the Elders and bands of roaming savages. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -2627,6 +2654,7 @@
 								"name": "The War Machines",
 								"airdate": "25 June - 16 July 1966",
 								"production_code": "BB",
+								"overview": "The TARDIS lands in London, in Fitzroy Square near the Post Office Tower. The Doctor is unsettled by a sensation of a strange energy nearby. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -2723,6 +2751,7 @@
 								"name": "The Smugglers",
 								"airdate": "10 September – 1 October 1966",
 								"production_code": "CC",
+								"overview": "The Doctor’s new companions Ben and Polly arrive with him in the TARDIS on the coast of seventeenth-century Cornwall, where a group of pirates are searching for treasure. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -2817,6 +2846,7 @@
 								"name": "The Tenth Planet",
 								"airdate": "8 – 29 October 1966",
 								"production_code": "DD",
+								"overview": "The TARDIS crew arrive at the South Pole in the year 1986, near the Snowcap base. Soon afterwards, hostile cyborgs from Earth's twin planet Mondas, known as Cybermen, quickly take over the base, planning to convert every human being into Cybermen like themselves while the Doctor's old body is wearing a little bit thin.",
 								"companions": {
 									"companion": [
 										{ 
@@ -2912,6 +2942,7 @@
 								"name": "The Three Doctors",
 								"airdate": "30 December 1972 – 20 January 1973",
 								"production_code": "RRR",
+								"overview": "Gallifrey, home planet of the Time Lords is under siege, by an unknown force. The only person who can help them is the Doctor, but even he will need assistance from his previous incarnations. ",
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -2997,6 +3028,7 @@
 								"name": "The Name of the Doctor",
 								"airdate": "18 May 2013",
 								"production_code": "7.13",
+								"overview": "Madame Vastra is told by an imprisoned and insane murderer that the Doctor's greatest secret will be taken to his grave, \and it is discovered.\" She uses a special soporific to bring herself, Jenny and Strax to a \"conference call\" in their dreams; she sends a letter to Clara in 2013 to include her in the conference. \"Time travel has always been possible in dreams.\" River Song also attends, and explains Vastra misunderstood the message; it isn't his secret that has been discovered, but his grave. The Whispermen kidnap Vastra's group, while Clara awakens and informs the Doctor of what she learned, making him realise the prophecy the Silence had been trying to avert is unfolding; they go to Trenzalore, where the height of the graves is determined by the warriors' rank. The Doctor's resting place is a monolithic TARDIS, which is dying and losing control of its \"bigger on the inside\" properties. They go inside, where the Great Intelligence (in Walter Simeon's form) is waiting for them; it demands the Doctor speak his true name to unlock the control room. When the Doctor refuses, River (linked to Clara through the conference call) speaks it to save them. The Doctor explains that instead of a body, the TARDIS houses his personal timeline; the days that have and haven't come to pass. The Great Intelligence steps into the timeline and scatters itself throughout the Doctor's life, hoping to rewrite all his victories into defeats to gain revenge. Clara follows after it, becoming two of the multiple echoes of herself that the Doctor met in \"Asylum of the Daleks\" and \"The Snowmen\". The Doctor reveals he could see River the whole time and kisses her goodbye; she says if the original Clara is dead, she should have vanished due to being linked to her, prompting the Doctor enter his own timeline to rescue Clara. He does so, but not before she discovers a previously unseen incarnation of the Doctor, who, according to the Eleventh, \"broke the promise\" that goes alongside the title 'Doctor', even though this incarnation defends his actions as \"without choice\" and \"in the name of peace and sanity\".",
 								"companions": {
 									"companion": [
 										{ 
@@ -3039,6 +3071,7 @@
 								"name": "The Day of the Doctor",
 								"airdate": "23 November 2013",
 								"production_code": "TBA",
+								"overview": "",
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -3190,6 +3223,7 @@
 								"name": "The Five Doctors",
 								"airdate": "25 November 1983",
 								"production_code": "6K",
+								"overview": "With the Fourth Doctor trapped in a vortex, the First, Second, Third and Fifth Doctors, plus various companions, must play the game of Rassilon to defeat an unlikely foe. ",
 								"companions": {
 									"companion": [
 										{ 
