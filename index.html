@@ -12,19 +12,19 @@
 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script>
 $(function() {
-	var dr = 'doctors.json';
-	$.getJSON(dr, function(data) {
-		var doc = '<ul class="doctors">';
-		$.each(data, function (i, a) {
-			doc += '<li class="doctor"><a href="#" data-doctor="'+a.json+'"><img src="'+a.img+'"> '+a.doctor+' Doctor</a></li>';		
-		});
-		doc += '</ul>'
-		$('#doc').html(doc);
-		$('body').on('click', 'a', function(e){
-			e.preventDefault();
-			var drJson = $(this).data('doctor');
-			console.log(drJson);
-			$.getJSON(drJson, function(data) {
+	var dr = 'all_doctors.json';
+//	$.getJSON(dr, function(data) {
+//		var doc = '<ul class="doctors">';
+//		$.each(data, function (i, a) {
+//			doc += '<li class="doctor"><a href="#" data-doctor="'+a.json+'"><img src="'+a.img+'"> '+a.doctor+' Doctor</a></li>';		
+//		});
+//		doc += '</ul>'
+//		$('#doc').html(doc);
+//		$('body').on('click', 'a', function(e){
+//			e.preventDefault();
+//			var drJson = $(this).data('doctor');
+//			console.log(drJson);
+			$.getJSON(dr, function(data) {
 				var doc = '<ul class="doctors">';
 				$.each(data, function (i, a) {
 					doc += '<li><h2>'+a.actor+'</h2>';
@@ -113,8 +113,8 @@ $(function() {
 				doc += '</ul>'
 				$('#doc').html(doc);				
 			});
-		});
-	});
+//		});
+//	});
 });
 </script>
 </body>
