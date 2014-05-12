@@ -51,7 +51,7 @@ $(function() {
 							$.each(c.episodes.episode, function (i, d) {
 								doc += '<li><h5>'+d.name+'</h5>';
 								if(d.archive != '') {
-									doc += ' ('+d.archive+')';
+									doc += ' ('+d.archive+')<br />';
 								}
 								doc += '('+d.airdate+')<br /><span>'+d.overview+'</span><br /><span>Director: <b>'+d.director+'</b></span>';
 								$.each(d.writers, function (i, e) {
