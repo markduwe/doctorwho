@@ -1956,7 +1956,7 @@
 								"companions": {
 									"companion": [
 										{ 
-											"character": "Susan Foreman",
+											"character": "Brigadier Lethbridge-Stewart",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -2234,6 +2234,13 @@
 					"from": "1968",
 					"to": "1983",
 					"first_serial": "The War Machines",
+					"last_serial": "The Five Doctors"
+				}, { 
+					"character": "Brigadier Lethbridge-Stewart",
+					"actor": "Nicholas Courtney", 
+					"from": "1968",
+					"to": "1983",
+					"first_serial": "The Web of Fear",
 					"last_serial": "The Five Doctors"
 				}
 			]
