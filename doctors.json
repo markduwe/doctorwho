@@ -32,9 +32,9 @@
 		"json": "seventh_doctor.json",
 		"img": "img/Seventh_Doctor.jpg"
 	}, {
-		"doctor": "eigth",
-		"json": "eigth_doctor.json",
-		"img": "img/Eigth_Doctor.jpg"
+		"doctor": "eighth",
+		"json": "eighth_doctor.json",
+		"img": "img/Eighth_Doctor.jpg"
 	}, {
 		"doctor": "war",
 		"json": "war_doctor.json",
