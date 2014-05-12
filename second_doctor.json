@@ -1639,13 +1639,18 @@
 						"serial": [
 							{
 								"name": "The Dominators",
-								"airdate": "",
-								"production_code": "",
-								"overview": "",
+								"airdate": "10 August 1968 - 7 September 1968",
+								"production_code": "TT",
+								"overview": "An alien craft bearing the imperious and ruthless Dominators arrives on the peaceful planet of Dulkis.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Zoe Heriot",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -1655,10 +1660,28 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "Navigator Rago",
 											"actor": [
 												{
-													"name": " "
+													"name": "Ronald Allen"
+												}
+											]
+										}, {
+											"enemy": "Probationer Toba",
+											"actor": [
+												{
+													"name": "Kenneth Ives"
+												}
+											]
+										}, {
+											"enemy": "The Quarks",
+											"actor": [
+												{
+													"name": "John Hicks"
+												}, {	
+													 "name": "Gary Smith"
+												}, {	
+													 "name": "Freddie Wilson"
 												}
 											]
 										}
@@ -1667,14 +1690,68 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "16mm t/r",
+											"name": "Episode 1",
+											"airdate": "10 August 1968",
+											"overview": "The TARDIS materialises on Dulkis, a world where war has been outlawed. Several years ago, atomic tests were conducted on the Island of Death, but now a survey team from the local university discovers that all of the radioactive fallout has vanished. The Doctor and his friends aren't the only visitors to Dulkis; two Dominators and their robot servants, the Quarks, have landed on the island, and their ship has sucked up all of the radiation into its engines. When the Dominators encounter the members of the survey team, they take them captive and work them to exhaustion, clearing space to drill into the bedrock of the island while testing the Dulcians' suitability as slaves. The Doctor must convince the complacent senate of Dulkis that their world faces a real threat – before the Dominators destroy the entire planet simply to fuel their space fleet.",
+											"director": "Morris Barry",
 											"writers": [
 												{
-													"name": ""
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "17 August 1968",
+											"overview": "The TARDIS materialises on Dulkis, a world where war has been outlawed. Several years ago, atomic tests were conducted on the Island of Death, but now a survey team from the local university discovers that all of the radioactive fallout has vanished. The Doctor and his friends aren't the only visitors to Dulkis; two Dominators and their robot servants, the Quarks, have landed on the island, and their ship has sucked up all of the radiation into its engines. When the Dominators encounter the members of the survey team, they take them captive and work them to exhaustion, clearing space to drill into the bedrock of the island while testing the Dulcians' suitability as slaves. The Doctor must convince the complacent senate of Dulkis that their world faces a real threat – before the Dominators destroy the entire planet simply to fuel their space fleet.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "35mm t/r",
+											"name": "Episode 3",
+											"airdate": "24 August 1968",
+											"overview": "The TARDIS materialises on Dulkis, a world where war has been outlawed. Several years ago, atomic tests were conducted on the Island of Death, but now a survey team from the local university discovers that all of the radioactive fallout has vanished. The Doctor and his friends aren't the only visitors to Dulkis; two Dominators and their robot servants, the Quarks, have landed on the island, and their ship has sucked up all of the radiation into its engines. When the Dominators encounter the members of the survey team, they take them captive and work them to exhaustion, clearing space to drill into the bedrock of the island while testing the Dulcians' suitability as slaves. The Doctor must convince the complacent senate of Dulkis that their world faces a real threat – before the Dominators destroy the entire planet simply to fuel their space fleet.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 4",
+											"airdate": "31 August 1968",
+											"overview": "The TARDIS materialises on Dulkis, a world where war has been outlawed. Several years ago, atomic tests were conducted on the Island of Death, but now a survey team from the local university discovers that all of the radioactive fallout has vanished. The Doctor and his friends aren't the only visitors to Dulkis; two Dominators and their robot servants, the Quarks, have landed on the island, and their ship has sucked up all of the radiation into its engines. When the Dominators encounter the members of the survey team, they take them captive and work them to exhaustion, clearing space to drill into the bedrock of the island while testing the Dulcians' suitability as slaves. The Doctor must convince the complacent senate of Dulkis that their world faces a real threat – before the Dominators destroy the entire planet simply to fuel their space fleet.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 5",
+											"airdate": "7 September 1968",
+											"overview": "The TARDIS materialises on Dulkis, a world where war has been outlawed. Several years ago, atomic tests were conducted on the Island of Death, but now a survey team from the local university discovers that all of the radioactive fallout has vanished. The Doctor and his friends aren't the only visitors to Dulkis; two Dominators and their robot servants, the Quarks, have landed on the island, and their ship has sucked up all of the radiation into its engines. When the Dominators encounter the members of the survey team, they take them captive and work them to exhaustion, clearing space to drill into the bedrock of the island while testing the Dulcians' suitability as slaves. The Doctor must convince the complacent senate of Dulkis that their world faces a real threat – before the Dominators destroy the entire planet simply to fuel their space fleet.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
 												}
 											]
 										}
@@ -1684,11 +1761,16 @@
 								"name": "The Mind Robber",
 								"airdate": "",
 								"production_code": "",
-								"overview": "",
+								"overview": "By blowing a fluid link, the Doctor is forced to use the emergency unit to take the TARDIS away from danger and indeed out of reality itself: to the Land of Fiction.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Zoe Heriot",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -1698,10 +1780,41 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "The Master of the Land of Fiction",
 											"actor": [
 												{
-													"name": " "
+													"name": "Emrys Jones"
+												}
+											]
+										}, {
+											"enemy": "The Master Brain",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}, {
+											"enemy": "The White Robots",
+											"actor": [
+												{
+													"name": "John Atterbury"
+												}, {	
+													"name": "Ralph Carrigan"
+												}, {	
+													"name": "Bill Wiesener"
+												}, {	
+													"name": "Terry Wright"
+												}
+											]
+										}, {
+											"enemy": "The Clockwork Soldiers",
+											"actor": [
+												{
+													"name": "Paul Alexander"
+												}, {	
+													"name": "Ian Hines"
+												}, {	
+													"name": "Richard Ireson"
 												}
 											]
 										}
@@ -1710,14 +1823,58 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "16mm t/r",
+											"name": "Episode 1",
+											"airdate": "14 September 1968",
+											"overview": "Trying to escape from a volcanic eruption, the Doctor activates the TARDIS' emergency circuits, taking his ship out of real time and space altogether. However, the void is inhabited by a hypnotic force which lures Jamie and Zoe outside, keeping the Doctor distracted until the strain on the TARDIS becomes too great and the ship explodes. The Doctor and his companions find themselves in a Land of Fiction, where wordplay can be deadly and fictional characters come to life. The travellers must make their way to the castle at the centre of the Land, while the Master of the Land of Fiction waits for them to make the wrong move and transform themselves into fictional characters and thus pawns under his control.",
+											"director": "David Maloney",
 											"writers": [
 												{
-													"name": ""
+													"name": "Peter Ling"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "21 September 1968",
+											"overview": "Trying to escape from a volcanic eruption, the Doctor activates the TARDIS' emergency circuits, taking his ship out of real time and space altogether. However, the void is inhabited by a hypnotic force which lures Jamie and Zoe outside, keeping the Doctor distracted until the strain on the TARDIS becomes too great and the ship explodes. The Doctor and his companions find themselves in a Land of Fiction, where wordplay can be deadly and fictional characters come to life. The travellers must make their way to the castle at the centre of the Land, while the Master of the Land of Fiction waits for them to make the wrong move and transform themselves into fictional characters and thus pawns under his control.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Peter Ling"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "28 September 1968",
+											"overview": "Trying to escape from a volcanic eruption, the Doctor activates the TARDIS' emergency circuits, taking his ship out of real time and space altogether. However, the void is inhabited by a hypnotic force which lures Jamie and Zoe outside, keeping the Doctor distracted until the strain on the TARDIS becomes too great and the ship explodes. The Doctor and his companions find themselves in a Land of Fiction, where wordplay can be deadly and fictional characters come to life. The travellers must make their way to the castle at the centre of the Land, while the Master of the Land of Fiction waits for them to make the wrong move and transform themselves into fictional characters and thus pawns under his control.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Peter Ling"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 4",
+											"airdate": "5 October 1968",
+											"overview": "Trying to escape from a volcanic eruption, the Doctor activates the TARDIS' emergency circuits, taking his ship out of real time and space altogether. However, the void is inhabited by a hypnotic force which lures Jamie and Zoe outside, keeping the Doctor distracted until the strain on the TARDIS becomes too great and the ship explodes. The Doctor and his companions find themselves in a Land of Fiction, where wordplay can be deadly and fictional characters come to life. The travellers must make their way to the castle at the centre of the Land, while the Master of the Land of Fiction waits for them to make the wrong move and transform themselves into fictional characters and thus pawns under his control.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Peter Ling"
+												}
+											]
+										}, {
+											"archive": "16/35mm t/r",
+											"name": "Episode 5",
+											"airdate": "12 October 1968",
+											"overview": "Trying to escape from a volcanic eruption, the Doctor activates the TARDIS' emergency circuits, taking his ship out of real time and space altogether. However, the void is inhabited by a hypnotic force which lures Jamie and Zoe outside, keeping the Doctor distracted until the strain on the TARDIS becomes too great and the ship explodes. The Doctor and his companions find themselves in a Land of Fiction, where wordplay can be deadly and fictional characters come to life. The travellers must make their way to the castle at the centre of the Land, while the Master of the Land of Fiction waits for them to make the wrong move and transform themselves into fictional characters and thus pawns under his control.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Peter Ling"
 												}
 											]
 										}
@@ -1727,7 +1884,7 @@
 								"name": "The Invasion",
 								"airdate": "",
 								"production_code": "",
-								"overview": "",
+								"overview": "The Doctor arrives in late twentieth-century London. He soon finds out that the Cybermen are hidden somewhere on Earth and planning an invasion.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1770,7 +1927,7 @@
 								"name": "The Krotons",
 								"airdate": "",
 								"production_code": "",
-								"overview": "",
+								"overview": "On an unnamed planet, a race called the Gonds are subject to the mysterious Krotons, unseen beings to whom they provide their brightest members as \"companions\". ",
 								"companions": {
 									"companion": [
 										{ 
@@ -1813,7 +1970,7 @@
 								"name": "The Seeds of Death",
 								"airdate": "",
 								"production_code": "",
-								"overview": "",
+								"overview": "The Ice Warriors are hiding on the Moon and planning to destroy every living thing on Earth.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1856,7 +2013,7 @@
 								"name": "The Space Pirates",
 								"airdate": "",
 								"production_code": "",
-								"overview": "",
+								"overview": "Space beacons on the space lanes are being blown up and plundered for precious argonite by a gang of space pirates led by Caven and his associate Dervish.",
 								"companions": {
 									"companion": [
 										{ 
@@ -1899,7 +2056,7 @@
 								"name": "The War Games",
 								"airdate": "",
 								"production_code": "",
-								"overview": "",
+								"overview": "On an alien planet, the Doctor uncovers a diabolic plot to conquer the universe. Brainwashed soldiers are abducted from Earth and forced to fight in simulated environments, reflecting the periods in history whence they were taken. The aliens' aim is to produce a super army from the survivors",
 								"companions": {
 									"companion": [
 										{ 
@@ -2221,6 +2378,13 @@
 					"to": "1985",
 					"first_serial": "The Highlanders",
 					"last_serial": "The Two Doctors"
+				}, { 
+					"character": "Jamie McCrimmon",
+					"actor": "Hamish Wilson", 
+					"from": "1968",
+					"to": "1968",
+					"first_serial": "The Mind Robber",
+					"last_serial": "The Mind Robber"
 				}, { 
 					"character": "Victoria Waterfield",
 					"actor": "Deborah Watling", 
