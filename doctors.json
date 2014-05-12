@@ -1,5 +1,8 @@
 [
 	{
+		"doctor": "all",
+		"json": "all_doctors.json"
+	}, {
 		"doctor": "first",
 		"json": "first_doctor.json"
 	}, {
