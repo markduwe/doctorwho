@@ -2125,13 +2125,18 @@
 								}	
 							}, {
 								"name": "The Seeds of Death",
-								"airdate": "",
-								"production_code": "",
+								"airdate": "25 January 1969 - 1 March 1969",
+								"production_code": "XX",
 								"overview": "The Ice Warriors are hiding on the Moon and planning to destroy every living thing on Earth.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Zoe Heriot",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -2141,10 +2146,28 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "The Ice Warriors",
 											"actor": [
 												{
-													"name": " "
+													"name": "Steve Peters"
+												}, {
+													"name": "Tony Harwood"
+												}, {
+													"name": "Sonny Caldinez"
+												}
+											]
+										}, {
+											"enemy": "Slaar",
+											"actor": [
+												{
+													"name": "Alan Bennion"
+												}
+											]
+										}, {
+											"enemy": "Grand Marshall",
+											"actor": [
+												{
+													"name": "Graham Leaman"
 												}
 											]
 										}
@@ -2153,14 +2176,69 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "16mm t/r",
+											"name": "Episode 1",
+											"airdate": "25 January 1969",
+											"overview": "In the 21st century, all travel is conducted via T-Mat, an instantaneous travel and transport system operated from a Moonbase. Space flight has been all but forgotten - and as a result, when contact is lost with the Moonbase, there appears to be no way to repair T-Mat system. As the world begins to slide into chaos and anarchy, the Doctor and his companions arrive just in time to volunteer for an emergency rocket flight to the Moon, where they discover that the Moonbase has been invaded by Ice Warriors. Now T-Mat is under their control, and despite resistance from the Moonbase crew, the Ice Warriors will soon be able to use it as a weapon to transmat deadly seed pods to Earth, transforming the planet's atmosphere and climate and enabling their army to invade.",
+											"director": "Michael Ferguson",
 											"writers": [
 												{
-													"name": ""
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "1 February 1969",
+											"overview": "In the 21st century, all travel is conducted via T-Mat, an instantaneous travel and transport system operated from a Moonbase. Space flight has been all but forgotten - and as a result, when contact is lost with the Moonbase, there appears to be no way to repair T-Mat system. As the world begins to slide into chaos and anarchy, the Doctor and his companions arrive just in time to volunteer for an emergency rocket flight to the Moon, where they discover that the Moonbase has been invaded by Ice Warriors. Now T-Mat is under their control, and despite resistance from the Moonbase crew, the Ice Warriors will soon be able to use it as a weapon to transmat deadly seed pods to Earth, transforming the planet's atmosphere and climate and enabling their army to invade.",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "8 February 1969",
+											"overview": "In the 21st century, all travel is conducted via T-Mat, an instantaneous travel and transport system operated from a Moonbase. Space flight has been all but forgotten - and as a result, when contact is lost with the Moonbase, there appears to be no way to repair T-Mat system. As the world begins to slide into chaos and anarchy, the Doctor and his companions arrive just in time to volunteer for an emergency rocket flight to the Moon, where they discover that the Moonbase has been invaded by Ice Warriors. Now T-Mat is under their control, and despite resistance from the Moonbase crew, the Ice Warriors will soon be able to use it as a weapon to transmat deadly seed pods to Earth, transforming the planet's atmosphere and climate and enabling their army to invade.",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 4",
+											"airdate": "15 February 1969",
+											"overview": "In the 21st century, all travel is conducted via T-Mat, an instantaneous travel and transport system operated from a Moonbase. Space flight has been all but forgotten - and as a result, when contact is lost with the Moonbase, there appears to be no way to repair T-Mat system. As the world begins to slide into chaos and anarchy, the Doctor and his companions arrive just in time to volunteer for an emergency rocket flight to the Moon, where they discover that the Moonbase has been invaded by Ice Warriors. Now T-Mat is under their control, and despite resistance from the Moonbase crew, the Ice Warriors will soon be able to use it as a weapon to transmat deadly seed pods to Earth, transforming the planet's atmosphere and climate and enabling their army to invade.",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16/35mm t/r",
+											"name": "Episode 5",
+											"airdate": "22 February 1969",
+											"overview": "In the 21st century, all travel is conducted via T-Mat, an instantaneous travel and transport system operated from a Moonbase. Space flight has been all but forgotten - and as a result, when contact is lost with the Moonbase, there appears to be no way to repair T-Mat system. As the world begins to slide into chaos and anarchy, the Doctor and his companions arrive just in time to volunteer for an emergency rocket flight to the Moon, where they discover that the Moonbase has been invaded by Ice Warriors. Now T-Mat is under their control, and despite resistance from the Moonbase crew, the Ice Warriors will soon be able to use it as a weapon to transmat deadly seed pods to Earth, transforming the planet's atmosphere and climate and enabling their army to invade.",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 6",
+											"airdate": "1 March 1969",
+											"overview": "In the 21st century, all travel is conducted via T-Mat, an instantaneous travel and transport system operated from a Moonbase. Space flight has been all but forgotten - and as a result, when contact is lost with the Moonbase, there appears to be no way to repair T-Mat system. As the world begins to slide into chaos and anarchy, the Doctor and his companions arrive just in time to volunteer for an emergency rocket flight to the Moon, where they discover that the Moonbase has been invaded by Ice Warriors. Now T-Mat is under their control, and despite resistance from the Moonbase crew, the Ice Warriors will soon be able to use it as a weapon to transmat deadly seed pods to Earth, transforming the planet's atmosphere and climate and enabling their army to invade.",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Brian Hayles"
 												}
 											]
 										}
