@@ -71,10 +71,16 @@ $(function() {
 							});
 							doc += '</ul>';
 							}
-							if(c.enemies.enemy != null){
+							if(c.enemies.enemy != ' '){
 							doc += '<strong>Enemies:</strong> <ul>';
 							$.each(c.enemies.enemy, function (i, d) {
-								doc += '<li><b>'+d.enemy+'</b></li>';
+								doc += '<li><b>'+d.enemy+'</b>';
+								doc += '<ul>';
+								$.each(d.actor, function (i, a) {
+									doc += '<li>'+a.name+'</li>';
+								});
+								doc += '</ul>';
+								doc += '</li>';
 							});
 							doc += '</ul>';
 							}
