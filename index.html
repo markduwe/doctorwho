@@ -22,7 +22,7 @@ $(function() {
 			e.preventDefault();
 			var drJson = $(this).data('doctor');
 			console.log(drJson);
-			$.getJSON('js/'+drJson, function(data) {
+			$.getJSON(''+drJson, function(data) {
 				var doc = '<ul class="doctors">';
 				$.each(data, function (i, a) {
 					doc += '<li><strong>'+a.actor+'</strong>';
