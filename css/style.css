@@ -10,7 +10,7 @@ body {
 	width: 800px;
 	margin: 0 auto;
 }
-li.doctors {
+li.doctor {
 	text-transform: capitalize;
 }
 h2 {
