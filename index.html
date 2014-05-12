@@ -27,7 +27,7 @@ $(function() {
 			$.getJSON(drJson, function(data) {
 				var doc = '<ul class="doctors">';
 				$.each(data, function (i, a) {
-					doc += '<li><strong>'+a.actor+'</strong>';
+					doc += '<li><h2>'+a.actor+'</h2>';
 					doc += '<ul>';
 					doc += '<li>First appearance: <b>'+a.first_serial+'</b>, '+a.from+'</li>';
 					doc += '<li>Last appearance: <b>'+a.last_serial+'</b>, '+a.to+'</li>';
@@ -37,7 +37,7 @@ $(function() {
 					doc += '<li>Description: '+a.description;
 					doc += '<ul>';
 					$.each(a.seasons.season, function (i, b) {
-						doc += '<li><strong>Season: '+b.season+'</strong>';
+						doc += '<li><h3>Season: '+b.season+'</h3>';
 						if(b.new == 'yes'){
 							doc += ' (new season)'
 						} else {
@@ -46,10 +46,14 @@ $(function() {
 						doc += '<br />from: '+b.from+' to: '+b.to;
 						doc += '<ul>';
 						$.each(b.serials.serial, function (i, c) {
-							doc += '<li><strong>'+c.name+'</strong><br /><span>Production Code: '+c.production_code+'</span>';
+							doc += '<li><h4>'+c.name+'</h4><span>Production Code: '+c.production_code+'</span><br /><span>Serial Overview: '+c.overview+'</span>';
 							doc += '<ul>';
 							$.each(c.episodes.episode, function (i, d) {
-								doc += '<li><b>'+d.name+'</b> ('+d.archive+')<br />('+d.airdate+')<br /><span>'+d.overview+'</span><br /><span>Director: <b>'+d.director+'</b></span>';
+								doc += '<li><h5>'+d.name+'</h5>';
+								if(d.archive != '') {
+									doc += ' ('+d.archive+')';
+								}
+								doc += '('+d.airdate+')<br /><span>'+d.overview+'</span><br /><span>Director: <b>'+d.director+'</b></span>';
 								$.each(d.writers, function (i, e) {
 									doc += '<br /><span>Writer: <b>'+e.name+'</b>';
 								});
