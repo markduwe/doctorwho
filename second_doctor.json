@@ -2349,26 +2349,45 @@
 								}	
 							}, {
 								"name": "The War Games",
-								"airdate": "",
-								"production_code": "",
+								"airdate": "19 April 1969 - 21 June 1969",
+								"production_code": "ZZ",
 								"overview": "On an alien planet, the Doctor uncovers a diabolic plot to conquer the universe. Brainwashed soldiers are abducted from Earth and forced to fight in simulated environments, reflecting the periods in history whence they were taken. The aliens' aim is to produce a super army from the survivors",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
 											"died": "no",
 											"left": "no",
-											"left_behind": "no"
+											"left_behind": "yes"
+										}, { 
+											"character": "Zoe Heriot",
+											"died": "no",
+											"left": "no",
+											"left_behind": "yes"
 										}
 									]
 								},
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "The War Chief",
 											"actor": [
 												{
-													"name": " "
+													"name": "Edward Brayshaw"
+												}
+											]
+										}, {
+											"enemy": "The Security Chief",
+											"actor": [
+												{
+													"name": "James Bree"
+												}
+											]
+										}, {
+											"enemy": "The War Lord",
+											"actor": [
+												{
+													"name": "Philip Madoc"
 												}
 											]
 										}
@@ -2377,14 +2396,133 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "16mm t/r",
+											"name": "Episode 1",
+											"airdate": "19 April 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
 											"writers": [
 												{
-													"name": ""
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "26 April 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "3 May 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 4",
+											"airdate": "10 May 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 5",
+											"airdate": "17 May 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 6",
+											"airdate": "24 May 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 7",
+											"airdate": "31 May 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 8",
+											"airdate": "7 June 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 9",
+											"airdate": "14 June 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 10",
+											"airdate": "21 June 1969",
+											"overview": "The TARDIS lands in what appears to be the front-line trenches at the height of battle in war-torn France, right in the middle of World War I. Everyone they meet are convinced that the crew are spying and it doesn't take long for the crew to be on the run, but not before breaking the hypnotic conditioning of Carstairs and Lady Jennifer. Having escaped one war-zone they find themselves in another - Roman occupied Britain of some 2,000 years ago, then on to the American Civil War. The situation worstens when the Doctor suspects one of his own people, a Time Lord, to be behind the War Games working for a race of aliens trying to run the wars to their conclusions under controlled conditions to find a super-army or fighters. The Doctor is faced with an impossible situation - not only does the War Lords' control over hundreds of thousands of fighters need to be removed, but the soldiers have to be returned to their natural habitats. He conceeds defeat at the task, knowing that the TARDIS is not equipped for the task. He sends an SOS, calling in his own people even though it is revealed that he is 'on the run' from them for the theft of a TARDIS and for meddling... The Doctor is caught and faces trial.",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}, {
+													"name": "Terrance Dicks"
 												}
 											]
 										}
