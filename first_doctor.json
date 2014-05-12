@@ -75,7 +75,7 @@
 								}	
 							}, {
 								"name": "An Unearthly Child",
-								"airdate": "23 November - 14 December 1963",,
+								"airdate": "23 November - 14 December 1963",
 								"production_code": "A",
 								"companions": {
 									"companion": [
@@ -132,7 +132,7 @@
 								}	
 							}, {
 								"name": "The Daleks",
-								"airdate": "21 December 1963 - 1 February 1964",,
+								"airdate": "21 December 1963 - 1 February 1964",
 								"production_code": "B",
 								"companions": {
 									"companion": [
@@ -567,22 +567,64 @@
 									"episode": [
 										{
 											"name": "A Land of Fear",
-											"airdate": "8 August 1964"
+											"airdate": "8 August 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Guests of Madame Guillotine",
-											"airdate": "15 August 1964"
+											"airdate": "15 August 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "A Change of Identity",
-											"airdate": "22 August 1964"
+											"airdate": "22 August 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Tyrant of France",
-											"airdate": "29 August 1964"
+											"airdate": "29 August 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "A Bargain of Necessity",
-											"airdate": "5 September 1964"
+											"airdate": "5 September 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Prisoners of Conciergerie",
-											"airdate": "12 September 1964"
+											"airdate": "12 September 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -637,19 +679,54 @@
 									"episode": [
 										{
 											"name": "Planet of Giants",
-											"airdate": "31 October 1964"
+											"airdate": "31 October 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Dangerous Journey",
-											"airdate": "7 November 1964"
+											"airdate": "7 November 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Crisis, original recorded version",
-											"airdate": "Unaired"
+											"airdate": "Unaired",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Crisis, broadcast version",
-											"airdate": "14 November 1964"
+											"airdate": "14 November 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Urge to Live, original recorded version",
-											"airdate": "Unaired"
+											"airdate": "Unaired",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -710,22 +787,64 @@
 									"episode": [
 										{
 											"name": "World's End",
-											"airdate": "21 November 1964"
+											"airdate": "21 November 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Daleks",
-											"airdate": "28 November 1964"
+											"airdate": "28 November 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Day of Reckoning",
-											"airdate": "5 December 1964"
+											"airdate": "5 December 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The End of Tomorrow",
-											"airdate": "12 December 1964"
+											"airdate": "12 December 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Waking Ally",
-											"airdate": "19 December 1964"
+											"airdate": "19 December 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Flashpoint",
-											"airdate": "26 December 1964"
+											"airdate": "26 December 1964",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -769,10 +888,24 @@
 									"episode": [
 										{
 											"name": "The Powerful Enemy",
-											"airdate": "2 January 1965"
+											"airdate": "2 January 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Desperate Measures",
-											"airdate": "9 January 1965"
+											"airdate": "9 January 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -816,16 +949,44 @@
 									"episode": [
 										{
 											"name": "The Slave Traders",
-											"airdate": "16 January 1965"
+											"airdate": "16 January 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "All Roads Lead to Rome",
-											"airdate": "23 January 1965"
+											"airdate": "23 January 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Conspiracy",
-											"airdate": "30 January 1965"
+											"airdate": "30 January 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Inferno",
-											"airdate": "6 February 1965"
+											"airdate": "6 February 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -869,22 +1030,64 @@
 									"episode": [
 										{
 											"name": "The Web Planet",
-											"airdate": "13 February 1965"
+											"airdate": "13 February 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Zarbi",
-											"airdate": "20 February 1965"
+											"airdate": "20 February 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Escape to Danger",
-											"airdate": "27 February 1965"
+											"airdate": "27 February 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Crater of Needles",
-											"airdate": "6 March 1965"
+											"airdate": "6 March 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Invasion",
-											"airdate": "13 March 1965"
+											"airdate": "13 March 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Centre",
-											"airdate": "20 March 1965"
+											"airdate": "20 March 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -928,16 +1131,44 @@
 									"episode": [
 										{
 											"name": "The Lion",
-											"airdate": "27 March 1965"
+											"airdate": "27 March 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Knight of Jaffa",
-											"airdate": "3 April 1965"
+											"airdate": "3 April 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Wheel of Fortune",
-											"airdate": "10 April 1965"
+											"airdate": "10 April 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Warlords",
-											"airdate": "17 April 1965"
+											"airdate": "17 April 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1002,16 +1233,44 @@
 									"episode": [
 										{
 											"name": "The Lion",
-											"airdate": "27 March 1965"
+											"airdate": "27 March 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Knight of Jaffa",
-											"airdate": "3 April 1965"
+											"airdate": "3 April 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Wheel of Fortune",
-											"airdate": "10 April 1965"
+											"airdate": "10 April 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Warlords",
-											"airdate": "17 April 1965"
+											"airdate": "17 April 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1066,22 +1325,64 @@
 									"episode": [
 										{
 											"name": "The Executioners",
-											"airdate": "22 May 1965"
+											"airdate": "22 May 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Death of Time",
-											"airdate": "29 May 1965"
+											"airdate": "29 May 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Flight Through Eternity",
-											"airdate": "5 June 1965"
+											"airdate": "5 June 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Journey into Terror",
-											"airdate": "12 June 1965"
+											"airdate": "12 June 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Death of Doctor Who",
-											"airdate": "19 June 1965"
+											"airdate": "19 June 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Planet of Decision",
-											"airdate": "26 June 1965"
+											"airdate": "26 June 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1120,16 +1421,44 @@
 									"episode": [
 										{
 											"name": "The Watcher",
-											"airdate": "3 July 1965"
+											"airdate": "3 July 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Meddling Monk",
-											"airdate": "10 July 1965"
+											"airdate": "10 July 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "A Battle of Wits",
-											"airdate": "17 July 1965"
+											"airdate": "17 July 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Checkmate",
-											"airdate": "24 July 1965"
+											"airdate": "24 July 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1190,16 +1519,44 @@
 									"episode": [
 										{
 											"name": "Four Hundred Dawns",
-											"airdate": "11 September 1965"
+											"airdate": "11 September 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Trap of Steel",
-											"airdate": "18 September 1965"
+											"airdate": "18 September 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Air Lock",
-											"airdate": "25 September 1965"
+											"airdate": "25 September 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Exploding Planet",
-											"airdate": "2 October 1965"
+											"airdate": "2 October 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1274,16 +1631,44 @@
 									"episode": [
 										{
 											"name": "Temple of Secrets",
-											"airdate": "16 October 1965"
+											"airdate": "16 October 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Small Prophet, Quick Return",
-											"airdate": "23 October 1965"
+											"airdate": "23 October 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Death of a Spy",
-											"airdate": "30 October 1965"
+											"airdate": "30 October 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Horse of Destruction",
-											"airdate": "6 November 1965"
+											"airdate": "6 November 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1340,40 +1725,124 @@
 									"episode": [
 										{
 											"name": "The Nightmare Begins",
-											"airdate": "13 November 1965"
+											"airdate": "13 November 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Day of Armageddon",
-											"airdate": "20 November 1965"
+											"airdate": "20 November 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Devil's Planet",
-											"airdate": "27 November 1965"
+											"airdate": "27 November 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Traitors",
-											"airdate": "4 December 1965"
+											"airdate": "4 December 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Counter Plot",
-											"airdate": "11 December 1965"
+											"airdate": "11 December 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Coronas of the Sun",
-											"airdate": "18 December 1965"
+											"airdate": "18 December 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Feast of Steven",
-											"airdate": "25 December 1965"
+											"airdate": "25 December 1965",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Volcano",
-											"airdate": "1 January 1966"
+											"airdate": "1 January 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Golden Death",
-											"airdate": "8 January 1966"
+											"airdate": "8 January 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Escape Switch",
-											"airdate": "15 January 1966"
+											"airdate": "15 January 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Abandoned Planet",
-											"airdate": "22 January 1966"
+											"airdate": "22 January 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Destruction of Time",
-											"airdate": "29 January 1966"
+											"airdate": "29 January 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1419,16 +1888,44 @@
 									"episode": [
 										{
 											"name": "War of God",
-											"airdate": "5 February 1966"
+											"airdate": "5 February 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Sea Beggar",
-											"airdate": "12 February 1966"
+											"airdate": "12 February 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Priest of Death",
-											"airdate": "19 February 1966"
+											"airdate": "19 February 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Bell of Doom",
-											"airdate": "26 February 1966"
+											"airdate": "26 February 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1473,16 +1970,44 @@
 									"episode": [
 										{
 											"name": "The Steel Sky",
-											"airdate": "5 March 1966"
+											"airdate": "5 March 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Plague",
-											"airdate": "12 March 1966"
+											"airdate": "12 March 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Return",
-											"airdate": "19 March 1966"
+											"airdate": "19 March 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Bomb",
-											"airdate": "26 March 1966"
+											"airdate": "26 March 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1521,16 +2046,44 @@
 									"episode": [
 										{
 											"name": "The Celestial Toyroom",
-											"airdate": "2 April 1966"
+											"airdate": "2 April 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Hall of Dolls",
-											"airdate": "9 April 1966"
+											"airdate": "9 April 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Dancing Floor",
-											"airdate": "16 April 1966"
+											"airdate": "16 April 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The Final Test",
-											"airdate": "23 April 1966"
+											"airdate": "23 April 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1569,16 +2122,44 @@
 									"episode": [
 										{
 											"name": "A Holiday for the Doctor",
-											"airdate": "30 April 1966"
+											"airdate": "30 April 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Don't Shoot the Pianist",
-											"airdate": "7 May 1966"
+											"airdate": "7 May 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Johnny Ringo",
-											"airdate": "14 May 1966"
+											"airdate": "14 May 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "The OK Corral",
-											"airdate": "21 May 1966"
+											"airdate": "21 May 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1617,16 +2198,44 @@
 									"episode": [
 										{
 											"name": "Episode 1",
-											"airdate": "28 May 1966"
+											"airdate": "28 May 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 2",
-											"airdate": "4 June 1966"
+											"airdate": "4 June 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 3",
-											"airdate": "11 June 1966"
+											"airdate": "11 June 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 4",
-											"airdate": "18 June 1966"
+											"airdate": "18 June 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1670,16 +2279,44 @@
 									"episode": [
 										{
 											"name": "Episode 1",
-											"airdate": "25 June 1966"
+											"airdate": "25 June 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 2",
-											"airdate": "2 July 1966"
+											"airdate": "2 July 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 3",
-											"airdate": "9 July 1966"
+											"airdate": "9 July 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 4",
-											"airdate": "16 July 1966"
+											"airdate": "16 July 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1743,16 +2380,44 @@
 									"episode": [
 										{
 											"name": "Episode 1",
-											"airdate": "10 September 1966"
+											"airdate": "10 September 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 2",
-											"airdate": "10 September 1966"
+											"airdate": "10 September 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 3",
-											"airdate": "24 September 1966"
+											"airdate": "24 September 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 4",
-											"airdate": "1 October 1966"
+											"airdate": "1 October 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1795,16 +2460,44 @@
 									"episode": [
 										{
 											"name": "Episode 1",
-											"airdate": "8 October 1966"
+											"airdate": "8 October 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 2",
-											"airdate": "15 October 1966"
+											"airdate": "15 October 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 3",
-											"airdate": "22 October 1966"
+											"airdate": "22 October 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 4",
-											"airdate": "29 October 1966"
+											"airdate": "29 October 1966",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}	
@@ -1840,16 +2533,44 @@
 									"episode": [
 										{
 											"name": "Episode 1",
-											"airdate": "30 December 1972"
+											"airdate": "30 December 1972",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 2",
-											"airdate": "6 January 1973"
+											"airdate": "6 January 1973",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 3",
-											"airdate": "13 January 1973"
+											"airdate": "13 January 1973",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										},{
 											"name": "Episode 4",
-											"airdate": "20 January 1973"
+											"airdate": "20 January 1973",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -1867,7 +2588,7 @@
 							{
 								"name": "The Name of the Doctor",
 								"airdate": "18 May 2013",
-								"production_code": "7.13"
+								"production_code": "7.13",
 								"companions": {
 									"companion": [
 										{ 
@@ -1894,14 +2615,21 @@
 									"episode": [
 										{
 											"name": "The Name of the Doctor",
-											"airdate": "18 May 2013"
+											"airdate": "18 May 2013",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
 							}, {
 								"name": "The Day of the Doctor",
 								"airdate": "23 November 2013",
-								"production_code": "TBA"
+								"production_code": "TBA",
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -1921,7 +2649,20 @@
 									"episode": [
 										{
 											"name": "The Day of the Doctor",
-											"airdate": "23 November 2013"
+											"airdate": "23 November 2013",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											],
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
 										}
 									]
 								}
@@ -2034,7 +2775,7 @@
 							{
 								"name": "The Five Doctors",
 								"airdate": "25 November 1983",
-								"production_code": "6K"
+								"production_code": "6K",
 								"companions": {
 									"companion": [
 										{ 
@@ -2107,7 +2848,9 @@
 									"episode": [
 										{
 											"name": "The Five Doctors",
-											"airdate": "25 November 1983"
+											"airdate": "25 November 1983",
+											"overview": "Gallifrey, planet of the Time Lords. The Death Zone, where the ancient Gallifreyans once staged gladiatorial games between alien races from throughout the universe, has been reactivated. No less than three of the Doctor's former incarnations and several of his companions are brought here. But why? And who is the Player in the Game of Rassilon?",
+											"director": "Peter Moffatt"
 										}
 									]
 								}	
