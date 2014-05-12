@@ -683,13 +683,512 @@
 									]
 								}	
 							}, {
-								"name": "",
+								"name": "The Evil of the Daleks",
+								"airdate": "20 May 1967 - 1 July 1967",
+								"production_code": "LL",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Robert Jewell"
+												}, {
+													"name": "Gerald Taylor"
+												}, {
+													"name": "John Scott Martin"
+												}, {
+													"name": "Murphy Grumbar"
+												}, {
+													"name": "Ken Tyllsen"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "20 May 1967",
+											"overview": "The TARDIS is stolen from Gatwick Airport, and when the Doctor and Jamie investigate they stumble into a trap set by Edward Waterfield, a time-traveller from the year 1866. His daughter Victoria has been kidnapped by the Daleks, in order to force him to lure the Doctor into their clutches. The Daleks have realised that human beings possess unique qualities which have enabled them to defeat the Daleks on every occasion the two races have fought; thus, the Daleks order the Doctor to monitor Jamie while he attempts to rescue Victoria, and synthesise the elusive Human Factor, which they intend to add to their own genetic makeup. The Doctor does so, and as he'd hoped, the test Daleks imbued with the Human Factor become playful and friendly. However, the Dalek Emperor then reveals that his real intention was to isolate the Dalek Factor and force the Doctor to spread it to the rest of humanity. The Emperor's plan fails, however, as the Doctor is not human and the Dalek Factor has no effect on him. The Doctor therefore tricks the Emperor into administring the Human Factor to several more Daleks, who begin to question authority and rebel against the Emperor. Waterfield dies saving the Doctor's life, and the Doctor and Jamie take Victoria with them as they depart, leaving the Dalek factions to fight each other to the death.",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "27 May 1967",
+											"overview": "The TARDIS is stolen from Gatwick Airport, and when the Doctor and Jamie investigate they stumble into a trap set by Edward Waterfield, a time-traveller from the year 1866. His daughter Victoria has been kidnapped by the Daleks, in order to force him to lure the Doctor into their clutches. The Daleks have realised that human beings possess unique qualities which have enabled them to defeat the Daleks on every occasion the two races have fought; thus, the Daleks order the Doctor to monitor Jamie while he attempts to rescue Victoria, and synthesise the elusive Human Factor, which they intend to add to their own genetic makeup. The Doctor does so, and as he'd hoped, the test Daleks imbued with the Human Factor become playful and friendly. However, the Dalek Emperor then reveals that his real intention was to isolate the Dalek Factor and force the Doctor to spread it to the rest of humanity. The Emperor's plan fails, however, as the Doctor is not human and the Dalek Factor has no effect on him. The Doctor therefore tricks the Emperor into administring the Human Factor to several more Daleks, who begin to question authority and rebel against the Emperor. Waterfield dies saving the Doctor's life, and the Doctor and Jamie take Victoria with them as they depart, leaving the Dalek factions to fight each other to the death.",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 3",
+											"airdate": "3 June 1967",
+											"overview": "The TARDIS is stolen from Gatwick Airport, and when the Doctor and Jamie investigate they stumble into a trap set by Edward Waterfield, a time-traveller from the year 1866. His daughter Victoria has been kidnapped by the Daleks, in order to force him to lure the Doctor into their clutches. The Daleks have realised that human beings possess unique qualities which have enabled them to defeat the Daleks on every occasion the two races have fought; thus, the Daleks order the Doctor to monitor Jamie while he attempts to rescue Victoria, and synthesise the elusive Human Factor, which they intend to add to their own genetic makeup. The Doctor does so, and as he'd hoped, the test Daleks imbued with the Human Factor become playful and friendly. However, the Dalek Emperor then reveals that his real intention was to isolate the Dalek Factor and force the Doctor to spread it to the rest of humanity. The Emperor's plan fails, however, as the Doctor is not human and the Dalek Factor has no effect on him. The Doctor therefore tricks the Emperor into administring the Human Factor to several more Daleks, who begin to question authority and rebel against the Emperor. Waterfield dies saving the Doctor's life, and the Doctor and Jamie take Victoria with them as they depart, leaving the Dalek factions to fight each other to the death.",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "10 June 1967",
+											"overview": "The TARDIS is stolen from Gatwick Airport, and when the Doctor and Jamie investigate they stumble into a trap set by Edward Waterfield, a time-traveller from the year 1866. His daughter Victoria has been kidnapped by the Daleks, in order to force him to lure the Doctor into their clutches. The Daleks have realised that human beings possess unique qualities which have enabled them to defeat the Daleks on every occasion the two races have fought; thus, the Daleks order the Doctor to monitor Jamie while he attempts to rescue Victoria, and synthesise the elusive Human Factor, which they intend to add to their own genetic makeup. The Doctor does so, and as he'd hoped, the test Daleks imbued with the Human Factor become playful and friendly. However, the Dalek Emperor then reveals that his real intention was to isolate the Dalek Factor and force the Doctor to spread it to the rest of humanity. The Emperor's plan fails, however, as the Doctor is not human and the Dalek Factor has no effect on him. The Doctor therefore tricks the Emperor into administring the Human Factor to several more Daleks, who begin to question authority and rebel against the Emperor. Waterfield dies saving the Doctor's life, and the Doctor and Jamie take Victoria with them as they depart, leaving the Dalek factions to fight each other to the death.",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 5",
+											"airdate": "17 June 1967",
+											"overview": "The TARDIS is stolen from Gatwick Airport, and when the Doctor and Jamie investigate they stumble into a trap set by Edward Waterfield, a time-traveller from the year 1866. His daughter Victoria has been kidnapped by the Daleks, in order to force him to lure the Doctor into their clutches. The Daleks have realised that human beings possess unique qualities which have enabled them to defeat the Daleks on every occasion the two races have fought; thus, the Daleks order the Doctor to monitor Jamie while he attempts to rescue Victoria, and synthesise the elusive Human Factor, which they intend to add to their own genetic makeup. The Doctor does so, and as he'd hoped, the test Daleks imbued with the Human Factor become playful and friendly. However, the Dalek Emperor then reveals that his real intention was to isolate the Dalek Factor and force the Doctor to spread it to the rest of humanity. The Emperor's plan fails, however, as the Doctor is not human and the Dalek Factor has no effect on him. The Doctor therefore tricks the Emperor into administring the Human Factor to several more Daleks, who begin to question authority and rebel against the Emperor. Waterfield dies saving the Doctor's life, and the Doctor and Jamie take Victoria with them as they depart, leaving the Dalek factions to fight each other to the death.",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 6",
+											"airdate": "24 June 1967",
+											"overview": "The TARDIS is stolen from Gatwick Airport, and when the Doctor and Jamie investigate they stumble into a trap set by Edward Waterfield, a time-traveller from the year 1866. His daughter Victoria has been kidnapped by the Daleks, in order to force him to lure the Doctor into their clutches. The Daleks have realised that human beings possess unique qualities which have enabled them to defeat the Daleks on every occasion the two races have fought; thus, the Daleks order the Doctor to monitor Jamie while he attempts to rescue Victoria, and synthesise the elusive Human Factor, which they intend to add to their own genetic makeup. The Doctor does so, and as he'd hoped, the test Daleks imbued with the Human Factor become playful and friendly. However, the Dalek Emperor then reveals that his real intention was to isolate the Dalek Factor and force the Doctor to spread it to the rest of humanity. The Emperor's plan fails, however, as the Doctor is not human and the Dalek Factor has no effect on him. The Doctor therefore tricks the Emperor into administring the Human Factor to several more Daleks, who begin to question authority and rebel against the Emperor. Waterfield dies saving the Doctor's life, and the Doctor and Jamie take Victoria with them as they depart, leaving the Dalek factions to fight each other to the death.",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 7",
+											"airdate": "1 July 1967",
+											"overview": "The TARDIS is stolen from Gatwick Airport, and when the Doctor and Jamie investigate they stumble into a trap set by Edward Waterfield, a time-traveller from the year 1866. His daughter Victoria has been kidnapped by the Daleks, in order to force him to lure the Doctor into their clutches. The Daleks have realised that human beings possess unique qualities which have enabled them to defeat the Daleks on every occasion the two races have fought; thus, the Daleks order the Doctor to monitor Jamie while he attempts to rescue Victoria, and synthesise the elusive Human Factor, which they intend to add to their own genetic makeup. The Doctor does so, and as he'd hoped, the test Daleks imbued with the Human Factor become playful and friendly. However, the Dalek Emperor then reveals that his real intention was to isolate the Dalek Factor and force the Doctor to spread it to the rest of humanity. The Emperor's plan fails, however, as the Doctor is not human and the Dalek Factor has no effect on him. The Doctor therefore tricks the Emperor into administring the Human Factor to several more Daleks, who begin to question authority and rebel against the Emperor. Waterfield dies saving the Doctor's life, and the Doctor and Jamie take Victoria with them as they depart, leaving the Dalek factions to fight each other to the death.",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}
+									]
+								}	
+							}							
+						]
+					}
+				}, {
+					"season": "5",
+					"from": "1963",
+					"to": "1964",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Tomb of the Cybermen",
+								"airdate": "2 September 1967 - 23 September 1967",
+								"production_code": "MM",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "Michael Kilgarriff"
+												}, {
+													"name": "Hans de Vries"
+												}, {	
+													"name": "Tony Harwood"
+												}, {	
+													"name": "John Hogan"
+												}, {	
+													"name": "Richard Kerley"
+												}, {	
+													"name": "Ronald Lee"
+												}, {	
+													"name": "Charles Pemberton"
+												}, {	
+													"name": "Kenneth Seeger"
+												}, {	
+													"name": "Reg Whitehead"
+												}
+											]
+										}, {
+											"enemy": "Kaftan",
+											"actor": [
+												{
+													"name": "Shirley Cooklin"
+												}
+											]
+										}, {
+											"enemy": "Eric Klieg",
+											"actor": [
+												{
+													"name": "George Pastell"
+												}
+											]
+										}, {
+											"enemy": "Toberman",
+											"actor": [
+												{
+													"name": "Roy Stewart"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "16mm t/r",
+											"name": "Episode 1",
+											"airdate": "2 September 1967",
+											"overview": "A team of archaeologists travels to the planet Telos, the home of the Cybermen, to excavate the tombs of the long-extinct cybernetic race. At least, it's assumed that they're extinct. The Doctor isn't sure that the tombs should be disturbed, but he soon comes to suspect that some of the \"archaeologists\" have an agenda far more dangerous than the team leader, Parry, suspects. In order to find out what the sinister Kleig and Kaftan are really up to, the Doctor helps the archaeologists to enter the tombs – where they find that the Cybermen are only dormant, not dead, and that Kleig and Kaftan intend to revive them. But they have underestimated the power of the Cybermen, and only the Doctor can save the archaeologists from being transformed into Cybermen themselves.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "9 September 1967",
+											"overview": "A team of archaeologists travels to the planet Telos, the home of the Cybermen, to excavate the tombs of the long-extinct cybernetic race. At least, it's assumed that they're extinct. The Doctor isn't sure that the tombs should be disturbed, but he soon comes to suspect that some of the \"archaeologists\" have an agenda far more dangerous than the team leader, Parry, suspects. In order to find out what the sinister Kleig and Kaftan are really up to, the Doctor helps the archaeologists to enter the tombs – where they find that the Cybermen are only dormant, not dead, and that Kleig and Kaftan intend to revive them. But they have underestimated the power of the Cybermen, and only the Doctor can save the archaeologists from being transformed into Cybermen themselves.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "16 September 1967",
+											"overview": "A team of archaeologists travels to the planet Telos, the home of the Cybermen, to excavate the tombs of the long-extinct cybernetic race. At least, it's assumed that they're extinct. The Doctor isn't sure that the tombs should be disturbed, but he soon comes to suspect that some of the \"archaeologists\" have an agenda far more dangerous than the team leader, Parry, suspects. In order to find out what the sinister Kleig and Kaftan are really up to, the Doctor helps the archaeologists to enter the tombs – where they find that the Cybermen are only dormant, not dead, and that Kleig and Kaftan intend to revive them. But they have underestimated the power of the Cybermen, and only the Doctor can save the archaeologists from being transformed into Cybermen themselves.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 4",
+											"airdate": "23 September 1967",
+											"overview": "A team of archaeologists travels to the planet Telos, the home of the Cybermen, to excavate the tombs of the long-extinct cybernetic race. At least, it's assumed that they're extinct. The Doctor isn't sure that the tombs should be disturbed, but he soon comes to suspect that some of the \"archaeologists\" have an agenda far more dangerous than the team leader, Parry, suspects. In order to find out what the sinister Kleig and Kaftan are really up to, the Doctor helps the archaeologists to enter the tombs – where they find that the Cybermen are only dormant, not dead, and that Kleig and Kaftan intend to revive them. But they have underestimated the power of the Cybermen, and only the Doctor can save the archaeologists from being transformed into Cybermen themselves.",
+											"director": "Morris Barry",
+											"writers": [
+												{
+													"name": "Kit Pedler"
+												}, {
+													"name": "Gerry Davis"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Abominable Snowmen",
+								"airdate": "30 September 1967 - 4 November 1967",
+								"production_code": "NN",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Wolfe Morris"
+												}
+											]
+										}, {
+											"enemy": "Yeti",
+											"actor": [
+												{
+													"name": "Reg Whitehead"
+												}, {	
+													"name": "Tony Harwood"
+												}, {	
+													"name": "Richard Kerley"
+												}, {	
+													"name": "John Hogan"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "30 September 1967",
+											"overview": "The Doctor returns to a Tibetan monastery which he hasn't visited for 300 years, only to be accused of murder. The legendary Yeti, normally timid and elusive creatures, have suddenly become vicious and savage, and many monks and visitors to the monastery have been killed. The Doctor faces suspicion from the monks and from the British explorer Travers, who's determined to prove that the Yeti exist and initially fears that the Doctor is from a rival expedition. Eventually the Doctor discovers that the savage Yeti are robots, built by an alien Intelligence who has possessed one of the monks. The Intelligence claims that it only wants physical being – but in fact, its new physical form will consume the entire Earth unless stopped.",
+											"director": "Gerald Blake",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 2",
+											"airdate": "7 October 1967",
+											"overview": "The Doctor returns to a Tibetan monastery which he hasn't visited for 300 years, only to be accused of murder. The legendary Yeti, normally timid and elusive creatures, have suddenly become vicious and savage, and many monks and visitors to the monastery have been killed. The Doctor faces suspicion from the monks and from the British explorer Travers, who's determined to prove that the Yeti exist and initially fears that the Doctor is from a rival expedition. Eventually the Doctor discovers that the savage Yeti are robots, built by an alien Intelligence who has possessed one of the monks. The Intelligence claims that it only wants physical being – but in fact, its new physical form will consume the entire Earth unless stopped.",
+											"director": "Gerald Blake",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 3",
+											"airdate": "14 October 1967",
+											"overview": "The Doctor returns to a Tibetan monastery which he hasn't visited for 300 years, only to be accused of murder. The legendary Yeti, normally timid and elusive creatures, have suddenly become vicious and savage, and many monks and visitors to the monastery have been killed. The Doctor faces suspicion from the monks and from the British explorer Travers, who's determined to prove that the Yeti exist and initially fears that the Doctor is from a rival expedition. Eventually the Doctor discovers that the savage Yeti are robots, built by an alien Intelligence who has possessed one of the monks. The Intelligence claims that it only wants physical being – but in fact, its new physical form will consume the entire Earth unless stopped.",
+											"director": "Gerald Blake",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "21 October 1967",
+											"overview": "The Doctor returns to a Tibetan monastery which he hasn't visited for 300 years, only to be accused of murder. The legendary Yeti, normally timid and elusive creatures, have suddenly become vicious and savage, and many monks and visitors to the monastery have been killed. The Doctor faces suspicion from the monks and from the British explorer Travers, who's determined to prove that the Yeti exist and initially fears that the Doctor is from a rival expedition. Eventually the Doctor discovers that the savage Yeti are robots, built by an alien Intelligence who has possessed one of the monks. The Intelligence claims that it only wants physical being – but in fact, its new physical form will consume the entire Earth unless stopped.",
+											"director": "Gerald Blake",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 5",
+											"airdate": "28 October 1967",
+											"overview": "The Doctor returns to a Tibetan monastery which he hasn't visited for 300 years, only to be accused of murder. The legendary Yeti, normally timid and elusive creatures, have suddenly become vicious and savage, and many monks and visitors to the monastery have been killed. The Doctor faces suspicion from the monks and from the British explorer Travers, who's determined to prove that the Yeti exist and initially fears that the Doctor is from a rival expedition. Eventually the Doctor discovers that the savage Yeti are robots, built by an alien Intelligence who has possessed one of the monks. The Intelligence claims that it only wants physical being – but in fact, its new physical form will consume the entire Earth unless stopped.",
+											"director": "Gerald Blake",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 6",
+											"airdate": "4 November 1967",
+											"overview": "The Doctor returns to a Tibetan monastery which he hasn't visited for 300 years, only to be accused of murder. The legendary Yeti, normally timid and elusive creatures, have suddenly become vicious and savage, and many monks and visitors to the monastery have been killed. The Doctor faces suspicion from the monks and from the British explorer Travers, who's determined to prove that the Yeti exist and initially fears that the Doctor is from a rival expedition. Eventually the Doctor discovers that the savage Yeti are robots, built by an alien Intelligence who has possessed one of the monks. The Intelligence claims that it only wants physical being – but in fact, its new physical form will consume the entire Earth unless stopped.",
+											"director": "Gerald Blake",
+											"writers": [
+												{
+													"name": "Mervyn Haisman"
+												}, {
+													"name": "Henry Lincoln"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Ice Warriors",
+								"airdate": "11 November 1967 - 16 December 1967",
+								"production_code": "OO",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Ice Warriors",
+											"actor": [
+												{
+													"name": "Bernard Bresslaw"
+												}, {
+													"name": "Roger Jones"
+												}, {
+													"name": "Sonny Caldinez"
+												}, {
+													"name": "Tony Harwood"
+												}, {
+													"name": "Michael Attwell"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "16mm t/r",
+											"name": "One",
+											"airdate": "11 November 1967",
+											"overview": "In the 30th century, Earth is experiencing a new Ice Age, and bases all across the world are struggling to hold back the advancing glaciers. Brittanicus Base is running into difficulty, however, as Leader Clent's stubborn reliance on the base computer has alienated the humanist scientist Penley, who has deserted the base and gone out to live in the snowy wilderness outside. When the Doctor shows up, Clent enlists his help to get the malfunctioning Ioniser back on-line. However, more problems ensue when the frozen body of a Martian warrior is discovered in the nearby glacier. If an alien spacecraft is buried in the glacier, then use of the Ioniser at full power could cause its power source to explode and irradiate all of Britain. And then the Ice Warrior unexpectedly returns to life, kidnaps Victoria, revives the others of its kind and prepares to attack the presumably hostile base...",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Two",
+											"airdate": "18 November 1967",
+											"overview": "In the 30th century, Earth is experiencing a new Ice Age, and bases all across the world are struggling to hold back the advancing glaciers. Brittanicus Base is running into difficulty, however, as Leader Clent's stubborn reliance on the base computer has alienated the humanist scientist Penley, who has deserted the base and gone out to live in the snowy wilderness outside. When the Doctor shows up, Clent enlists his help to get the malfunctioning Ioniser back on-line. However, more problems ensue when the frozen body of a Martian warrior is discovered in the nearby glacier. If an alien spacecraft is buried in the glacier, then use of the Ioniser at full power could cause its power source to explode and irradiate all of Britain. And then the Ice Warrior unexpectedly returns to life, kidnaps Victoria, revives the others of its kind and prepares to attack the presumably hostile base...",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Three",
+											"airdate": "25 November 1967",
+											"overview": "In the 30th century, Earth is experiencing a new Ice Age, and bases all across the world are struggling to hold back the advancing glaciers. Brittanicus Base is running into difficulty, however, as Leader Clent's stubborn reliance on the base computer has alienated the humanist scientist Penley, who has deserted the base and gone out to live in the snowy wilderness outside. When the Doctor shows up, Clent enlists his help to get the malfunctioning Ioniser back on-line. However, more problems ensue when the frozen body of a Martian warrior is discovered in the nearby glacier. If an alien spacecraft is buried in the glacier, then use of the Ioniser at full power could cause its power source to explode and irradiate all of Britain. And then the Ice Warrior unexpectedly returns to life, kidnaps Victoria, revives the others of its kind and prepares to attack the presumably hostile base...",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Four",
+											"airdate": "2 December 1967",
+											"overview": "In the 30th century, Earth is experiencing a new Ice Age, and bases all across the world are struggling to hold back the advancing glaciers. Brittanicus Base is running into difficulty, however, as Leader Clent's stubborn reliance on the base computer has alienated the humanist scientist Penley, who has deserted the base and gone out to live in the snowy wilderness outside. When the Doctor shows up, Clent enlists his help to get the malfunctioning Ioniser back on-line. However, more problems ensue when the frozen body of a Martian warrior is discovered in the nearby glacier. If an alien spacecraft is buried in the glacier, then use of the Ioniser at full power could cause its power source to explode and irradiate all of Britain. And then the Ice Warrior unexpectedly returns to life, kidnaps Victoria, revives the others of its kind and prepares to attack the presumably hostile base...",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Five",
+											"airdate": "9 December 1967",
+											"overview": "In the 30th century, Earth is experiencing a new Ice Age, and bases all across the world are struggling to hold back the advancing glaciers. Brittanicus Base is running into difficulty, however, as Leader Clent's stubborn reliance on the base computer has alienated the humanist scientist Penley, who has deserted the base and gone out to live in the snowy wilderness outside. When the Doctor shows up, Clent enlists his help to get the malfunctioning Ioniser back on-line. However, more problems ensue when the frozen body of a Martian warrior is discovered in the nearby glacier. If an alien spacecraft is buried in the glacier, then use of the Ioniser at full power could cause its power source to explode and irradiate all of Britain. And then the Ice Warrior unexpectedly returns to life, kidnaps Victoria, revives the others of its kind and prepares to attack the presumably hostile base...",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Six",
+											"airdate": "16 December 1967",
+											"overview": "In the 30th century, Earth is experiencing a new Ice Age, and bases all across the world are struggling to hold back the advancing glaciers. Brittanicus Base is running into difficulty, however, as Leader Clent's stubborn reliance on the base computer has alienated the humanist scientist Penley, who has deserted the base and gone out to live in the snowy wilderness outside. When the Doctor shows up, Clent enlists his help to get the malfunctioning Ioniser back on-line. However, more problems ensue when the frozen body of a Martian warrior is discovered in the nearby glacier. If an alien spacecraft is buried in the glacier, then use of the Ioniser at full power could cause its power source to explode and irradiate all of Britain. And then the Ice Warrior unexpectedly returns to life, kidnaps Victoria, revives the others of its kind and prepares to attack the presumably hostile base...",
+											"director": "Derek Martinus",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Enemy of the World",
 								"airdate": "",
 								"production_code": "",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -724,25 +1223,113 @@
 										}
 									]
 								}	
-							}							
-						]
-					}
-				}, {
-					"season": "5",
-					"from": "1963",
-					"to": "1964",
-					"classic": "yes",
-					"new": "no",
-					"serials": {
-						"serial": [
-							{
-								"name": "",
+							}, {
+								"name": "The Web of Fear",
 								"airdate": "",
 								"production_code": "",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Fury from the Deep",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Wheel in Space",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jamie McCrimmon",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}, { 
+											"character": "Victoria Waterfield",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
