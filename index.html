@@ -15,7 +15,7 @@ $(function() {
 	var dr = 'doctors.json';
 	$.getJSON(dr, function(data) {
 		var doc = '<ul class="doctors">';
-		doc += '<li class="doctor"><a href="#" data-doctor="'+data[0].json+'">'+data[0].doctor+' Doctor</a></li>';
+		doc += '<li class="doctor"><a href="#" data-doctor="'+data[0].json+'">'+data[0].doctor+' Doctors</a></li>';
 		doc += '<li class="doctor"><a href="#" data-doctor="'+data[1].json+'">'+data[1].doctor+' Doctor</a></li>';
 		doc += '<li class="doctor"><a href="#" data-doctor="'+data[2].json+'">'+data[2].doctor+' Doctor</a></li>';
 		doc += '<li class="doctor"><a href="#" data-doctor="'+data[3].json+'">'+data[3].doctor+' Doctor</a></li>';
