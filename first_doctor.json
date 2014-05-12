@@ -75,7 +75,7 @@
 								}	
 							}, {
 								"name": "An Unearthly Child",
-								"airdate": "23 November - 14 December 1963",
+								"airdate": "23 November - 14 December 1963",,
 								"production_code": "A",
 								"companions": {
 									"companion": [
@@ -132,7 +132,7 @@
 								}	
 							}, {
 								"name": "The Daleks",
-								"airdate": "21 December 1963 - 1 February 1964",
+								"airdate": "21 December 1963 - 1 February 1964",,
 								"production_code": "B",
 								"companions": {
 									"companion": [
@@ -502,22 +502,28 @@
 									"episode": [
 										{
 											"name": "Strangers in Space",
-											"airdate": "20 June 1964"
+											"airdate": "20 June 1964",
+											"overview": "The 28th century. The TARDIS materialises on a spaceship orbiting a planet known as the Sense-Sphere, whose natives, the Sensorites, have trapped the ship's human crew in a state of paralysis."
 										},{
 											"name": "The Unwilling Warriors",
-											"airdate": "27 June 1964"
+											"airdate": "27 June 1964",
+											"overview": "The Doctor and his companions are on board an Earth ship trapped in orbit around the Sense-Sphere when it is boarded by the Sensorites, who steal the lock mechanism from the TARDIS."
 										},{
 											"name": "Hidden Danger",
-											"airdate": "11 July 1964"
+											"airdate": "11 July 1964",
+											"overview": "The Doctor and his companions are escorted to the Sense-Sphere where they attempt to negotiate with the Sensorites for the release of the TARDIS."
 										},{
 											"name": "A Race Against Death",
-											"airdate": "18 July 1964"
+											"airdate": "18 July 1964",
+											"overview": "Trapped on the Sense-Sphere, Ian is dying from the illness that has been killing the Sensorites and the Doctor tries to find a cure."
 										},{
 											"name": "Kidnap",
-											"airdate": "25 July 1964"
+											"airdate": "25 July 1964",
+											"overview": "Trapped on the Sense-Sphere, the Doctor's investigations into the cause of the sickness affecting the Sensorites are hampered by the subversive activities of the City Administrator."
 										},{
 											"name": "A Desperate Venture",
-											"airdate": "1 August 1964"
+											"airdate": "1 August 1964",
+											"overview": "Trapped on the Sense-Sphere, the Doctor and his companions find three deranged human survivors who have been fighting a guerilla war against the Sensorites."
 										}
 									]
 								}
@@ -1861,7 +1867,7 @@
 							{
 								"name": "The Name of the Doctor",
 								"airdate": "18 May 2013",
-								"production_code": "7.13",
+								"production_code": "7.13"
 								"companions": {
 									"companion": [
 										{ 
@@ -1895,7 +1901,7 @@
 							}, {
 								"name": "The Day of the Doctor",
 								"airdate": "23 November 2013",
-								"production_code": "TBA",
+								"production_code": "TBA"
 								"companions": { },
 								"enemies": {
 									"enemy": [
@@ -2028,7 +2034,7 @@
 							{
 								"name": "The Five Doctors",
 								"airdate": "25 November 1983",
-								"production_code": "6K",
+								"production_code": "6K"
 								"companions": {
 									"companion": [
 										{ 
