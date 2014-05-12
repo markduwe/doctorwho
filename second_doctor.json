@@ -1509,8 +1509,8 @@
 								}	
 							}, {
 								"name": "The Wheel in Space",
-								"airdate": "",
-								"production_code": "",
+								"airdate": "27 April 1968 - 1 June 1968",
+								"production_code": "SS",
 								"companions": {
 									"companion": [
 										{ 
@@ -1529,10 +1529,12 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": " ",
+											"enemy": "Cybermen",
 											"actor": [
 												{
-													"name": " "
+													"name": "Jerry Holmes"
+												}, {
+													"name": "Gordon Stothard"
 												}
 											]
 										}
@@ -1541,14 +1543,69 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 1",
+											"airdate": "27 April 1968",
+											"overview": "The TARDIS materialises on a deserted rocket in deep space, where the Doctor suffers concussion after an abrupt course change, and he and Jamie are attacked by a hostile servo-robot. Jamie manages to attract attention from a nearby space station, but the crew then attempt to destroy the apparently deserted rocket – and in order to save the TARDIS, Jamie must sabotage the station's asteroid defense laser. He and the Doctor thus face extremly hostile questioning, but the real threat is aboard the space rocket, where two Cybermen are preparing to infiltrate the station, open the way for their army to arrive and use the Wheel as the first stepping stone in an invasion of Earth. After the Cybermen are defeated, the Doctor and Jamie depart with a new companion – computer programmer Zoe Heriot, who finds her ordinary life dull and seeks adventure with them.",
+											"director": "Tristan De Vere Cole",
 											"writers": [
 												{
-													"name": ""
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 2",
+											"airdate": "4 May 1968",
+											"overview": "The TARDIS materialises on a deserted rocket in deep space, where the Doctor suffers concussion after an abrupt course change, and he and Jamie are attacked by a hostile servo-robot. Jamie manages to attract attention from a nearby space station, but the crew then attempt to destroy the apparently deserted rocket – and in order to save the TARDIS, Jamie must sabotage the station's asteroid defense laser. He and the Doctor thus face extremly hostile questioning, but the real threat is aboard the space rocket, where two Cybermen are preparing to infiltrate the station, open the way for their army to arrive and use the Wheel as the first stepping stone in an invasion of Earth. After the Cybermen are defeated, the Doctor and Jamie depart with a new companion – computer programmer Zoe Heriot, who finds her ordinary life dull and seeks adventure with them.",
+											"director": "Tristan De Vere Cole",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 3",
+											"airdate": "11 May 1968",
+											"overview": "The TARDIS materialises on a deserted rocket in deep space, where the Doctor suffers concussion after an abrupt course change, and he and Jamie are attacked by a hostile servo-robot. Jamie manages to attract attention from a nearby space station, but the crew then attempt to destroy the apparently deserted rocket – and in order to save the TARDIS, Jamie must sabotage the station's asteroid defense laser. He and the Doctor thus face extremly hostile questioning, but the real threat is aboard the space rocket, where two Cybermen are preparing to infiltrate the station, open the way for their army to arrive and use the Wheel as the first stepping stone in an invasion of Earth. After the Cybermen are defeated, the Doctor and Jamie depart with a new companion – computer programmer Zoe Heriot, who finds her ordinary life dull and seeks adventure with them.",
+											"director": "Tristan De Vere Cole",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 4",
+											"airdate": "18 May 1968",
+											"overview": "The TARDIS materialises on a deserted rocket in deep space, where the Doctor suffers concussion after an abrupt course change, and he and Jamie are attacked by a hostile servo-robot. Jamie manages to attract attention from a nearby space station, but the crew then attempt to destroy the apparently deserted rocket – and in order to save the TARDIS, Jamie must sabotage the station's asteroid defense laser. He and the Doctor thus face extremly hostile questioning, but the real threat is aboard the space rocket, where two Cybermen are preparing to infiltrate the station, open the way for their army to arrive and use the Wheel as the first stepping stone in an invasion of Earth. After the Cybermen are defeated, the Doctor and Jamie depart with a new companion – computer programmer Zoe Heriot, who finds her ordinary life dull and seeks adventure with them.",
+											"director": "Tristan De Vere Cole",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "Only stills and/or fragments exist",
+											"name": "Episode 5",
+											"airdate": "25 May 1968",
+											"overview": "The TARDIS materialises on a deserted rocket in deep space, where the Doctor suffers concussion after an abrupt course change, and he and Jamie are attacked by a hostile servo-robot. Jamie manages to attract attention from a nearby space station, but the crew then attempt to destroy the apparently deserted rocket – and in order to save the TARDIS, Jamie must sabotage the station's asteroid defense laser. He and the Doctor thus face extremly hostile questioning, but the real threat is aboard the space rocket, where two Cybermen are preparing to infiltrate the station, open the way for their army to arrive and use the Wheel as the first stepping stone in an invasion of Earth. After the Cybermen are defeated, the Doctor and Jamie depart with a new companion – computer programmer Zoe Heriot, who finds her ordinary life dull and seeks adventure with them.",
+											"director": "Tristan De Vere Cole",
+											"writers": [
+												{
+													"name": "David Whitaker"
+												}
+											]
+										}, {
+											"archive": "16mm t/r",
+											"name": "Episode 6",
+											"airdate": "1 June 1968",
+											"overview": "The TARDIS materialises on a deserted rocket in deep space, where the Doctor suffers concussion after an abrupt course change, and he and Jamie are attacked by a hostile servo-robot. Jamie manages to attract attention from a nearby space station, but the crew then attempt to destroy the apparently deserted rocket – and in order to save the TARDIS, Jamie must sabotage the station's asteroid defense laser. He and the Doctor thus face extremly hostile questioning, but the real threat is aboard the space rocket, where two Cybermen are preparing to infiltrate the station, open the way for their army to arrive and use the Wheel as the first stepping stone in an invasion of Earth. After the Cybermen are defeated, the Doctor and Jamie depart with a new companion – computer programmer Zoe Heriot, who finds her ordinary life dull and seeks adventure with them.",
+											"director": "Tristan De Vere Cole",
+											"writers": [
+												{
+													"name": "David Whitaker"
 												}
 											]
 										}
