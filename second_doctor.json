@@ -18,8 +18,8 @@
 			"season": [
 				{
 					"season": "4",
-					"from": "1963",
-					"to": "1964",
+					"from": "1966",
+					"to": "1967",
 					"classic": "yes",
 					"new": "no",
 					"serials": {
@@ -808,8 +808,8 @@
 					}
 				}, {
 					"season": "5",
-					"from": "1963",
-					"to": "1964",
+					"from": "1967",
+					"to": "1968",
 					"classic": "yes",
 					"new": "no",
 					"serials": {
@@ -1616,13 +1616,265 @@
 					}
 				}, {
 					"season": "6",
-					"from": "1963",
-					"to": "1964",
+					"from": "1968",
+					"to": "1969",
 					"classic": "yes",
 					"new": "no",
 					"serials": {
 						"serial": [
 							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": " ",
+											"actor": [
+												{
+													"name": " "
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
 								"name": "",
 								"airdate": "",
 								"production_code": "",
