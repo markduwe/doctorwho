@@ -13,124 +13,98 @@
 <script>
 $(function() {
 	var dr = 'all_doctors.json';
-//	$.getJSON(dr, function(data) {
-//		var doc = '<ul class="doctors">';
-//		$.each(data, function (i, a) {
-//			doc += '<li class="doctor"><a href="#" data-doctor="'+a.json+'"><img src="'+a.img+'"> '+a.doctor+' Doctor</a></li>';		
-//		});
-//		doc += '</ul>'
-//		$('#doc').html(doc);
-//		$('body').on('click', 'a', function(e){
-//			e.preventDefault();
-//			var drJson = $(this).data('doctor');
-//			console.log(drJson);
-			$.getJSON(dr, function(data) {
-				var doc = '<ul class="doctors">';
-				$.each(data, function (i, a) {
-					doc += '<li><h2>'+a.actor+'</h2>';
-					doc += '<ul class="doctor">';
-					doc += '<li>First appearance: <b>'+a.first_serial+'</b>, '+a.from+'</li>';
-					doc += '<li>Last appearance: <b>'+a.last_serial+'</b>, '+a.to+'</li>';
-					doc += '<li>First words: "<em>'+a.first_words+'</em>"</li>';
-					doc += '<li>Last words: "<em>'+a.last_words+'</em>"</li>';
-					doc += '<li>Sonic: '+a.sonic+'</li>';
+	$.getJSON(dr, function(data) {
+    	var doc = '<ul class="doctors">';
+    	$.each(data, function (i, a) {
+    		doc += '<li id="'+a.doctor+'" class="doctor"><h2>'+a.actor+'</h2>'
+	    		doc += '<ul class="'+a.doctor+' doctor">';
+					doc += '<li>First Appearance: <strong>'+a.first_serial+'</strong></li>';
+					doc += '<li>Last Appearance: <strong>'+a.last_serial+'</strong></li>';
+					doc += '<li>First Words: "<em>'+a.first_words+'</em>"</li>';
+					doc += '<li>Last Words"<em>'+a.last_words+'</em>"</li>';
+					doc += '<li>Sonic Screwdriver: '+a.sonic+'</li>';
 					doc += '<li>Description: '+a.description;
-					doc += '<ul>';
-					$.each(a.seasons.season, function (i, b) {
-						doc += '<li class="season"><h3>Season: '+b.season;
-						if(b.new == 'yes'){
-							doc += ' (new season)'
-						} else {
-							doc += ' (classic season)'
-						}
-						doc += ' from: '+b.from+' to: '+b.to+'</h3>';
-						doc += '<ul class="seasonDetails">';
-						$.each(b.serials.serial, function (i, c) {
-							doc += '<li class="episode"><h4>'+c.name+'</h4><span>Production Code: '+c.production_code+'</span><br /><span>Serial Overview: '+c.overview+'</span>';
-							doc += '<ul class="episode">';
-							$.each(c.episodes.episode, function (i, d) {
-								doc += '<li><h5>'+d.name+'</h5>';
-								if(d.archive != '') {
-									doc += ' ('+d.archive+')<br />';
-								}
-								doc += '('+d.airdate+')<br /><span>'+d.overview+'</span><br /><span>Director: <b>'+d.director+'</b></span>';
-								$.each(d.writers, function (i, e) {
-									doc += '<br /><span>Writer: <b>'+e.name+'</b>';
+						doc += '<ul class="seasons">';
+							doc += '<li class="season"><h3>Seasons</h3>';
+								$.each(a.seasons.season, function (i, a) {
+							doc += '<ul class="serials">';
+								doc += '<li><h4>Season '+a.season+'</h4>';
+									$.each(a.serials.serial, function (i, a) {
+									doc += '<ul class="serial">';
+									doc += '<li><h5>'+a.name+'</h5>';
+										doc += '<ul>';
+											doc += '<li>Original Airdate: '+a.airdate+'</li>';
+											doc += '<li>Production Code: '+a.production_code+'</li>';
+											doc += '<li><strong>Episodes</strong>';
+											$.each(a.episodes.episode, function (i, a) {
+												doc += '<ul>';
+												if(a.archive != ''){
+													doc += '<li class="episode"><b>'+a.name+'</b> ('+a.archive+')</li>';
+												} else {
+													doc += '<li class="episode"><b>'+a.name+'</b></li>';
+												}
+												doc += '<li><b>'+a.airdate+'</b></li>';
+												doc += '<li>'+a.overview+'</li>';
+												doc += '<li>Director: <b>'+a.director+'</b></li>';
+												$.each(a.writers, function (i, a) {
+													doc += '<li>Writer: <b>'+a.name+'</b></li>';
+												});
+												doc += '</ul>';
+											});
+											doc += '</li>';
+										doc += '</ul>';
+										if(a.companions.companion != null) {
+											doc += '<ul>';
+												doc += '<li><strong>Companions</strong>';
+													doc += '<ul>';
+													$.each(a.companions.companion, function (i, a) {
+														doc += '<li><b>'+a.character+'</b>';
+														if(a.died == 'yes'){
+															doc += ' (died)';
+														}
+														if(a.left == 'yes'){
+															doc += ' (left)';
+														}
+														if(a.left_behind == 'yes'){
+															doc += ' (left behind)';
+														}
+														doc += '</li>';
+													});			
+													doc += '</ul>';							
+												doc += '</li>';
+											doc += '</ul>';									
+										}
+										if(a.enemies.enemy != '') {
+											doc += '<ul>';
+												doc += '<li><strong>Enemies</strong>';
+													doc += '<ul>';
+													$.each(a.enemies.enemy, function (i, a) {
+														doc += '<li><b>'+a.enemy+'</b>';
+															doc += '<ul>';
+																$.each(a.actor, function (i, a) {
+																	doc += '<li>'+a.name+'</li>';
+																});
+															doc += '</ul>';
+														doc += '</li>';
+													});			
+													doc += '</ul>';
+												doc += '</li>';	
+											doc += '</ul>';								
+										}				
+									doc += '</li>';
+									doc += '</ul>';
 								});
 								doc += '</li>';
-							});
 							doc += '</ul>';
-							doc += '<h4>Companions:</h4>';
-							if(c.companions.companion != null){
-							doc += '<ul>';
-							$.each(c.companions.companion, function (i, d) {
-								doc += '<li><b>'+d.character+'</b>';
-								if(d.left == 'yes') {
-									doc += ' (left)'
-								}
-								if(d.left_behind == 'yes') {
-									doc += ' (left behind)'
-								}
-								if(d.died == 'yes') {
-									doc += ' (died)'
-								}
-								doc += '</li>';
-							});
-							doc += '</ul>';
-							}
-							if(c.enemies.enemy != ' '){
-							doc += '<strong>Enemies:</strong> <ul>';
-							$.each(c.enemies.enemy, function (i, d) {
-								doc += '<li><b>'+d.enemy+'</b>';
-								doc += '<ul>';
-								$.each(d.actor, function (i, a) {
-									doc += '<li>'+a.name+'</li>';
-								});
-								doc += '</ul>';
-								doc += '</li>';
-							});
-							doc += '</ul>';
-							}
-							doc += '</li>';
 						});
+							doc += '</li>';
 						doc += '</ul>';
-						doc += '</li>';
-					});
-					doc += '</ul>'
-					doc += '<ul>'
-					doc += '</ul>';
-					doc += '</li>';
-					doc += '</ul>';
-					doc += '<ul class="companion">';
-					doc += '<li class="companions"><h4>Companions</h4>';
-					doc += '<ul class="companions">';
-					$.each(a.companions.companion, function (i, a) {
-						doc += '<li><b>'+a.character+'</b><br>'+a.actor+' ('+a.from+' - '+a.to+')</li>';
-					});
-					doc += '</ul>';
-					doc += '</li>';
-					doc += '</ul>';
-					doc += '</li>';
-				});
-				doc += '</ul>'
-				$('#doc').html(doc);
-				$('ul.doctor').slideUp();
-				$('ul.companion').slideUp();
-				$('ul.companions').slideUp();
-				$('ul.seasonDetails').slideUp();	
-				$('ul.episode').slideUp();	
-				$('h2').on('click', function(){
-					$(this).next().toggle('slow');
-				});	
-				$('h4').on('click', function(){
-					$(this).next().toggle('slow');
-				});	
-				$('li.season').on('click', 'h3', function(){
-					$(this).next('.seasonDetails').toggle('slow');
-				});			
-			});
-//		});
-//	});
+				doc += '</ul>';
+			doc += '</li>';
+    	});
+    	doc += '</ul>';
+    	$('#doc').html(doc);
+    });
 });
 </script>
 </body>
