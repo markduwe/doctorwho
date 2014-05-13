@@ -18,6 +18,8 @@ li {
 }
 li.doctor {
 	overflow: hidden;
+	border: 1px solid #333;
+	padding: 0 5px;
 }
 li.doctor img {
 	width: 100px;
