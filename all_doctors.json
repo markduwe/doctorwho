@@ -7296,19 +7296,68 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "Arcturus",
+											"actor": [
+												{
+													"name": "Murphy Grumbar"
+												}
+											]
+										}, {
+											"enemy": "High Priest Hepesh",
+											"actor": [
+												{
+													"name": "Geoffrey Toone"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "29 January 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
 											"writers": [
 												{
-													"name": ""
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "5 February 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "12 February 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "19 February 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
 												}
 											]
 										}
