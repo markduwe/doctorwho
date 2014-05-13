@@ -11070,7 +11070,7 @@
 				}
 			]
 		},
-"companions": {
+		"companions": {
 			"companion": [
 				{ 
 					"character": "Rose Tyler", 
@@ -11446,32 +11446,25 @@
 					"last_serial": "The Day of the Doctor"
 				}, { 
 					"character": "Mickey Smith", 
-					"actor": "", 
-					"from": "",
-					"to": "",
-					"first_serial": "",
-					"last_serial": ""
+					"actor": "Noel Clarke", 
+					"from": "2005",
+					"to": "2010",
+					"first_serial": "Rose",
+					"last_serial": "The End of Time"
 				}, { 
 					"character": "Martha Jones", 
-					"actor": "", 
-					"from": "",
-					"to": "",
-					"first_serial": "",
-					"last_serial": ""
+					"actor": "Freema Agyeman", 
+					"from": "2007",
+					"to": "2010",
+					"first_serial": "Smith and Jones",
+					"last_serial": "The End of Time"
 				}, { 
 					"character": "Donna Noble", 
-					"actor": "", 
-					"from": "",
-					"to": "",
-					"first_serial": "",
-					"last_serial": ""
-				}, { 
-					"character": "Donna Noble", 
-					"actor": "", 
-					"from": "",
-					"to": "",
-					"first_serial": "",
-					"last_serial": ""
+					"actor": "Catherine Tate", 
+					"from": "2006",
+					"to": "2010",
+					"first_serial": "Doomsday",
+					"last_serial": "The End of Time"
 				}, { 
 					"character": "Captain Jack Harkness", 
 					"actor": "John Barrowman", 

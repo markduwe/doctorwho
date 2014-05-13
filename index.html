@@ -30,12 +30,13 @@ $(function() {
 							} else {
 								doc += '<li class="season"><h3>Seasons</h3>';
 							}
-								$.each(a.seasons.season, function (i, a) {
-							doc += '<ul class="serials">';
+							$.each(a.seasons.season, function (i, a) {
+								doc += '<ul class="serials">';
 								if(a.classic == 'yes') {
 									if(a.season == 'Doctor Who (film)') {
 										doc += '<li><h4>'+a.season+'</h4>';
-									} else if(a.season == 'Specials') {
+									} 
+									if(a.season == 'Specials') {
 										doc += '<li><h4>'+a.season+'</h4>';
 									} else {
 										doc += '<li><h4>Season '+a.season+'</h4>';
@@ -113,6 +114,19 @@ $(function() {
 							doc += '</ul>';
 						});
 							doc += '</li>';
+						doc += '</ul>';
+						doc += '<ul>';
+							doc += '<li><h3>Companions</h3>';
+							$.each(a.companions.companion, function (i, a) {
+								doc += '<ul>';
+									doc += '<li><strong>'+a.character+'</strong>';
+										doc += '<ul>';
+											doc += '<li>'+a.actor+'</li>';
+											doc += '<li>'+a.first_serial+' ('+a.from+') - '+a.last_serial+' ('+a.to+')</li>';
+										doc += '</ul>';
+									doc += '</li>';
+								doc += '</ul>';
+							});
 						doc += '</ul>';
 				doc += '</ul>';
 			doc += '</li>';
