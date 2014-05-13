@@ -8644,17 +8644,21 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": "The Great One",
 											"actor": [
 												{
-													"name": ""
+													"name": "Maureen Morris"
 												}
 											]
 										}, {
-											"enemy": "",
+											"enemy": "The Eight Legs",
 											"actor": [
 												{
-													"name": ""
+													"name": "Ysanne Churchman"
+												}, {	
+													"name": "Kismet Delgado"
+												}, {	
+													"name": "Maureen Morris"
 												}
 											]
 										}
@@ -8663,10 +8667,75 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "4 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "11 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "18 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "25 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "1 June 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "8 June 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
 											"director": "Barry Letts",
 											"writers": [
 												{
