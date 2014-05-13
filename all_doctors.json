@@ -6873,14 +6873,69 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Manual colourisation",
+											"name": "Episode 1",
+											"airdate": "30 January 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
 											"writers": [
 												{
-													"name": ""
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 2",
+											"airdate": "6 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 3",
+											"airdate": "13 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 4",
+											"airdate": "20 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 5",
+											"airdate": "27 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 6",
+											"airdate": "6 March 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
 												}
 											]
 										}
@@ -6902,19 +6957,82 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "The Axons",
+											"actor": [
+												{
+													"name": "Bernard Holley"
+												}, {
+													"name": "Patricia Gordino"
+												}, {
+													"name": "John Hicks"
+												}, {
+													"name": "Debbie Lee London"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "13 March 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
 											"writers": [
 												{
-													"name": ""
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 2",
+											"airdate": "20 March 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 3",
+											"airdate": "27 March 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "3 April 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
 												}
 											]
 										}
@@ -6936,19 +7054,90 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Captain Dent",
+											"actor": [
+												{
+													"name": "Morris Perry"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "10 April 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
 											"writers": [
 												{
-													"name": ""
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "17 April 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "24 April 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "1 May 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 5",
+											"airdate": "8 May 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 6",
+											"airdate": "15 May 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
 												}
 											]
 										}
