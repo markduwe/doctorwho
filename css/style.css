@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,300i);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,300i,400i);
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -9,6 +9,12 @@ body {
 #container {
 	width: 800px;
 	margin: 0 auto;
+}
+ul {
+	margin: 10px 0;
+}
+li {
+	margin: 5px 0;
 }
 li.doctor {
 	text-transform: capitalize;
@@ -43,8 +49,17 @@ h5 {
 	font-weight: bold;
 	margin: 0;
 	padding: 3px 0;
+	border-top: 1px solid #333;
+	border-bottom: 1px solid #333;
 }
-h2, h3, h4, h5 {
+.episode {
+	border-top: 1px solid #333;
+	border-bottom: 1px solid #333;
+	background: #333;
+	color: #fff;
+	padding: 3px;	
+}
+h2, h3, h4 {
 	text-decoration: none;
 	position: relative;
 	text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
@@ -63,7 +78,7 @@ b {
 	font-weight: 600;
 }
 em {
-	font-weight: 300;
+	font-weight: 400;
 	font-style: italic;
 }
 ul.doctor, ul.season, ul.episode, h2, h4 {
