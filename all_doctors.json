@@ -7070,19 +7070,96 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Azal",
+											"actor": [
+												{
+													"name": "Stephen Thorne"
+												}
+											]
+										}, {
+											"enemy": "Bok",
+											"actor": [
+												{
+													"name": "Stanley Mason"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 1",
+											"airdate": "22 May 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 2",
+											"airdate": "29 May 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 3",
+											"airdate": "5 June 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "12 June 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 5",
+											"airdate": "19 June 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
 												}
 											]
 										}
