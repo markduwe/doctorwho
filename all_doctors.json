@@ -11445,18 +11445,88 @@
 					"first_serial": "Rose",
 					"last_serial": "The Day of the Doctor"
 				}, { 
-					"character": "Adam Mitchell", 
-					"actor": "Bruno Langley", 
-					"from": "2005",
-					"to": "2005",
-					"first_serial": "Dalek",
-					"last_serial": "The Long Game"
+					"character": "Mickey Smith", 
+					"actor": "", 
+					"from": "",
+					"to": "",
+					"first_serial": "",
+					"last_serial": ""
+				}, { 
+					"character": "Martha Jones", 
+					"actor": "", 
+					"from": "",
+					"to": "",
+					"first_serial": "",
+					"last_serial": ""
+				}, { 
+					"character": "Donna Noble", 
+					"actor": "", 
+					"from": "",
+					"to": "",
+					"first_serial": "",
+					"last_serial": ""
+				}, { 
+					"character": "Donna Noble", 
+					"actor": "", 
+					"from": "",
+					"to": "",
+					"first_serial": "",
+					"last_serial": ""
 				}, { 
 					"character": "Captain Jack Harkness", 
 					"actor": "John Barrowman", 
 					"from": "2005",
 					"to": "2010",
 					"first_serial": "The Empty Child",
+					"last_serial": "The End of Time"
+				}, { 
+					"character": "Astrid Peth", 
+					"actor": "Kylie Minogue", 
+					"from": "2007",
+					"to": "2007",
+					"first_serial": "Voyage of the Damned",
+					"last_serial": "Voyage of the Damned"
+				}, { 
+					"character": "Sarah Jane Smith", 
+					"actor": "John Barrowman", 
+					"from": "2006",
+					"to": "2006",
+					"first_serial": "School Reunion",
+					"last_serial": "School Reunion"
+				}, { 
+					"character": "Jackson Lake", 
+					"actor": "David Morrissey", 
+					"from": "2008",
+					"to": "2008",
+					"first_serial": "The Next Doctor",
+					"last_serial": "The Next Doctor"
+				}, { 
+					"character": "Rosita Farisi", 
+					"actor": "Velile Tshabalala", 
+					"from": "2008",
+					"to": "2008",
+					"first_serial": "The Next Doctor",
+					"last_serial": "The Next Doctor"
+				}, { 
+					"character": "Christina de Souza", 
+					"actor": "Michelle Ryan", 
+					"from": "2009",
+					"to": "2009",
+					"first_serial": "Planet of the Dead",
+					"last_serial": "Planet of the Dead"
+				}, { 
+					"character": "Adelaide Brooke", 
+					"actor": "Lindsay Duncan", 
+					"from": "2009",
+					"to": "2009",
+					"first_serial": "The Waters of Mars",
+					"last_serial": "The Waters of Mars"
+				}, { 
+					"character": "Wilfred Mott", 
+					"actor": "Bernard Cribbins", 
+					"from": "2007",
+					"to": "2010",
+					"first_serial": "Voyage of the Damned",
 					"last_serial": "The End of Time"
 				}
 			]
@@ -11668,26 +11738,302 @@
 "companions": {
 			"companion": [
 				{ 
-					"character": "Rose Tyler", 
-					"actor": "Billie Piper", 
-					"from": "2005",
+					"character": "Amy Pond", 
+					"actor": "Karen Gillan", 
+					"from": "2010",
 					"to": "2013",
-					"first_serial": "Rose",
-					"last_serial": "The Day of the Doctor"
+					"first_serial": "The Eleventh Hour",
+					"last_serial": "The Time of the Doctor"
 				}, { 
-					"character": "Adam Mitchell", 
-					"actor": "Bruno Langley", 
-					"from": "2005",
-					"to": "2005",
-					"first_serial": "Dalek",
-					"last_serial": "The Long Game"
+					"character": "Rory Williams", 
+					"actor": "Arthur Darvill", 
+					"from": "2010",
+					"to": "2012",
+					"first_serial": "The Eleventh Hour",
+					"last_serial": "The Angels Take Manhattan"
 				}, { 
-					"character": "Captain Jack Harkness", 
-					"actor": "John Barrowman", 
-					"from": "2005",
-					"to": "2010",
-					"first_serial": "The Empty Child",
-					"last_serial": "The End of Time"
+					"character": "River Song", 
+					"actor": "Alex Kingston", 
+					"from": "2008",
+					"to": "2013",
+					"first_serial": "Silence in the Library",
+					"last_serial": "The Name of the Doctor"
+				}, { 
+					"character": "Craig Owens", 
+					"actor": "James Corden", 
+					"from": "2010",
+					"to": "2011",
+					"first_serial": "The Lodger",
+					"last_serial": "Closing Time"
+				}, 				{ 
+					"character": "Clara Oswald", 
+					"actor": "Jenna Coleman", 
+					"from": "2012",
+					"to": "",
+					"first_serial": "Asylum of the Daleks",
+					"last_serial": ""
+				}
+			]
+		}
+	}, {
+		"doctor": "twelfth",
+		"from": "2013",
+		"to": "",
+		"first_serial": "The Day of the Doctor",
+		"last_serial": "",
+		"actor": "Peter Capaldi",
+		"appearances": "",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/2010-tardis/",
+		"costume": "",
+		"description": "",
+		"first_words": "Kidneys! I've got new kidneys!",
+		"last_words": "",
+		"seasons": {
+			"season": [
+				{
+					"season": "Specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "8",
+					"from": "2014",
+					"to": "2014",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "6",
+					"from": "2011",
+					"to": "2011",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2012",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "Specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Clara Oswald", 
+					"actor": "Jenna Coleman", 
+					"from": "2012",
+					"to": "",
+					"first_serial": "Asylum of the Daleks",
+					"last_serial": ""
 				}
 			]
 		}
