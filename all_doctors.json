@@ -7177,14 +7177,220 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
-								"overview": "",
+								"name": "Day of the Daleks",
+								"airdate": "1  January 1972 – 22 January 1972",
+								"production_code": "KKK",
+								"overview": "Rebels from a future Earth conquered by the Daleks travel to the 20th Century to change the course of history. ",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												}, {
+													"name": "Murphy Grumbar"
+												}, {
+													"name": "Ricky Newby"
+												}
+											]
+										}, {
+											"enemy": "The Ogrons",
+											"actor": [
+												{
+													"name": "Rick Lester"
+												}, {
+													"name": "Maurice Bush"
+												}, {
+													"name": "David Joyce"
+												}, {
+													"name": "Frank Menzies"
+												}, {
+													"name": "Bruce Wells"
+												}, {
+													"name": "Geoff Todd"
+												}
+											]
+										}, {
+											"enemy": "The Controller",
+											"actor": [
+												{
+													"name": "Aubrey Woods"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "1 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "8 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "15 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "22 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Curse of Peladon",
+								"airdate": "29 January 1972 - 19 February 1972",
+								"production_code": "MMM",
+								"overview": "The Doctor and Jo land on the planet Peladon, where they have to contend with an ancient royal curse. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Sea Devils",
+								"airdate": "26 February 1972 - 1 April 1972",
+								"production_code": "LLL",
+								"overview": "The Third Doctor and Jo visit the Master in his island prison and encounter the Sea Devils, cousins of the Silurians. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Mutants",
+								"airdate": "8 April 1972 - 13 May 1972",
+								"production_code": "",
+								"overview": "On the colony world of Solos, something is transforming the solonian population, turning them into hideous mutants.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Time Monster",
+								"airdate": "20 May 1972 – 24 June 1972",
+								"production_code": "OOO",
+								"overview": "The Third Doctor and Jo investigate the workings of the TOMTIT machine, and what secret power is locked within the crystal of Kronos?",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
