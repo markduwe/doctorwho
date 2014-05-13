@@ -7379,19 +7379,104 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Chief Sea Devil",
+											"actor": [
+												{
+													"name": "Peter Forbes-Robertson"
+												}
+											]
+										}, {
+											"enemy": "George Trenchard",
+											"actor": [
+												{
+													"name": "Clive Morton"
+												}
+											]
+										}, {
+											"enemy": "Walker",
+											"actor": [
+												{
+													"name": "Martin Boddey"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 1",
+											"airdate": "26 February 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
 											"writers": [
 												{
-													"name": ""
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 2",
+											"airdate": "4 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 3",
+											"airdate": "11 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 4",
+											"airdate": "18 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 5",
+											"airdate": "25 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 6",
+											"airdate": "1 April 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
 												}
 											]
 										}
