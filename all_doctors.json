@@ -8532,17 +8532,24 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": "Azaxyr",
 											"actor": [
 												{
-													"name": ""
+													"name": "Alan Bennion"
 												}
 											]
 										}, {
-											"enemy": "",
+											"enemy": "Sskel",
 											"actor": [
 												{
-													"name": ""
+													"name": "Sonny Caldinez"
+												}
+											]
+										}, {
+											"enemy": "Eckersley",
+											"actor": [
+												{
+													"name": "Donald Gee"
 												}
 											]
 										}
@@ -8551,10 +8558,65 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "23 March 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "30 March 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "6 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "13 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "20 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "27 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
 											"director": "Lennie Mayne",
 											"writers": [
 												{
