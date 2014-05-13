@@ -8240,14 +8240,14 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
-								"overview": "",
+								"name": "The Time Warrior",
+								"airdate": "15 December 1973 - 5 January 1974",
+								"production_code": "UUU",
+								"overview": "In the Middle Ages, a rabble of criminals find the crashed spaceship of a Sontaran warrior. Meanwhile the Doctor is investigating the disappearance of several scientists from a top secret research complex.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Sarah Jane Smith",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -8255,7 +8255,218 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "Irongron",
+											"actor": [
+												{
+													"name": "David Daker"
+												}
+											]
+										}, {
+											"enemy": "Linx",
+											"actor": [
+												{
+													"name": "Kevin Lindsay"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "15 December 1973",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "22 December 1973",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "29 December 1973",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "5 January 1974",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Invasion of the Dinosaurs",
+								"airdate": "12 January 1974 - 16 February 1974",
+								"production_code": "WWW",
+								"overview": "The Doctor and Sarah arrive in 1970s London to find that it has been evacuated due to the mysterious appearance of dinosaurs. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "General Finch",
+											"actor": [
+												{
+													"name": "John Bennett"
+												}
+											]
+										}, {
+											"enemy": "Professor Whitaker",
+											"actor": [
+												{
+													"name": "Peter Miles"
+												}
+											]
+										}, {
+											"enemy": "Sir Charles Grover",
+											"actor": [
+												{
+													"name": "Noel Johnson"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 1",
+											"airdate": "12 January 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "19 January 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "26 January 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "2 February 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "9 February 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "16 February 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Death to the Daleks",
+								"airdate": "23 February 1974 - 16 March 1974",
+								"production_code": "XXX",
+								"overview": "Travelling through space, the TARDIS suffers an energy drain and crash-lands on the planet Exxilon.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}, {
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
@@ -8264,10 +8475,112 @@
 											"name": "Episode ",
 											"airdate": "",
 											"overview": "",
-											"director": "",
+											"director": "Michael E. Briant",
 											"writers": [
 												{
+													"name": "Terry Nation"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Monster of Peladon",
+								"airdate": "23 March 1974 - 27 April 1974",
+								"production_code": "The Third Doctor returns to Peladon, where once again the sacred beast Aggedor casts its shadow. ",
+								"overview": "YYY",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
 													"name": ""
+												}
+											]
+										}, {
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Planet of the Spiders",
+								"airdate": "4 May 1974 - 8 June 1974",
+								"production_code": "ZZZ",
+								"overview": "Mysterious goings-on at a meditation retreat run by Tibetan monks are linked to the blue planet Metebelis III, and a colony of monstrous, evolved spiders.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}, {
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
 												}
 											]
 										}
