@@ -6767,7 +6767,19 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "The Keller Machine",
+											"actor": []
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
