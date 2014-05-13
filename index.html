@@ -33,10 +33,14 @@ $(function() {
 								$.each(a.seasons.season, function (i, a) {
 							doc += '<ul class="serials">';
 								if(a.classic == 'yes') {
-									doc += '<li><h4>Season '+a.season+'</h4>';
+									if(a.season == 'Doctor Who (film)') {
+										doc += '<li><h4>'+a.season+'</h4>';
+									} else {
+										doc += '<li><h4>Season '+a.season+'</h4>';
+									}
 								} else {
 									doc += '<li><h4>Series '+a.season+'</h4>';
-								};
+								}
 									$.each(a.serials.serial, function (i, a) {
 									doc += '<ul class="serial">';
 									doc += '<li><h5>'+a.name+'</h5>';
