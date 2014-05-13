@@ -6784,14 +6784,69 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "Manual colourisation",
+											"name": "Episode 1",
+											"airdate": "30 January 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
 											"writers": [
 												{
-													"name": ""
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 2",
+											"airdate": "6 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 3",
+											"airdate": "13 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 4",
+											"airdate": "20 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 5",
+											"airdate": "27 February 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
+												}
+											]
+										}, {
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 6",
+											"airdate": "6 March 1971",
+											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
+											"director": "Timothy Combe",
+											"writers": [
+												{
+													"name": "Don Houghton"
 												}
 											]
 										}
