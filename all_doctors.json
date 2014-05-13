@@ -8124,15 +8124,99 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "BOSS",
+											"actor": [
+												{
+													"name": "John Dearth"
+												}
+											]
+										}, {
+											"enemy": "Stevens",
+											"actor": [
+												{
+													"name": "Jerome Willis"
+												}
+											]
+										}, {
+											"enemy": "The Giant Maggots",
+											"actor": []
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "19 May 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "26 May 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "2 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "9 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "16 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "23 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
 											"director": "Michael E. Briant",
 											"writers": [
 												{
