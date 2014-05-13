@@ -7823,15 +7823,60 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "Kalik",
+											"actor": [
+												{
+													"name": "Michael Wisher"
+												}
+											]
+										}, {
+											"enemy": "Drashigs",
+											"actor": []
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "27 January 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "3 February 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "10 February 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "17 February 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
 											"director": "Barry Letts",
 											"writers": [
 												{
@@ -7857,15 +7902,101 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "The Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												} ,{
+													"name": "Murphy Grumbar"
+												} ,{
+													"name": "Cy Town"
+												}
+											]
+										}, {
+											"enemy": "The Ogrons",
+											"actor": [
+												{
+													"name": "Rick Lester"
+												} ,{
+													"name": "Michael Kilgarriff"
+												} ,{
+													"name": "Stephen Thorne"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "24 February 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "3 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "10 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "17 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "24 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "31 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
 											"director": "Paul Bernard",
 											"writers": [
 												{
@@ -7891,15 +8022,83 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												} ,{
+													"name": "Murphy Grumbar"
+												} ,{
+													"name": "Cy Town"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "7 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "14 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "Film colourisation and chroma dot colour recovery hybrid",
+											"name": "Episode 3",
+											"airdate": "21 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "28 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "5 May 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "12 May 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
 											"director": "David Maloney",
 											"writers": [
 												{
