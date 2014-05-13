@@ -7608,19 +7608,102 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Kronos",
+											"actor": [
+												{
+													"name": "Marc Boyle"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "20 May 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "27 May 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "3 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "10 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 5",
+											"airdate": "17 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 6",
+											"airdate": "24 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
 												}
 											]
 										}
