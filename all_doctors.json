@@ -6868,95 +6868,6 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
-								},
-								"episodes": {
-									"episode": [
-										{
-											"archive": "Manual colourisation",
-											"name": "Episode 1",
-											"airdate": "30 January 1971",
-											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
-											"director": "Timothy Combe",
-											"writers": [
-												{
-													"name": "Don Houghton"
-												}
-											]
-										}, {
-											"archive": "Chroma dot colour recovery",
-											"name": "Episode 2",
-											"airdate": "6 February 1971",
-											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
-											"director": "Timothy Combe",
-											"writers": [
-												{
-													"name": "Don Houghton"
-												}
-											]
-										}, {
-											"archive": "Chroma dot colour recovery",
-											"name": "Episode 3",
-											"airdate": "13 February 1971",
-											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
-											"director": "Timothy Combe",
-											"writers": [
-												{
-													"name": "Don Houghton"
-												}
-											]
-										}, {
-											"archive": "Chroma dot colour recovery",
-											"name": "Episode 4",
-											"airdate": "20 February 1971",
-											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
-											"director": "Timothy Combe",
-											"writers": [
-												{
-													"name": "Don Houghton"
-												}
-											]
-										}, {
-											"archive": "Chroma dot colour recovery",
-											"name": "Episode 5",
-											"airdate": "27 February 1971",
-											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
-											"director": "Timothy Combe",
-											"writers": [
-												{
-													"name": "Don Houghton"
-												}
-											]
-										}, {
-											"archive": "Chroma dot colour recovery",
-											"name": "Episode 6",
-											"airdate": "6 March 1971",
-											"overview": "Earth, the near future. The Doctor visits Stangmoor Prison to see the Keller Machine, a revolutionary new type of rehabilitation aid, in action - but finds his fellow observers literally dying of fear. Who is responsible for creating the Machine? And how does it connect to the peace conference happening in London?",
-											"director": "Timothy Combe",
-											"writers": [
-												{
-													"name": "Don Houghton"
-												}
-											]
-										}
-									]
-								}	
-							}, {
-								"name": "Colony in Space",
-								"airdate": "10 April 1971 - 15 May 1971",
-								"production_code": "HHH",
-								"overview": "On his first trip to another planet since his regeneration, the Doctor and Jo travel to Uxaerius, where they find that its colonists are struggling to survive. ",
-								"companions": {
-									"companion": [
-										{ 
-											"character": "Jo Grant",
-											"died": "no",
-											"left": "no",
-											"left_behind": "no"
-										}
-									]
-								},
-								"enemies": {
 									"enemy": [
 										{
 											"enemy": "The Master",
@@ -7039,10 +6950,10 @@
 									]
 								}	
 							}, {
-								"name": "The Dæmons",
-								"airdate": "22 May 1971 – 19 June 1971",
-								"production_code": "JJJ",
-								"overview": "The Master summons Azal to assist him in an incident that happened at an archaeological dig at Devil's End.",
+								"name": "Colony in Space",
+								"airdate": "10 April 1971 - 15 May 1971",
+								"production_code": "HHH",
+								"overview": "On his first trip to another planet since his regeneration, the Doctor and Jo travel to Uxaerius, where they find that its colonists are struggling to survive. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -7138,6 +7049,40 @@
 											"writers": [
 												{
 													"name": "Malcolm Hulke"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Dæmons",
+								"airdate": "22 May 1971 – 19 June 1971",
+								"production_code": "JJJ",
+								"overview": "The Master summons Azal to assist him in an incident that happened at an archaeological dig at Devil's End.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
 												}
 											]
 										}
