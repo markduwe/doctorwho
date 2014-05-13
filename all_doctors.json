@@ -50,16 +50,7 @@
 									]
 								},
 								"enemies": {
-									"enemy": [
-										{
-											"enemy": " ",
-											"actor": [
-												{
-													"name": " "
-												}
-											]
-										}
-									]
+									"enemy": []
 								},
 								"episodes": {
 									"episode": [
@@ -6303,16 +6294,7 @@
 									]
 								},
 								"enemies": {
-									"enemy": [
-										{
-											"enemy": "",
-											"actor": [
-												{
-													"name": ""
-												}
-											]
-										}
-									]
+									"enemy": []
 								},
 								"episodes": {
 									"episode": [
@@ -6357,16 +6339,7 @@
 									]
 								},
 								"enemies": {
-									"enemy": [
-										{
-											"enemy": "",
-											"actor": [
-												{
-													"name": ""
-												}
-											]
-										}
-									]
+									"enemy": []
 								},
 								"episodes": {
 									"episode": [
@@ -6411,16 +6384,7 @@
 									]
 								},
 								"enemies": {
-									"enemy": [
-										{
-											"enemy": "",
-											"actor": [
-												{
-													"name": ""
-												}
-											]
-										}
-									]
+									"enemy": []
 								},
 								"episodes": {
 									"episode": [
@@ -6465,16 +6429,7 @@
 									]
 								},
 								"enemies": {
-									"enemy": [
-										{
-											"enemy": "",
-											"actor": [
-												{
-													"name": ""
-												}
-											]
-										}
-									]
+									"enemy": []
 								},
 								"episodes": {
 									"episode": [
@@ -6864,16 +6819,7 @@
 									]
 								},
 								"enemies": {
-									"enemy": [
-										{
-											"enemy": "",
-											"actor": [
-												{
-													"name": ""
-												}
-											]
-										}
-									]
+									"enemy": []
 								},
 								"episodes": {
 									"episode": [
