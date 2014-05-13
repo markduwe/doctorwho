@@ -8452,17 +8452,14 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": "The Daleks",
 											"actor": [
 												{
-													"name": ""
-												}
-											]
-										}, {
-											"enemy": "",
-											"actor": [
-												{
-													"name": ""
+													"name": "John Scott Martin"
+												} ,{
+													"name": "Murphy Grumbar"
+												} ,{
+													"name": "Cy Town"
 												}
 											]
 										}
@@ -8471,10 +8468,43 @@
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "23 February 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "2 March 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "9 March 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "16 March 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
 											"director": "Michael E. Briant",
 											"writers": [
 												{
