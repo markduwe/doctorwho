@@ -7485,7 +7485,7 @@
 							}, {
 								"name": "The Mutants",
 								"airdate": "8 April 1972 - 13 May 1972",
-								"production_code": "",
+								"production_code": "NNN",
 								"overview": "On the colony world of Solos, something is transforming the solonian population, turning them into hideous mutants.",
 								"companions": {
 									"companion": [
@@ -7498,19 +7498,95 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Marshal of Solos",
+											"actor": [
+												{
+													"name": "Paul Whitsun-Jones"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "8 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
 											"writers": [
 												{
-													"name": ""
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "15 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "22 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "29 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 5",
+											"airdate": "6 May 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 6",
+											"airdate": "13 May 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
 												}
 											]
 										}
