@@ -25,10 +25,18 @@ $(function() {
 					doc += '<li>Sonic Screwdriver: '+a.sonic+'</li>';
 					doc += '<li>Description: '+a.description;
 						doc += '<ul class="seasons">';
-							doc += '<li class="season"><h3>Seasons</h3>';
+							if(a.doctor == 'war' || a.doctor == 'ninth' || a.doctor == 'tenth' || a.doctor == 'eleventh' ||  a.doctor == 'twelfth') {
+								doc += '<li class="season"><h3>Series</h3>';
+							} else {
+								doc += '<li class="season"><h3>Season</h3>';
+							}
 								$.each(a.seasons.season, function (i, a) {
 							doc += '<ul class="serials">';
-								doc += '<li><h4>Season '+a.season+'</h4>';
+								if(a.classic == 'yes') {
+									doc += '<li><h4>Season '+a.season+'</h4>';
+								} else {
+									doc += '<li><h4>Series '+a.season+'</h4>';
+								};
 									$.each(a.serials.serial, function (i, a) {
 									doc += '<ul class="serial">';
 									doc += '<li><h5>'+a.name+'</h5>';
