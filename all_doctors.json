@@ -7721,14 +7721,101 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
-								"overview": "",
+								"name": "The Three Doctors",
+								"airdate": "30 December 1972 - 20 January 1973",
+								"production_code": "RRR",
+								"overview": "Gallifrey, home planet of the Time Lords is under siege, by an unknown force. The only person who can help them is the Doctor, but even he will need assistance from his previous incarnations.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Omega",
+											"actor": [
+												{
+													"name": "Stephen Thorne"
+												}
+											]
+										}, {
+											"enemy": "Gell guards",
+											"actor": []
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "30 December 1972",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "6 January 1973",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "13 January 1973",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "20 January 1973",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Carnival of Monsters",
+								"airdate": "27 January 1973 - 17 February 1973",
+								"production_code": "PPP",
+								"overview": "The TARDIS materialises on the SS Bernice, a ship that suddenly disappeared while travelling the Indian Ocean.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -7745,10 +7832,114 @@
 											"name": "Episode ",
 											"airdate": "",
 											"overview": "",
-											"director": "",
+											"director": "Barry Letts",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Frontier in Space",
+								"airdate": "24 February 1973 - 31 March 1973",
+								"production_code": "QQQ",
+								"overview": "Materialising on an Earth cargo spaceship, the Doctor is caught up in the tensions between the Earth and Draconian Empires. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Planet of the Daleks",
+								"airdate": "7 April 1973 - 12 May 1973",
+								"production_code": "SSS",
+								"overview": "The Time Lords have landed the TARDIS on the planet Spiridon, where the Daleks are awakening the biggest Dalek army the galaxy has ever seen.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Green Death",
+								"airdate": "19 May 1973 - 23 June 1973",
+								"production_code": "TTT",
+								"overview": "Mutated giant maggots are appearing all over the Welsh countryside, could Global Chemicals be behind it?",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Episode ",
+											"airdate": "",
+											"overview": "",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
 												}
 											]
 										}
