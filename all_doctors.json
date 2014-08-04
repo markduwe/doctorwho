@@ -9650,10 +9650,36 @@
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "Anti-matter",
+											"enemy": "Sutekh",
 											"actor": [
 												{
-													"name": "Frederick Jaeger"
+													"name": "Gabriel Woolf"
+												}
+											]
+										},
+										{
+											"enemy": "Mummies",
+											"actor": [
+												{
+													"name": "Nick Burnell",
+													"name": "Melvyn Bedford",
+													"name": "Kevin Selway"
+												}
+											]
+										},
+										{
+											"enemy": "Marcus Scarman",
+											"actor": [
+												{
+													"name": "Bernard Archard"
+												}
+											]
+										},
+										{
+											"enemy": "Ibrahim Namin",
+											"actor": [
+												{
+													"name": "Peter Mayock"
 												}
 											]
 										}
