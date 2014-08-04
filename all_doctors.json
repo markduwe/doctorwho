@@ -10451,56 +10451,64 @@
 					"to": "1976",
 					"first_serial": "Robot",
 					"last_serial": "The Hand of Fear"
-				}, { 
+				},
+				{ 
 					"character": "Harry Sullivan", 
 					"actor": "Ian Marter", 
 					"from": "1974",
 					"to": "1975",
 					"first_serial": "Robot",
 					"last_serial": "The Android Invasion"
-				}, { 
+				},
+				{ 
 					"character": "Leela", 
 					"actor": "Louise Jameson", 
 					"from": "1977",
 					"to": "1978",
 					"first_serial": "The Face of Evil",
 					"last_serial": "The Invasion of Time"
-				}, { 
+				},
+				{ 
 					"character": "K-9", 
 					"actor": "John Leeson", 
 					"from": "1977",
 					"to": "1981",
 					"first_serial": "The Face of Evil",
 					"last_serial": "Warriors' Gate"
-				}, { 
+				},
+				{ 
 					"character": "Romana", 
 					"actor": "Mary Tamm", 
 					"from": "1978",
 					"to": "1979",
 					"first_serial": "The Face of Evil",
 					"last_serial": "The Armageddon Factor"
-				}, { 
+				},
+				{ 
 					"character": "Romana", 
 					"actor": "Lalla Ward", 
 					"from": "1979",
 					"to": "1983",
 					"first_serial": "Destiny of the Daleks",
 					"last_serial": "The Five Doctors"
-				}, { 
+				},
+				{ 
 					"character": "Adric", 
 					"actor": "Matthew Waterhouse", 
 					"from": "1980",
 					"to": "1982",
 					"first_serial": "Full Circle",
 					"last_serial": "The Caves of Androzani"
-				}, { 
+				},
+				{ 
 					"character": "Nyssa", 
 					"actor": "Sarah Sutton", 
 					"from": "1981",
 					"to": "1983",
 					"first_serial": "The Keeper of Traken",
 					"last_serial": "Terminus"
-				}, { 
+				},
+				{ 
 					"character": "Tegan Jovanka", 
 					"actor": "Janet Fielding", 
 					"from": "1981",
