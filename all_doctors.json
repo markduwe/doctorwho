@@ -9153,6 +9153,81 @@
 										}
 									]
 								}
+							},
+							{
+								"name": "The Sontaran Experiment",
+								"airdate": "22 February 1975 – 1 March 1975",
+								"production_code": "4B",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Field Major Styre",
+											"actor": [
+												{
+													"name": "Kevin Lindsay"
+												}
+											]
+										},
+										{
+											"enemy": "Styre's robot",
+											"actor": []
+										},
+										{
+											"enemy": "Vural",
+											"actor": [
+												{
+													"name": "Donald Douglas"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "22 February 1975",
+											"overview": "Earth, the distant future. Beaming down from the Nerva Beacon, the Doctor and his friends discover Earth is habitable once more. Unfortunately a robot is capturing a group of human soldiers on behalf of its mysterious alien master...",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Bob Baker",
+													"name": "Dave Martin"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "1 March 1975",
+											"overview": "Earth, the distant future. Beaming down from the Nerva Beacon, the Doctor and his friends discover Earth is habitable once more. Unfortunately a robot is capturing a group of human soldiers on behalf of its mysterious alien master...",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Bob Baker",
+													"name": "Dave Martin"
+												}
+											]
+										}
+									]
+								}
 							}						
 						]
 					}
