@@ -9549,6 +9549,89 @@
 										}
 									]
 								}
+							},
+							{
+								"name": "Planet of Evil",
+								"airdate": "27 September 1975 – 18 October 1975",
+								"production_code": "4H",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Anti-matter",
+											"actor": [
+												{
+													"name": "Frederick Jaeger"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "27 September 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "4 October 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "11 October 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "18 October 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}
 							}						
 						]
 					}
