@@ -10674,11 +10674,34 @@
 												}
 											]
 										},
-										
 										{
 											"archive": "",
-											"name": "Part One",
-											"airdate": "3 September 1977",
+											"name": "Part Two",
+											"airdate": "10 September 1977",
+											"overview": "The English channel, the 1900s AD. The TARDIS lands on barren Fang Rock, inhabited until now only by three light-house keepers. But what is the strange fog covering the island, and can it be connected to the falling star sighted earlier that night?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										}
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "17 September 1977",
+											"overview": "The English channel, the 1900s AD. The TARDIS lands on barren Fang Rock, inhabited until now only by three light-house keepers. But what is the strange fog covering the island, and can it be connected to the falling star sighted earlier that night?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										}
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "24 September 1977",
 											"overview": "The English channel, the 1900s AD. The TARDIS lands on barren Fang Rock, inhabited until now only by three light-house keepers. But what is the strange fog covering the island, and can it be connected to the falling star sighted earlier that night?",
 											"director": "Paddy Russell",
 											"writers": [
@@ -10689,7 +10712,193 @@
 										}
 									]
 								}
-							}						
+							},
+							{
+								"name": "The Invisible Enemy",
+								"airdate": "1 October 1977 - 22 October 1977",
+								"production_code": "4T",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Leela",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+										{ 
+											"character": "K-9",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}										
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Nucleus",
+											"actor": [
+												{
+													"name": "John Leeson"
+												}
+											]
+										},
+										{
+											"enemy": "The Swarm",
+											"actor": []
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "1 October 1977",
+											"overview": "Leela and Lowe take the Doctor to the Bi-Al Foundation for help. But how can they cure an infection of the mind?",
+											"director": "Derrick Goodwin",
+											"writers": [
+												{
+													"name": "Bob Baker",
+													"name": "Dave Martin"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "8 October 1977",
+											"overview": "Leela and Lowe take the Doctor to the Bi-Al Foundation for help. But how can they cure an infection of the mind?",
+											"director": "Derrick Goodwin",
+											"writers": [
+												{
+													"name": "Bob Baker",
+													"name": "Dave Martin"
+												}
+											]
+										}
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "15 October 1977",
+											"overview": "Leela and Lowe take the Doctor to the Bi-Al Foundation for help. But how can they cure an infection of the mind?",
+											"director": "Derrick Goodwin",
+											"writers": [
+												{
+													"name": "Bob Baker",
+													"name": "Dave Martin"
+												}
+											]
+										}
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "22 October 1977",
+											"overview": "Leela and Lowe take the Doctor to the Bi-Al Foundation for help. But how can they cure an infection of the mind?",
+											"director": "Derrick Goodwin",
+											"writers": [
+												{
+													"name": "Bob Baker",
+													"name": "Dave Martin"
+												}
+											]
+										}
+									]
+								}
+							}	,
+							{
+								"name": "Image of the Fendahl",
+								"airdate": "29 October 1977 – 19 November 1977",
+								"production_code": "4X",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Leela",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+										{ 
+											"character": "K-9",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}										
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Maximillian Stael",
+											"actor": [
+												{
+													"name": "Scott Fredericks"
+												}
+											]
+										},
+										{
+											"enemy": "The Fendahl",
+											"actor": [
+												{
+													"name": "Wanda Ventham"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "29 October 1977",
+											"overview": "England, the late 1970s. At Fetch Priory, Dr Fendelman's experiments with the new Time Scanner are disrupted by the mysterious death nearby of a hiker. Then there's the mysterious skull, also being used as part of his work--a skull that seems to predate the evolution of mankind. What is the true role of the Fendahl in humanity's evolution?",
+											"director": "George Spenton-Foster",
+											"writers": [
+												{
+													"name": "Chris Boucher"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "5 November 1977",
+											"overview": "England, the late 1970s. At Fetch Priory, Dr Fendelman's experiments with the new Time Scanner are disrupted by the mysterious death nearby of a hiker. Then there's the mysterious skull, also being used as part of his work--a skull that seems to predate the evolution of mankind. What is the true role of the Fendahl in humanity's evolution?",
+											"director": "George Spenton-Foster",
+											"writers": [
+												{
+													"name": "Chris Boucher"
+												}
+											]
+										}
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "12 November 1977",
+											"overview": "England, the late 1970s. At Fetch Priory, Dr Fendelman's experiments with the new Time Scanner are disrupted by the mysterious death nearby of a hiker. Then there's the mysterious skull, also being used as part of his work--a skull that seems to predate the evolution of mankind. What is the true role of the Fendahl in humanity's evolution?",
+											"director": "George Spenton-Foster",
+											"writers": [
+												{
+													"name": "Chris Boucher"
+												}
+											]
+										}
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "19 November 1977",
+											"overview": "England, the late 1970s. At Fetch Priory, Dr Fendelman's experiments with the new Time Scanner are disrupted by the mysterious death nearby of a hiker. Then there's the mysterious skull, also being used as part of his work--a skull that seems to predate the evolution of mankind. What is the true role of the Fendahl in humanity's evolution?",
+											"director": "George Spenton-Foster",
+											"writers": [
+												{
+													"name": "Chris Boucher"
+												}
+											]
+										}
+									]
+								}
+							}				
 						]
 					}
 				}, {
