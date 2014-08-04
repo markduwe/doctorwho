@@ -12,7 +12,7 @@
 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script>
 $(function() {
-	var dr = 'all_doctors.json';
+	var dr = 'https://raw.githubusercontent.com/vbloke/doctorwho/master/all_doctors.json';
 	$.getJSON(dr, function(data) {
     	var doc = '<ul class="doctors">';
     	$.each(data, function (i, a) {
