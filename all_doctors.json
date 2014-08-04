@@ -3185,7 +3185,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "first",
 		"from": "1983",
 		"to": "1983",
@@ -3317,7 +3318,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "second",
 		"from": "1966",
 		"to": "2013",
@@ -6160,7 +6162,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "third",
 		"from": "1966",
 		"to": "2013",
@@ -8934,7 +8937,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "fourth",
 		"from": "1974",
 		"to": "2013",
@@ -10359,39 +10363,6 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "The Night of the Doctor",
-								"airdate": "14 November 2013",
-								"production_code": "NA",
-								"companions": {
-									"companion": [
-										{ 
-											"character": "Cass",
-											"died": "yes",
-											"left": "no",
-											"left_behind": "no"
-										}
-									]
-								},
-								"enemies": {
-									"enemy": []
-								},
-								"episodes": {
-									"episode": [
-										{
-											"archive": "",
-											"name": "The Night of the Doctor",
-											"airdate": "14 November 2013",
-											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
-											"director": "John Hayes",
-											"writers": [
-												{
-													"name": "Steven Moffat"
-												}
-											]
-										}
-									]
-								}
-							}, {
 								"name": "The Day of the Doctor",
 								"airdate": "23 November 2013",
 								"production_code": "TBA",
@@ -10518,7 +10489,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "fifth",
 		"from": "1981",
 		"to": "2013",
@@ -10858,7 +10830,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "sixth",
 		"from": "1984",
 		"to": "2013",
@@ -11170,7 +11143,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "seventh",
 		"from": "1984",
 		"to": "2013",
@@ -11509,7 +11483,7 @@
 				}
 			]
 		},
-"companions": {
+		"companions": {
 			"companion": [
 				{ 
 					"character": "Mel", 
@@ -11528,7 +11502,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "eigth",
 		"from": "1996",
 		"to": "2013",
@@ -11741,7 +11716,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "war",
 		"from": "2013",
 		"to": "2013",
@@ -11908,7 +11884,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "ninth",
 		"from": "2005",
 		"to": "2005",
@@ -12135,7 +12112,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "tenth",
 		"from": "2005",
 		"to": "2010",
@@ -12563,7 +12541,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "eleventh",
 		"from": "2010",
 		"to": "2013",
@@ -12767,7 +12746,7 @@
 				}
 			]
 		},
-"companions": {
+		"companions": {
 			"companion": [
 				{ 
 					"character": "Amy Pond", 
@@ -12807,7 +12786,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "twelfth",
 		"from": "2013",
 		"to": "",
@@ -13057,7 +13037,7 @@
 				}
 			]
 		},
-"companions": {
+		"companions": {
 			"companion": [
 				{ 
 					"character": "Clara Oswald", 
