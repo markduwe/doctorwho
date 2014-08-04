@@ -9063,6 +9063,96 @@
 										}
 									]
 								}
+							},
+							{
+								"name": "The Ark in Space",
+								"airdate": "25 January 1975 – 15 February 1975",
+								"production_code": "4C",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Wirrn",
+											"actor": [
+												{
+													"name": "Stuart Fell",
+													"name": "Nick Hobbs"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "25 January 1975",
+											"overview": "Deep space, the distant future: following Earth's devastation by solar flares, the survivors of mankind are in cryogenic suspension aboard the Nerva Beacon space station. The Doctor, Sarah and Harry arrive on board to find the station suffering from mysterious damage and some manner of creature at large…",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "John Lucarotti"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "1 February 1975",
+											"overview": "Deep space, the distant future: following Earth's devastation by solar flares, the survivors of mankind are in cryogenic suspension aboard the Nerva Beacon space station. The Doctor, Sarah and Harry arrive on board to find the station suffering from mysterious damage and some manner of creature at large…",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "John Lucarotti"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "8 February 1975",
+											"overview": "Deep space, the distant future: following Earth's devastation by solar flares, the survivors of mankind are in cryogenic suspension aboard the Nerva Beacon space station. The Doctor, Sarah and Harry arrive on board to find the station suffering from mysterious damage and some manner of creature at large…",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "John Lucarotti"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "15 February 1975",
+											"overview": "Deep space, the distant future: following Earth's devastation by solar flares, the survivors of mankind are in cryogenic suspension aboard the Nerva Beacon space station. The Doctor, Sarah and Harry arrive on board to find the station suffering from mysterious damage and some manner of creature at large…",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "John Lucarotti"
+												}
+											]
+										}
+									]
+								}
 							}						
 						]
 					}
