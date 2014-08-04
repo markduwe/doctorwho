@@ -9745,6 +9745,205 @@
 										}
 									]
 								}
+							},
+							{
+								"name": "The Android Invasion",
+								"airdate": "22 November 1975 – 13 December 1975",
+								"production_code": "4J",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Styggron",
+											"actor": [
+												{
+													"name": "Martin Friend"
+												}
+											]
+										},
+										{
+											"enemy": "Chedaki",
+											"actor": [
+												{
+													"name": "Roy Skelton"
+												}
+											]
+										},
+										{
+											"enemy": "Kraal",
+											"actor": [
+												{
+													"name": "Stuart Fell"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "22 November 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "29 November 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "6 December 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "13 December 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"name": "The Brain of Morbius",
+								"airdate": "3 January 1976 – 24 January 1976",
+								"production_code": "4K",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Mehendri Solon",
+											"actor": [
+												{
+													"name": "Philip Madoc"
+												}
+											]
+										},
+										{
+											"enemy": "Morbius",
+											"actor": [
+												{
+													"name": "Stuart Fell"
+												},
+												{
+													"name": "Michael Spice"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "3 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "10 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "17 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "24 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}
 							}						
 						]
 					}
