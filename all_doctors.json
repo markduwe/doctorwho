@@ -1,6 +1,6 @@
 [
 	{
-		"doctor": "first",
+		"doctor": "First",
 		"from": "1963",
 		"to": "2013",
 		"first_serial": "An Unearthly Child",
@@ -3186,7 +3186,7 @@
 			]
 		}
 	}, {
-		"doctor": "first",
+		"doctor": "First",
 		"from": "1983",
 		"to": "1983",
 		"first_serial": "The Five Doctors",
@@ -3318,7 +3318,7 @@
 			]
 		}
 	}, {
-		"doctor": "second",
+		"doctor": "Second",
 		"from": "1966",
 		"to": "2013",
 		"first_serial": "The Tenth Planet",
@@ -6161,7 +6161,7 @@
 			]
 		}
 	}, {
-		"doctor": "third",
+		"doctor": "Third",
 		"from": "1966",
 		"to": "2013",
 		"first_serial": "Spearhead from Space",
@@ -8935,7 +8935,7 @@
 			]
 		}
 	}, {
-		"doctor": "fourth",
+		"doctor": "Fourth",
 		"from": "1974",
 		"to": "2013",
 		"first_serial": "Planet of the Spiders",
@@ -9480,7 +9480,7 @@
 			]
 		}
 	}, {
-		"doctor": "fifth",
+		"doctor": "Fifth",
 		"from": "1981",
 		"to": "2013",
 		"first_serial": "Logopolis",
@@ -9820,7 +9820,7 @@
 			]
 		}
 	}, {
-		"doctor": "sixth",
+		"doctor": "Sixth",
 		"from": "1984",
 		"to": "2013",
 		"first_serial": "The Caves of Androzani",
@@ -10132,7 +10132,7 @@
 			]
 		}
 	}, {
-		"doctor": "seventh",
+		"doctor": "Seventh",
 		"from": "1984",
 		"to": "2013",
 		"first_serial": "Time and the Rani",
@@ -10490,7 +10490,7 @@
 			]
 		}
 	}, {
-		"doctor": "eigth",
+		"doctor": "Eigth",
 		"from": "1996",
 		"to": "2013",
 		"first_serial": "Doctor Who (film)",
@@ -10703,7 +10703,7 @@
 			]
 		}
 	}, {
-		"doctor": "war",
+		"doctor": "War",
 		"from": "2013",
 		"to": "2013",
 		"first_serial": "The Name of the Doctor",
@@ -10870,7 +10870,7 @@
 			]
 		}
 	}, {
-		"doctor": "ninth",
+		"doctor": "Ninth",
 		"from": "2005",
 		"to": "2005",
 		"first_serial": "Rose",
@@ -11097,7 +11097,7 @@
 			]
 		}
 	}, {
-		"doctor": "tenth",
+		"doctor": "Tenth",
 		"from": "2005",
 		"to": "2010",
 		"first_serial": "The Parting of the Ways",
@@ -11525,7 +11525,7 @@
 			]
 		}
 	}, {
-		"doctor": "eleventh",
+		"doctor": "Eleventh",
 		"from": "2010",
 		"to": "2013",
 		"first_serial": "The End of Time",
@@ -11769,7 +11769,7 @@
 			]
 		}
 	}, {
-		"doctor": "twelfth",
+		"doctor": "Twelfth",
 		"from": "2013",
 		"to": "",
 		"first_serial": "The Day of the Doctor",
