@@ -16,7 +16,7 @@ $(function() {
 	$.getJSON(dr, function(data) {
     	var doc = '<ul class="doctors">';
     	$.each(data, function (i, a) {
-    		doc += '<li id="'+a.doctor+'" class="doctor"><h2>'a.doctor+': '+a.actor+'</h2>'
+    		doc += '<li id="'+a.doctor+'" class="doctor"><h2>'+a.doctor+': '+a.actor+'</h2>'
 	    		doc += '<ul class="'+a.doctor+' doctor">';
 					doc += '<li>First Appearance: <strong>'+a.first_serial+'</strong></li>';
 					doc += '<li>Last Appearance: <strong>'+a.last_serial+'</strong></li>';
