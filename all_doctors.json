@@ -8,7 +8,7 @@
 		"actor": "William Hartnell",
 		"appearances": "29 stories (134 episodes)",
 		"sonic": "no",
-		"tardis_interior": "http://ichef.bbci.co.uk/images/ic/944x531_b/p0129mfd.jpg",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
 		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1963-tardis/",
 		"costume": "Edwardian grandfather",
 		"description": "Originally a very difficult and curmudgeonly person, the First Doctor matured from an apparent selfishness and became more inviting. His happier, kinder characteristics fostered when he began to acquire an entourage of companions to accompany him throughout the wonders of the fourth dimension and learned to be a caregiver with a sense of justice in a universe afflicted by evils.",
@@ -2742,7 +2742,7 @@
 								"name": "The Smugglers",
 								"airdate": "10 September – 1 October 1966",
 								"production_code": "CC",
-								"overview": "The Doctor’s new companions Ben and Polly arrive with him in the TARDIS on the coast of seventeenth-century Cornwall, where a group of pirates are searching for treasure. ",
+								"overview": "The Doctor's new companions Ben and Polly arrive with him in the TARDIS on the coast of seventeenth-century Cornwall, where a group of pirates are searching for treasure. ",
 								"companions": {
 									"companion": [
 										{ 
@@ -3194,7 +3194,7 @@
 		"actor": "Richard Hurndall",
 		"appearances": "1 stories (1 episode)",
 		"sonic": "no",
-		"tardis_interior": "http://ichef.bbci.co.uk/images/ic/944x531_b/p0129m6j.jpg",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
 		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1980-tardis/",
 		"costume": "Edwardian grandfather",
 		"description": "Originally a very difficult and curmudgeonly person, the First Doctor matured from an apparent selfishness and became more inviting. His happier, kinder characteristics fostered when he began to acquire an entourage of companions to accompany him throughout the wonders of the fourth dimension and learned to be a caregiver with a sense of justice in a universe afflicted by evils.",
@@ -3331,7 +3331,7 @@
 		"costume": "Cosmic Hobo",
 		"description": "Though outwardly warm, bumbling, and somewhat clownish, the Second Doctor had a darker, more cunning aspect to his personality — one which he usually kept hidden in order to carry out his plans.",
 		"first_words": "Slower... SLOWER!!! Concentrate on one thing... ONE THING!!!...",
-		"last_words": "No! Stop, you’re making me giddy! No, you can’t do this to me! No, no, no, no, no, no, no, no, no, no, no, no, no!",
+		"last_words": "No! Stop, you're making me giddy! No, you can't do this to me! No, no, no, no, no, no, no, no, no, no, no, no, no!",
 		"seasons": {
 			"season": [
 				{
@@ -6868,19 +6868,82 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "The Axons",
+											"actor": [
+												{
+													"name": "Bernard Holley"
+												}, {
+													"name": "Patricia Gordino"
+												}, {
+													"name": "John Hicks"
+												}, {
+													"name": "Debbie Lee London"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "13 March 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
 											"writers": [
 												{
-													"name": ""
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 2",
+											"airdate": "20 March 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 3",
+											"airdate": "27 March 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "3 April 1971",
+											"overview": "Earth, the near future. Axos, a living spacecraft, lands and offers Earth a new energy source - Axonite. But what is Axos's real agenda?",
+											"director": "Michael Ferguson",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
 												}
 											]
 										}
@@ -6902,19 +6965,90 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Captain Dent",
+											"actor": [
+												{
+													"name": "Morris Perry"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "10 April 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
 											"writers": [
 												{
-													"name": ""
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "17 April 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "24 April 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "1 May 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 5",
+											"airdate": "8 May 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 6",
+											"airdate": "15 May 1971",
+											"overview": "The planet Uxarius, in the year 2471. The Time Lords temporarily reactivate the TARDIS to allow the Doctor and Jo to travel here. They find colonists from Earth struggling to survive on a desolate world, with the rapacious miners of IMC attempting to drive them away. But what happened to Uxarius' original inhabitants?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
 												}
 											]
 										}
@@ -6936,19 +7070,96 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Azal",
+											"actor": [
+												{
+													"name": "Stephen Thorne"
+												}
+											]
+										}, {
+											"enemy": "Bok",
+											"actor": [
+												{
+													"name": "Stanley Mason"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 1",
+											"airdate": "22 May 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 2",
+											"airdate": "29 May 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 3",
+											"airdate": "5 June 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "12 June 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL D3 colour restoration",
+											"name": "Episode 5",
+											"airdate": "19 June 1971",
+											"overview": "Earth, the near future. When an archaological dig at the village of Devil's End goes disastrously wrong, an ancient power begins to revive. Can even the Doctor withstand the power of the Daemons? And just what is the local vicar up to in his spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {
+													"name": "Barry Letts"
 												}
 											]
 										}
@@ -6966,14 +7177,14 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
-								"overview": "",
+								"name": "Day of the Daleks",
+								"airdate": "1  January 1972 – 22 January 1972",
+								"production_code": "KKK",
+								"overview": "Rebels from a future Earth conquered by the Daleks travel to the 20th Century to change the course of history. ",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jo Grant",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -6981,19 +7192,518 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "The Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												}, {
+													"name": "Murphy Grumbar"
+												}, {
+													"name": "Ricky Newby"
+												}
+											]
+										}, {
+											"enemy": "The Ogrons",
+											"actor": [
+												{
+													"name": "Rick Lester"
+												}, {
+													"name": "Maurice Bush"
+												}, {
+													"name": "David Joyce"
+												}, {
+													"name": "Frank Menzies"
+												}, {
+													"name": "Bruce Wells"
+												}, {
+													"name": "Geoff Todd"
+												}
+											]
+										}, {
+											"enemy": "The Controller",
+											"actor": [
+												{
+													"name": "Aubrey Woods"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "1 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
 											"writers": [
 												{
-													"name": ""
+													"name": "Louis Marks"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "8 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "15 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "22 January 1972",
+											"overview": "Earth, the near future. Diplomat Sir Reginald Styles has started seeing ghosts at his country mansion - an alarming development given the precarious international situation and his position as possibly the only man capable of stopping the Third World War. The Doctor and Jo go ghost hunting - but are these ghosts from the past or the future?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Curse of Peladon",
+								"airdate": "29 January 1972 - 19 February 1972",
+								"production_code": "MMM",
+								"overview": "The Doctor and Jo land on the planet Peladon, where they have to contend with an ancient royal curse. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Arcturus",
+											"actor": [
+												{
+													"name": "Murphy Grumbar"
+												}
+											]
+										}, {
+											"enemy": "High Priest Hepesh",
+											"actor": [
+												{
+													"name": "Geoffrey Toone"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "29 January 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "5 February 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "12 February 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "19 February 1972",
+											"overview": "The planet Peladon, some time in the future. The Doctor and Jo arrive just in time to get involved in the conference to discuss Peladon's admission to the Galactic Federation. But the King's closest counsel has been murdered, apparently by a ghost... and then the Doctor learns his old enemies, the Ice Warriors, are also attending the conference...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Sea Devils",
+								"airdate": "26 February 1972 - 1 April 1972",
+								"production_code": "LLL",
+								"overview": "The Third Doctor and Jo visit the Master in his island prison and encounter the Sea Devils, cousins of the Silurians. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Chief Sea Devil",
+											"actor": [
+												{
+													"name": "Peter Forbes-Robertson"
+												}
+											]
+										}, {
+											"enemy": "George Trenchard",
+											"actor": [
+												{
+													"name": "Clive Morton"
+												}
+											]
+										}, {
+											"enemy": "Walker",
+											"actor": [
+												{
+													"name": "Martin Boddey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 1",
+											"airdate": "26 February 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 2",
+											"airdate": "4 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 3",
+											"airdate": "11 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 4",
+											"airdate": "18 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 5",
+											"airdate": "25 March 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "RSC converted (NTSC-to-PAL)",
+											"name": "Episode 6",
+											"airdate": "1 April 1972",
+											"overview": "England, the near future. While visiting the Master in his island prison, the Doctor and Jo learn of a series of mysterious ship-sinkings in the area. Can the Master be involved?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Mutants",
+								"airdate": "8 April 1972 - 13 May 1972",
+								"production_code": "NNN",
+								"overview": "On the colony world of Solos, something is transforming the solonian population, turning them into hideous mutants.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Marshal of Solos",
+											"actor": [
+												{
+													"name": "Paul Whitsun-Jones"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "8 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "15 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "22 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "29 April 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 5",
+											"airdate": "6 May 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 6",
+											"airdate": "13 May 1972",
+											"overview": "The planet Solos in the 30th century. As Earth slowly moves towards granting Solos its independence, the Doctor and Jo arrive on a mission for the Time Lords. How far will the brutal Marshal go to retain his power over the planet? And why are the native Solosians undergoing a gradual mutation into hideous, insect-like creatures?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Dave Martin"
+												}, {
+													"name": "Bob Baker"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Time Monster",
+								"airdate": "20 May 1972 – 24 June 1972",
+								"production_code": "OOO",
+								"overview": "The Third Doctor and Jo investigate the workings of the TOMTIT machine, and what secret power is locked within the crystal of Kronos?",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "Kronos",
+											"actor": [
+												{
+													"name": "Marc Boyle"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL colour conversion",
+											"name": "Episode 1",
+											"airdate": "20 May 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 2",
+											"airdate": "27 May 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 3",
+											"airdate": "3 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 4",
+											"airdate": "10 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 5",
+											"airdate": "17 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
+												}
+											]
+										}, {
+											"archive": "PAL colour conversion",
+											"name": "Episode 6",
+											"airdate": "24 June 1972",
+											"overview": "England, the near future. Professor Thascales' TOMTIT project is nearing completion... but why is a simple matter transmitter causing disruption to the flow of time? And what exactly is Kronos, the time monster itself?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts"
 												}
 											]
 										}
@@ -7011,14 +7721,14 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
-								"overview": "",
+								"name": "The Three Doctors",
+								"airdate": "30 December 1972 - 20 January 1973",
+								"production_code": "RRR",
+								"overview": "Gallifrey, home planet of the Time Lords is under siege, by an unknown force. The only person who can help them is the Doctor, but even he will need assistance from his previous incarnations.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Jo Grant",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -7026,19 +7736,493 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "Omega",
+											"actor": [
+												{
+													"name": "Stephen Thorne"
+												}
+											]
+										}, {
+											"enemy": "Gell guards",
+											"actor": []
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "30 December 1972",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
 											"writers": [
 												{
-													"name": ""
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "6 January 1973",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "13 January 1973",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "20 January 1973",
+											"overview": "England, the near future. A strange anti-matter creature arrives on Earth and attacks UNIT HQ. It seems to be specifically seeking the Doctor out - but why? With the Time Lords themselves unable to help, it seems the only person who can help the Doctor is himself - or selves...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Bob Baker"
+												}, {	
+													"name": "Dave Martin"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Carnival of Monsters",
+								"airdate": "27 January 1973 - 17 February 1973",
+								"production_code": "PPP",
+								"overview": "The TARDIS materialises on the SS Bernice, a ship that suddenly disappeared while travelling the Indian Ocean.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Kalik",
+											"actor": [
+												{
+													"name": "Michael Wisher"
+												}
+											]
+										}, {
+											"enemy": "Drashigs",
+											"actor": []
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "27 January 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "3 February 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "10 February 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "17 February 1973",
+											"overview": "The Indian Ocean, 1935 - or is it? The Doctor and Jo arrive on the SS Bernice, a ship due to mysteriously vanish without trace. But why do events seem to repeat themselves, and why is a plesiosaur attacking the ship? Meanwhile, on the planet Inter Minor, travelling showman Vorg arrives with his remarkable Miniscope...",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Frontier in Space",
+								"airdate": "24 February 1973 - 31 March 1973",
+								"production_code": "QQQ",
+								"overview": "Materialising on an Earth cargo spaceship, the Doctor is caught up in the tensions between the Earth and Draconian Empires. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Master",
+											"actor": [
+												{
+													"name": "Roger Delgado"
+												}
+											]
+										}, {
+											"enemy": "The Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												} ,{
+													"name": "Murphy Grumbar"
+												} ,{
+													"name": "Cy Town"
+												}
+											]
+										}, {
+											"enemy": "The Ogrons",
+											"actor": [
+												{
+													"name": "Rick Lester"
+												} ,{
+													"name": "Michael Kilgarriff"
+												} ,{
+													"name": "Stephen Thorne"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "24 February 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "3 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "10 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "17 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "24 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "31 March 1973",
+											"overview": "Deep space, the year 2540. The space powers of Earth and Draconia stand at the brink of war, as each seems to be guilty of pirate raids on the others' ships. But who would truly benefit from such a conflict...?",
+											"director": "Paul Bernard",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Planet of the Daleks",
+								"airdate": "7 April 1973 - 12 May 1973",
+								"production_code": "SSS",
+								"overview": "The Time Lords have landed the TARDIS on the planet Spiridon, where the Daleks are awakening the biggest Dalek army the galaxy has ever seen.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												} ,{
+													"name": "Murphy Grumbar"
+												} ,{
+													"name": "Cy Town"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "7 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "14 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "Film colourisation and chroma dot colour recovery hybrid",
+											"name": "Episode 3",
+											"airdate": "21 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "28 April 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "5 May 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "12 May 1973",
+											"overview": "The planet Spiridon, the year 2540. The Doctor and Jo arrive on the trail of the Daleks, and find unexpected allies in the shape of a Thal suicide squad. But what has brought the Daleks here in the first place?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Green Death",
+								"airdate": "19 May 1973 - 23 June 1973",
+								"production_code": "TTT",
+								"overview": "Mutated giant maggots are appearing all over the Welsh countryside, could Global Chemicals be behind it?",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Jo Grant",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "BOSS",
+											"actor": [
+												{
+													"name": "John Dearth"
+												}
+											]
+										}, {
+											"enemy": "Stevens",
+											"actor": [
+												{
+													"name": "Jerome Willis"
+												}
+											]
+										}, {
+											"enemy": "The Giant Maggots",
+											"actor": []
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "19 May 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "26 May 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "2 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "9 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "16 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "23 June 1973",
+											"overview": "Wales, the near future. While the Doctor finally gets to visit Metebelis Three, Jo and UNIT investigate a spate of strange deaths near Global Chemicals' plant. What effect has the company's toxic waste had on the local wildlife...?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
 												}
 											]
 										}
@@ -7056,14 +8240,14 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
-								"overview": "",
+								"name": "The Time Warrior",
+								"airdate": "15 December 1973 - 5 January 1974",
+								"production_code": "UUU",
+								"overview": "In the Middle Ages, a rabble of criminals find the crashed spaceship of a Sontaran warrior. Meanwhile the Doctor is investigating the disappearance of several scientists from a top secret research complex.",
 								"companions": {
 									"companion": [
 										{ 
-											"character": "",
+											"character": "Sarah Jane Smith",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -7071,19 +8255,493 @@
 									]
 								},
 								"enemies": {
-									"enemy": []
+									"enemy": [
+										{
+											"enemy": "Irongron",
+											"actor": [
+												{
+													"name": "David Daker"
+												}
+											]
+										}, {
+											"enemy": "Linx",
+											"actor": [
+												{
+													"name": "Kevin Lindsay"
+												}
+											]
+										}
+									]
 								},
 								"episodes": {
 									"episode": [
 										{
-											"archive": "",
-											"name": "Episode ",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "15 December 1973",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "22 December 1973",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "29 December 1973",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "5 January 1974",
+											"overview": "England, the 12th century. Robber baron Irongron is recruited by Linx, a Sontaran warrior whose starship has been forced down on Earth. Linx is forced to use a time-travel device to steal resources and scientists from the future to repair his ship, but in doing so involves UNIT and the Doctor...",
+											"director": "Alan Bromly",
+											"writers": [
+												{
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Invasion of the Dinosaurs",
+								"airdate": "12 January 1974 - 16 February 1974",
+								"production_code": "WWW",
+								"overview": "The Doctor and Sarah arrive in 1970s London to find that it has been evacuated due to the mysterious appearance of dinosaurs. ",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "General Finch",
+											"actor": [
+												{
+													"name": "John Bennett"
+												}
+											]
+										}, {
+											"enemy": "Professor Whitaker",
+											"actor": [
+												{
+													"name": "Peter Miles"
+												}
+											]
+										}, {
+											"enemy": "Sir Charles Grover",
+											"actor": [
+												{
+													"name": "Noel Johnson"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "Chroma dot colour recovery",
+											"name": "Episode 1",
+											"airdate": "12 January 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "19 January 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "26 January 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "2 February 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "9 February 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "16 February 1974",
+											"overview": "London, the near future. The Doctor and Sarah return to a deserted city under martial law. Dinosaurs are running amok in the streets - but how can this be happening? And who stands to gain from it?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Malcolm Hulke"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Death to the Daleks",
+								"airdate": "23 February 1974 - 16 March 1974",
+								"production_code": "XXX",
+								"overview": "Travelling through space, the TARDIS suffers an energy drain and crash-lands on the planet Exxilon.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin"
+												} ,{
+													"name": "Murphy Grumbar"
+												} ,{
+													"name": "Cy Town"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "23 February 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "2 March 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "9 March 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "16 March 1974",
+											"overview": "The barren planet Exxilon, some time in the future. The TARDIS is forced down by a total power failure and the Doctor and Sarah meet a stranded Earth crew who came here to mine for priceless medical supplies. But what is causing the power failures? And why have the Daleks come here too?",
+											"director": "Michael E. Briant",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "The Monster of Peladon",
+								"airdate": "23 March 1974 - 27 April 1974",
+								"production_code": "The Third Doctor returns to Peladon, where once again the sacred beast Aggedor casts its shadow. ",
+								"overview": "YYY",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Azaxyr",
+											"actor": [
+												{
+													"name": "Alan Bennion"
+												}
+											]
+										}, {
+											"enemy": "Sskel",
+											"actor": [
+												{
+													"name": "Sonny Caldinez"
+												}
+											]
+										}, {
+											"enemy": "Eckersley",
+											"actor": [
+												{
+													"name": "Donald Gee"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "23 March 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "30 March 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "6 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "13 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "20 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										},{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "27 April 1974",
+											"overview": "The planet Peladon, some time in the future. Mining disputes threaten the peace of the planet, and as the Doctor and Jo arrive, it seems that the ghost of Aggedor walks once more...",
+											"director": "Lennie Mayne",
+											"writers": [
+												{
+													"name": "Brian Hayles"
+												}
+											]
+										}
+									]
+								}	
+							}, {
+								"name": "Planet of the Spiders",
+								"airdate": "4 May 1974 - 8 June 1974",
+								"production_code": "ZZZ",
+								"overview": "Mysterious goings-on at a meditation retreat run by Tibetan monks are linked to the blue planet Metebelis III, and a colony of monstrous, evolved spiders.",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great One",
+											"actor": [
+												{
+													"name": "Maureen Morris"
+												}
+											]
+										}, {
+											"enemy": "The Eight Legs",
+											"actor": [
+												{
+													"name": "Ysanne Churchman"
+												}, {	
+													"name": "Kismet Delgado"
+												}, {	
+													"name": "Maureen Morris"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 1",
+											"airdate": "4 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 2",
+											"airdate": "11 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 3",
+											"airdate": "18 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 4",
+											"airdate": "25 May 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 5",
+											"airdate": "1 June 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
+												}
+											]
+										}, {
+											"archive": "PAL 2\" colour videotape",
+											"name": "Episode 6",
+											"airdate": "8 June 1974",
+											"overview": "England, the near future. Mike Yates, formerly of UNIT, is disturbed by odd happenings at a monastic retreat. Using Sarah as a liaison, he is able to warn the Doctor and the Brigadier. But how is the Doctor's research into ESP and the blue Metebelius III crystal connected to Mike's warning?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Robert Sloman"
+												}, {	
+													"name": "Barry Letts (uncredited)"
 												}
 											]
 										}
@@ -7108,105 +8766,6 @@
 									"companion": [
 										{ 
 											"character": "Brigadier Lethbridge-Stewart",
-											"died": "no",
-											"left": "no",
-											"left_behind": "no"
-										}
-									]
-								},
-								"enemies": {
-									"enemy": [
-										{
-											"enemy": "Daleks",
-											"actor": [
-												{
-													"name": "John Scott Martin"
-												}
-											]
-										}, {
-											"enemy": "Cybermen",
-											"actor": [
-												{
-													"name": "David Banks"
-												}, {
-													"name": "Mark Hardy"
-												}, {
-													"name": "William Kenton"
-												}
-											]
-										}, {
-											"enemy": "Yeti",
-											"actor": [
-												{
-													"name": "Lee Woods"
-												}
-											]
-										}, {
-											"enemy": "The Master",
-											"actor": [
-												{
-													"name": "Anthony Ainley"
-												}
-											]
-										}, {
-											"enemy": "Rassilon",
-											"actor": [
-												{
-													"name": "Richard Mathews"
-												}
-											]
-										}, {
-											"enemy": "Raston Warrior Robot",
-											"actor": [
-												{
-													"name": "Keith Hodiak"
-												}
-											]
-										}, {
-											"enemy": "Lord President Borusa",
-											"actor": [
-												{
-													"name": "Philip Latham"
-												}
-											]
-										}
-									]
-								},
-								"episodes": {
-									"episode": [
-										{
-											"archive": "",
-											"name": "The Five Doctors",
-											"airdate": "25 November 1983",
-											"overview": "Gallifrey, planet of the Time Lords. The Death Zone, where the ancient Gallifreyans once staged gladiatorial games between alien races from throughout the universe, has been reactivated. No less than three of the Doctor's former incarnations and several of his companions are brought here. But why? And who is the Player in the Game of Rassilon?",
-											"director": "Peter Moffatt",
-											"writers": [
-												{
-													"name": "Terrance Dicks"
-												}
-											]
-										}
-									]
-								}	
-							}							
-						]
-					}
-				}, {
-					"season": "22",
-					"from": "1985",
-					"to": "1985",
-					"classic": "yes",
-					"new": "no",
-					"serials": {
-						"serial": [
-							{
-								"name": "The Two Doctors",
-								"airdate": "16 February - 2 March 1985",
-								"production_code": "6W",
-								"companions": {
-									"companion": [
-										{ 
-											"character": "Sarah Jane Smith",
 											"died": "no",
 											"left": "no",
 											"left_behind": "no"
@@ -7376,6 +8935,1843 @@
 			]
 		}
 	}, {
+		"doctor": "fourth",
+		"from": "1974",
+		"to": "2013",
+		"first_serial": "Planet of the Spiders",
+		"last_serial": "The Day of The Doctor",
+		"actor": "Tom Baker",
+		"appearances": "41 stories (172 episodes)",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1976-tardis/",
+		"costume": "Bohemian vagabond",
+		"description": "Long scarf, floppy hat, jelly babies, excitable.",
+		"first_words": "Human history.",
+		"last_words": "It's the end, but the moment has been prepared for...",
+		"seasons": {
+			"season": [
+				{
+					"season": "12",
+					"from": "1974",
+					"to": "1975",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "Robot",
+								"airdate": "28 December 1974 – 18 January 1975",
+								"production_code": "4A",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Robot",
+											"actor": [
+												{
+													"name": "Michael Kilgarriff"
+												}
+											]
+										},
+										{
+											"enemy": "Hilda Winters",
+											"actor": [
+												{
+													"name": "Patricia Maynard"
+												}
+											]
+										},
+										{
+											"enemy": "Scientific Reform Society",
+											"actor": []
+										},
+										{
+											"enemy": "Professor Kettlewell",
+											"actor": [
+												{
+													"name": "Edward Burnham"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "28 December 1974",
+											"overview": "England, the near future. Something inhumanly strong and resilient is raiding scientific establishments across the country. Can the new Doctor help UNIT? And what are the staff of the secret government think tank working on in their spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "4 January 1975",
+											"overview": "England, the near future. Something inhumanly strong and resilient is raiding scientific establishments across the country. Can the new Doctor help UNIT? And what are the staff of the secret government think tank working on in their spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "11 January 1975",
+											"overview": "England, the near future. Something inhumanly strong and resilient is raiding scientific establishments across the country. Can the new Doctor help UNIT? And what are the staff of the secret government think tank working on in their spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "18 January 1975",
+											"overview": "England, the near future. Something inhumanly strong and resilient is raiding scientific establishments across the country. Can the new Doctor help UNIT? And what are the staff of the secret government think tank working on in their spare time?",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "13",
+					"from": "1975",
+					"to": "1976",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "14",
+					"from": "1976",
+					"to": "1977",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "15",
+					"from": "1977",
+					"to": "1978",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "16",
+					"from": "1978",
+					"to": "1979",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "17",
+					"from": "1979",
+					"to": "1980",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "18",
+					"from": "1980",
+					"to": "1981",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"production_code": "7.13",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013",
+											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
+											"director": "Saul Metzstein",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Night of the Doctor",
+								"airdate": "14 November 2013",
+								"production_code": "NA",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Cass",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Night of the Doctor",
+											"airdate": "14 November 2013",
+											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
+											"director": "John Hayes",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+		"companions": {
+			"companion": [
+				{ 
+					"character": "Sarah Jane Smith", 
+					"actor": "Elisabeth Sladen", 
+					"from": "1974",
+					"to": "1976",
+					"first_serial": "Robot",
+					"last_serial": "The Hand of Fear"
+				}, { 
+					"character": "Harry Sullivan", 
+					"actor": "Ian Marter", 
+					"from": "1974",
+					"to": "1975",
+					"first_serial": "Robot",
+					"last_serial": "The Android Invasion"
+				}, { 
+					"character": "Leela", 
+					"actor": "Louise Jameson", 
+					"from": "1977",
+					"to": "1978",
+					"first_serial": "The Face of Evil",
+					"last_serial": "The Invasion of Time"
+				}, { 
+					"character": "K-9", 
+					"actor": "John Leeson", 
+					"from": "1977",
+					"to": "1981",
+					"first_serial": "The Face of Evil",
+					"last_serial": "Warriors' Gate"
+				}, { 
+					"character": "Romana", 
+					"actor": "Mary Tamm", 
+					"from": "1978",
+					"to": "1979",
+					"first_serial": "The Face of Evil",
+					"last_serial": "The Armageddon Factor"
+				}, { 
+					"character": "Romana", 
+					"actor": "Lalla Ward", 
+					"from": "1979",
+					"to": "1983",
+					"first_serial": "Destiny of the Daleks",
+					"last_serial": "The Five Doctors"
+				}, { 
+					"character": "Adric", 
+					"actor": "Matthew Waterhouse", 
+					"from": "1980",
+					"to": "1982",
+					"first_serial": "Full Circle",
+					"last_serial": "The Caves of Androzani"
+				}, { 
+					"character": "Nyssa", 
+					"actor": "Sarah Sutton", 
+					"from": "1981",
+					"to": "1983",
+					"first_serial": "The Keeper of Traken",
+					"last_serial": "Terminus"
+				}, { 
+					"character": "Tegan Jovanka", 
+					"actor": "Janet Fielding", 
+					"from": "1981",
+					"to": "1984",
+					"first_serial": "Logopolis",
+					"last_serial": "The Caves of Androzani"
+				}
+			]
+		}
+	}, {
+		"doctor": "fifth",
+		"from": "1981",
+		"to": "2013",
+		"first_serial": "Logopolis",
+		"last_serial": "The Day of The Doctor",
+		"actor": "Peter Davison",
+		"appearances": "20 stories (69 episodes)",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1980-tardis/",
+		"costume": "Cricket whites and celery.",
+		"description": "An interest in things associated with Victorian and Edwardian England: cricket, tea, fair play, good manners, and a keen interest in science and exploration.",
+		"first_words": "Ah. You've come to help me find the Zero Room. Welcome aboard.  I'm the Doctor. Or will be if this regeneration works out.",
+		"last_words": "Adric?",
+		"seasons": {
+			"season": [
+				{
+					"season": "19",
+					"from": "1982",
+					"to": "1982",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "20",
+					"from": "1983",
+					"to": "1983",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "21",
+					"from": "1984",
+					"to": "1984",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"production_code": "7.13",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013",
+											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
+											"director": "Saul Metzstein",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Night of the Doctor",
+								"airdate": "14 November 2013",
+								"production_code": "NA",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Cass",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Night of the Doctor",
+											"airdate": "14 November 2013",
+											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
+											"director": "John Hayes",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Adric", 
+					"actor": "Matthew Waterhouse", 
+					"from": "1980",
+					"to": "1982",
+					"first_serial": "Full Circle",
+					"last_serial": "The Caves of Androzani"
+				}, { 
+					"character": "Nyssa", 
+					"actor": "Sarah Sutton", 
+					"from": "1981",
+					"to": "1983",
+					"first_serial": "The Keeper of Traken",
+					"last_serial": "Terminus"
+				}, { 
+					"character": "Tegan Jovanka", 
+					"actor": "Janet Fielding", 
+					"from": "1981",
+					"to": "1984",
+					"first_serial": "Logopolis",
+					"last_serial": "The Caves of Androzani"
+				}, { 
+					"character": "Vislor Turlough", 
+					"actor": "Mark Strickson", 
+					"from": "1983",
+					"to": "1984",
+					"first_serial": "Mawdryn Undead",
+					"last_serial": "The Caves of Androzani"
+				}, { 
+					"character": "Kamelion", 
+					"actor": "Gerald Flood", 
+					"from": "1983",
+					"to": "1984",
+					"first_serial": "The King's Demons",
+					"last_serial": "The Caves of Androzani"
+				}, { 
+					"character": "Perpugilliam (Peri) Brown", 
+					"actor": "Nicola Bryant", 
+					"from": "1984",
+					"to": "1986",
+					"first_serial": "Planet of Fire",
+					"last_serial": "Mindwarp"
+				}
+			]
+		}
+	}, {
+		"doctor": "sixth",
+		"from": "1984",
+		"to": "2013",
+		"first_serial": "The Caves of Androzani",
+		"last_serial": "The Day of The Doctor",
+		"actor": "Colin Baker",
+		"appearances": "8 stories (31 episodes)",
+		"sonic": "no",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1980-tardis/",
+		"costume": "Multi coloured costume. Cat pin.",
+		"description": "Arrogant, careless, dramatic, self-absorbed, driven and stubborn. Loud clothes.",
+		"first_words": "You were expecting someone else?",
+		"last_words": "Carrot juice, carrot juice, carrot juice!",
+		"seasons": {
+			"season": [
+				{
+					"season": "21",
+					"from": "1984",
+					"to": "1984",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "22",
+					"from": "1985",
+					"to": "1985",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "23",
+					"from": "1986",
+					"to": "1986",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"production_code": "7.13",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013",
+											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
+											"director": "Saul Metzstein",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Night of the Doctor",
+								"airdate": "14 November 2013",
+								"production_code": "NA",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Cass",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Night of the Doctor",
+											"airdate": "14 November 2013",
+											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
+											"director": "John Hayes",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Perpugilliam (Peri) Brown", 
+					"actor": "Nicola Bryant", 
+					"from": "1984",
+					"to": "1986",
+					"first_serial": "Planet of Fire",
+					"last_serial": "Mindwarp"
+				}, { 
+					"character": "Mel", 
+					"actor": "Nicola Bryant", 
+					"from": "1986",
+					"to": "1987",
+					"first_serial": "Terror of the Vervoids",
+					"last_serial": "Dragonfire"
+				}
+			]
+		}
+	}, {
+		"doctor": "seventh",
+		"from": "1984",
+		"to": "2013",
+		"first_serial": "Time and the Rani",
+		"last_serial": "The Day of The Doctor",
+		"actor": "Sylvester McCoy",
+		"appearances": "12 stories (42 episodes)",
+		"sonic": "no",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1980-tardis/",
+		"costume": "Multi coloured costume. Cat pin.",
+		"description": "Arrogant, careless, dramatic, self-absorbed, driven and stubborn. Loud clothes.",
+		"first_words": "Oh no. Mel.",
+		"last_words": "Timing malfunction! The Master, he's out there! He's out there... I've got to stop... him...",
+		"seasons": {
+			"season": [
+				{
+					"season": "24",
+					"from": "1987",
+					"to": "1987",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "25",
+					"from": "1988",
+					"to": "1989",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "26",
+					"from": "1989",
+					"to": "1989",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "Doctor Who (film)",
+					"from": "1996",
+					"to": "1996",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"production_code": "7.13",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013",
+											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
+											"director": "Saul Metzstein",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Night of the Doctor",
+								"airdate": "14 November 2013",
+								"production_code": "NA",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Cass",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Night of the Doctor",
+											"airdate": "14 November 2013",
+											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
+											"director": "John Hayes",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Mel", 
+					"actor": "Nicola Bryant", 
+					"from": "1986",
+					"to": "1987",
+					"first_serial": "Terror of the Vervoids",
+					"last_serial": "Dragonfire"
+				}, { 
+					"character": "Ace", 
+					"actor": "Sophie Aldred", 
+					"from": "1987",
+					"to": "1989",
+					"first_serial": "Dragonfire",
+					"last_serial": "Survival "
+				}
+			]
+		}
+	}, {
+		"doctor": "eigth",
+		"from": "1996",
+		"to": "2013",
+		"first_serial": "Doctor Who (film)",
+		"last_serial": "The Day of The Doctor",
+		"actor": "Paul McGann",
+		"appearances": "2 stories (2 episodes)",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1996-tardis/",
+		"costume": "Victorian dandy.",
+		"description": "A happy adventurer, having many points in common with the Tenth Doctor.",
+		"first_words": "Who am I?  Who am I?  WHO. AM. I!?",
+		"last_words": "Good. Charley, C'rizz, Lucie, Tamsin, Molly, friends, companions I've known, I salute you. And Cass, I apologise.  Physician, heal thyself.",
+		"seasons": {
+			"season": [
+				{
+					"season": "Doctor Who (film)",
+					"from": "1996",
+					"to": "1996",
+					"classic": "yes",
+					"new": "no",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"production_code": "7.13",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013",
+											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
+											"director": "Saul Metzstein",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Night of the Doctor",
+								"airdate": "14 November 2013",
+								"production_code": "NA",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Cass",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Night of the Doctor",
+											"airdate": "14 November 2013",
+											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
+											"director": "John Hayes",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Grace Holloway", 
+					"actor": "Daphne Ashbrook", 
+					"from": "1996",
+					"to": "1996",
+					"first_serial": "Doctor Who (film)",
+					"last_serial": "Doctor Who (film)"
+				}
+			]
+		}
+	}, {
 		"doctor": "war",
 		"from": "2013",
 		"to": "2013",
@@ -7384,8 +10780,8 @@
 		"actor": "John Hurt",
 		"appearances": "3 stories (3 episodes)",
 		"sonic": "yes",
-		"tardis_interior": "http://ichef.bbci.co.uk/images/ic/944x531_b/p0129m6j.jpg",
-		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/1980-tardis/",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/2005-tardis/",
 		"costume": "Edwardian grandfather",
 		"description": "The War Doctor appears old and bedraggled, wearing the Ninth Doctor's distressed leather overcoat over the Eighth Doctor's Victorian-style waistcoat.",
 		"first_words": "Doctor no more.",
@@ -7539,6 +10935,1167 @@
 					"to": "2013",
 					"first_serial": "The Night of the Doctor",
 					"last_serial": "The Night of the Doctor"
+				}
+			]
+		}
+	}, {
+		"doctor": "ninth",
+		"from": "2005",
+		"to": "2005",
+		"first_serial": "Rose",
+		"last_serial": "The Day of The Doctor",
+		"actor": "Christopher Eccleston",
+		"appearances": "10 stories (13 episodes)",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/2005-tardis/",
+		"costume": "Leather jacket, ears.",
+		"description": "He considered himself to have been \"born in battle\" and was left to think he had brought forth the death of billions of innocent Time Lords. He thus commenced the new life devastated from the apparent genocide, full of anger.",
+		"first_words": "Run.",
+		"last_words": "Rose, before I go, I just want to tell you, you were fantastic.  Absolutely fantastic. And do you know what? So was I.",
+		"seasons": {
+			"season": [
+				{
+					"season": "1",
+					"from": "2005",
+					"to": "2005",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"production_code": "7.13",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013",
+											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
+											"director": "Saul Metzstein",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Night of the Doctor",
+								"airdate": "14 November 2013",
+								"production_code": "NA",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Cass",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Night of the Doctor",
+											"airdate": "14 November 2013",
+											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
+											"director": "John Hayes",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+		"companions": {
+			"companion": [
+				{ 
+					"character": "Rose Tyler", 
+					"actor": "Billie Piper", 
+					"from": "2005",
+					"to": "2013",
+					"first_serial": "Rose",
+					"last_serial": "The Day of the Doctor"
+				}, { 
+					"character": "Adam Mitchell", 
+					"actor": "Bruno Langley", 
+					"from": "2005",
+					"to": "2005",
+					"first_serial": "Dalek",
+					"last_serial": "The Long Game"
+				}, { 
+					"character": "Captain Jack Harkness", 
+					"actor": "John Barrowman", 
+					"from": "2005",
+					"to": "2010",
+					"first_serial": "The Empty Child",
+					"last_serial": "The End of Time"
+				}
+			]
+		}
+	}, {
+		"doctor": "tenth",
+		"from": "2005",
+		"to": "2010",
+		"first_serial": "The Parting of the Ways",
+		"last_serial": "The Day of The Doctor",
+		"actor": "David Tennant",
+		"appearances": "36 stories (47 episodes)",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/2005-tardis/",
+		"costume": "Geek chic.",
+		"description": "He projected a convivial and even frivolous front. However, when he had to engage in conflict, the Tenth Doctor's energies would shift toward heroism to reveal a fiercely protective man who resolutely guarded what he held dear, and who could be viciously unforgiving to the forces that dared menace them.",
+		"first_words": "Hello. Okay. Ooo, new teeth. That's weird. So, where was I?  Oh, that's right. Barcelona.",
+		"last_words": "I don't want to go.",
+		"seasons": {
+			"season": [
+				{
+					"season": "2",
+					"from": "2006",
+					"to": "2006",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "3",
+					"from": "2007",
+					"to": "2007",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "4",
+					"from": "2008",
+					"to": "2008",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "Specials",
+					"from": "2008",
+					"to": "2010",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Name of the Doctor",
+								"airdate": "18 May 2013",
+								"production_code": "7.13",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "The Great Intelligence",
+											"actor": [
+												{
+													"name": "Richard E. Grant"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Name of the Doctor",
+											"airdate": "18 May 2013",
+											"overview": "Someone is kidnapping the Doctor's friends, leading him towards the one place in all of time and space that he should never go.",
+											"director": "Saul Metzstein",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "2013 specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "The Night of the Doctor",
+								"airdate": "14 November 2013",
+								"production_code": "NA",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Cass",
+											"died": "yes",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": []
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Night of the Doctor",
+											"airdate": "14 November 2013",
+											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
+											"director": "John Hayes",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}, {
+								"name": "The Day of the Doctor",
+								"airdate": "23 November 2013",
+								"production_code": "TBA",
+								"companions": { },
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "Barnaby Edwards"
+												}, {
+													"name": "Nicholas Pegg"
+												}
+											]
+										},
+										{
+											"enemy": "Zygons",
+											"actor": [
+												{
+													"name": "Aidan Cook"
+												}, {
+													"name": "Paul Kasey"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "The Day of the Doctor",
+											"airdate": "23 November 2013",
+											"overview": "The Doctors embark on their greatest adventure in this 50th anniversary special. In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+											"director": "Nick Hurran",
+											"writers": [
+												{
+													"name": "Steven Moffat"
+												}
+											]
+										}
+									]
+								}
+							}							
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Rose Tyler", 
+					"actor": "Billie Piper", 
+					"from": "2005",
+					"to": "2013",
+					"first_serial": "Rose",
+					"last_serial": "The Day of the Doctor"
+				}, { 
+					"character": "Mickey Smith", 
+					"actor": "Noel Clarke", 
+					"from": "2005",
+					"to": "2010",
+					"first_serial": "Rose",
+					"last_serial": "The End of Time"
+				}, { 
+					"character": "Martha Jones", 
+					"actor": "Freema Agyeman", 
+					"from": "2007",
+					"to": "2010",
+					"first_serial": "Smith and Jones",
+					"last_serial": "The End of Time"
+				}, { 
+					"character": "Donna Noble", 
+					"actor": "Catherine Tate", 
+					"from": "2006",
+					"to": "2010",
+					"first_serial": "Doomsday",
+					"last_serial": "The End of Time"
+				}, { 
+					"character": "Captain Jack Harkness", 
+					"actor": "John Barrowman", 
+					"from": "2005",
+					"to": "2010",
+					"first_serial": "The Empty Child",
+					"last_serial": "The End of Time"
+				}, { 
+					"character": "Astrid Peth", 
+					"actor": "Kylie Minogue", 
+					"from": "2007",
+					"to": "2007",
+					"first_serial": "Voyage of the Damned",
+					"last_serial": "Voyage of the Damned"
+				}, { 
+					"character": "Sarah Jane Smith", 
+					"actor": "John Barrowman", 
+					"from": "2006",
+					"to": "2006",
+					"first_serial": "School Reunion",
+					"last_serial": "School Reunion"
+				}, { 
+					"character": "Jackson Lake", 
+					"actor": "David Morrissey", 
+					"from": "2008",
+					"to": "2008",
+					"first_serial": "The Next Doctor",
+					"last_serial": "The Next Doctor"
+				}, { 
+					"character": "Rosita Farisi", 
+					"actor": "Velile Tshabalala", 
+					"from": "2008",
+					"to": "2008",
+					"first_serial": "The Next Doctor",
+					"last_serial": "The Next Doctor"
+				}, { 
+					"character": "Christina de Souza", 
+					"actor": "Michelle Ryan", 
+					"from": "2009",
+					"to": "2009",
+					"first_serial": "Planet of the Dead",
+					"last_serial": "Planet of the Dead"
+				}, { 
+					"character": "Adelaide Brooke", 
+					"actor": "Lindsay Duncan", 
+					"from": "2009",
+					"to": "2009",
+					"first_serial": "The Waters of Mars",
+					"last_serial": "The Waters of Mars"
+				}, { 
+					"character": "Wilfred Mott", 
+					"actor": "Bernard Cribbins", 
+					"from": "2007",
+					"to": "2010",
+					"first_serial": "Voyage of the Damned",
+					"last_serial": "The End of Time"
+				}
+			]
+		}
+	}, {
+		"doctor": "eleventh",
+		"from": "2010",
+		"to": "2013",
+		"first_serial": "The End of Time",
+		"last_serial": "The Day of The Doctor",
+		"actor": "Matt Smith",
+		"appearances": "39 stories (44 episodes)",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/2010-tardis/",
+		"costume": "Nerdy professor.",
+		"description": "A capricious and adventurous incarnation; \"the man who forgets\". He later became a man fond of remembering his precious life and became a secretive and guileful individual for the sake of himself and those he held close.",
+		"first_words": "Legs. I've still got legs. Good. Arms. Hands. Ooo, fingers. Lots of fingers. Ears, yes. Eyes, two. Nose, I've had worse. Chin, blimey.  Hair. I'm a girl! No. No. I'm not a girl. And still not ginger. And something else. Something important. I'm, I'm, I'm…  Ha! Crashing! Ha, ha! Whoo hoo hoo! Ah! Geronimo!",
+		"last_words": "I will not forget one line of this. Not one day. I swear. I will always remember when the Doctor was me.",
+		"seasons": {
+			"season": [
+				{
+					"season": "5",
+					"from": "2010",
+					"to": "2010",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "6",
+					"from": "2011",
+					"to": "2011",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2012",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "Specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Amy Pond", 
+					"actor": "Karen Gillan", 
+					"from": "2010",
+					"to": "2013",
+					"first_serial": "The Eleventh Hour",
+					"last_serial": "The Time of the Doctor"
+				}, { 
+					"character": "Rory Williams", 
+					"actor": "Arthur Darvill", 
+					"from": "2010",
+					"to": "2012",
+					"first_serial": "The Eleventh Hour",
+					"last_serial": "The Angels Take Manhattan"
+				}, { 
+					"character": "River Song", 
+					"actor": "Alex Kingston", 
+					"from": "2008",
+					"to": "2013",
+					"first_serial": "Silence in the Library",
+					"last_serial": "The Name of the Doctor"
+				}, { 
+					"character": "Craig Owens", 
+					"actor": "James Corden", 
+					"from": "2010",
+					"to": "2011",
+					"first_serial": "The Lodger",
+					"last_serial": "Closing Time"
+				}, 				{ 
+					"character": "Clara Oswald", 
+					"actor": "Jenna Coleman", 
+					"from": "2012",
+					"to": "",
+					"first_serial": "Asylum of the Daleks",
+					"last_serial": ""
+				}
+			]
+		}
+	}, {
+		"doctor": "twelfth",
+		"from": "2013",
+		"to": "",
+		"first_serial": "The Day of the Doctor",
+		"last_serial": "",
+		"actor": "Peter Capaldi",
+		"appearances": "",
+		"sonic": "yes",
+		"tardis_interior": "http://www.thedoctorwhosite.co.uk/tardis/interior/",
+		"tardis_exterior": "http://www.thedoctorwhosite.co.uk/tardis/exterior/2010-tardis/",
+		"costume": "",
+		"description": "",
+		"first_words": "Kidneys! I've got new kidneys!",
+		"last_words": "",
+		"seasons": {
+			"season": [
+				{
+					"season": "Specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "8",
+					"from": "2014",
+					"to": "2014",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "6",
+					"from": "2011",
+					"to": "2011",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "7",
+					"from": "2012",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}, {
+					"season": "Specials",
+					"from": "2013",
+					"to": "2013",
+					"classic": "no",
+					"new": "yes",
+					"serials": {
+						"serial": [
+							{
+								"name": "",
+								"airdate": "",
+								"production_code": "",
+								"companions": {
+									"companion": []
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "",
+											"actor": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "",
+											"airdate": "",
+											"overview": "",
+											"director": "",
+											"writers": [
+												{
+													"name": ""
+												}
+											]
+										}
+									]
+								}
+							}						
+						]
+					}
+				}
+			]
+		},
+"companions": {
+			"companion": [
+				{ 
+					"character": "Clara Oswald", 
+					"actor": "Jenna Coleman", 
+					"from": "2012",
+					"to": "",
+					"first_serial": "Asylum of the Daleks",
+					"last_serial": ""
 				}
 			]
 		}
