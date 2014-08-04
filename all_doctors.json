@@ -10635,19 +10635,26 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "Horror of Fang Rock",
+								"airdate": "3 September 1977 - 24 September 1977",
+								"production_code": "4V",
 								"companions": {
-									"companion": []
+									"companion": [
+										{ 
+											"character": "Leela",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}										
+									]
 								},
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": "Rutan",
 											"actor": [
 												{
-													"name": ""
+													"name": "Colin Douglas"
 												}
 											]
 										}
@@ -10657,13 +10664,26 @@
 									"episode": [
 										{
 											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"name": "Part One",
+											"airdate": "3 September 1977",
+											"overview": "The English channel, the 1900s AD. The TARDIS lands on barren Fang Rock, inhabited until now only by three light-house keepers. But what is the strange fog covering the island, and can it be connected to the falling star sighted earlier that night?",
+											"director": "Paddy Russell",
 											"writers": [
 												{
-													"name": ""
+													"name": "Terrance Dicks"
+												}
+											]
+										},
+										
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "3 September 1977",
+											"overview": "The English channel, the 1900s AD. The TARDIS lands on barren Fang Rock, inhabited until now only by three light-house keepers. But what is the strange fog covering the island, and can it be connected to the falling star sighted earlier that night?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Terrance Dicks"
 												}
 											]
 										}
@@ -10946,7 +10966,7 @@
 					"actor": "John Leeson", 
 					"from": "1977",
 					"to": "1981",
-					"first_serial": "The Face of Evil",
+					"first_serial": "The Invisible Enemy",
 					"last_serial": "Warriors' Gate"
 				},
 				{ 
