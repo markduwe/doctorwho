@@ -9228,6 +9228,134 @@
 										}
 									]
 								}
+							}	,
+							{
+								"name": "Genesis of the Daleks",
+								"airdate": "8 March 1975 – 12 April 1975",
+								"production_code": "4E",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Davros",
+											"actor": [
+												{
+													"name": "Michael Wisher"
+												}
+											]
+										},
+										{
+											"enemy": "Nyder",
+											"actor": [
+												{
+													"name": "Peter Miles"
+												}
+											]
+										},
+										{
+											"enemy": "Daleks",
+											"actor": [
+												{
+													"name": "John Scott Martin",
+													"name": "Cy Town",
+													"name": "Keith Ashley"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "8 March 1975",
+											"overview": "The planet Skaro, the distant past. The Time Lords divert the Doctor, Sarah and Harry to this war-torn world, and give the Doctor a mission: the evil of the Daleks is about to be born here, and the Doctor is to try to ensure they evolve into less lethally aggressive beings - or, failing that, to avert their creation altogether. But has even the Doctor the right to commit genocide?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "15 March 1975",
+											"overview": "The planet Skaro, the distant past. The Time Lords divert the Doctor, Sarah and Harry to this war-torn world, and give the Doctor a mission: the evil of the Daleks is about to be born here, and the Doctor is to try to ensure they evolve into less lethally aggressive beings - or, failing that, to avert their creation altogether. But has even the Doctor the right to commit genocide?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "22 March 1975",
+											"overview": "The planet Skaro, the distant past. The Time Lords divert the Doctor, Sarah and Harry to this war-torn world, and give the Doctor a mission: the evil of the Daleks is about to be born here, and the Doctor is to try to ensure they evolve into less lethally aggressive beings - or, failing that, to avert their creation altogether. But has even the Doctor the right to commit genocide?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "829 March 1975",
+											"overview": "The planet Skaro, the distant past. The Time Lords divert the Doctor, Sarah and Harry to this war-torn world, and give the Doctor a mission: the evil of the Daleks is about to be born here, and the Doctor is to try to ensure they evolve into less lethally aggressive beings - or, failing that, to avert their creation altogether. But has even the Doctor the right to commit genocide?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Five",
+											"airdate": "5 April 1975",
+											"overview": "The planet Skaro, the distant past. The Time Lords divert the Doctor, Sarah and Harry to this war-torn world, and give the Doctor a mission: the evil of the Daleks is about to be born here, and the Doctor is to try to ensure they evolve into less lethally aggressive beings - or, failing that, to avert their creation altogether. But has even the Doctor the right to commit genocide?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Six",
+											"airdate": "12 April 1975",
+											"overview": "The planet Skaro, the distant past. The Time Lords divert the Doctor, Sarah and Harry to this war-torn world, and give the Doctor a mission: the evil of the Daleks is about to be born here, and the Doctor is to try to ensure they evolve into less lethally aggressive beings - or, failing that, to avert their creation altogether. But has even the Doctor the right to commit genocide?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}
+										
+									]
+								}
 							}						
 						]
 					}
