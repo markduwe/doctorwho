@@ -9228,7 +9228,7 @@
 										}
 									]
 								}
-							}	,
+							},
 							{
 								"name": "Genesis of the Daleks",
 								"airdate": "8 March 1975 – 12 April 1975",
@@ -9356,7 +9356,100 @@
 										
 									]
 								}
-							}						
+							},
+							{
+								"name": "Revenge of the Cybermen",
+								"airdate": "19 April 1975 – 10 May 1975",
+								"production_code": "4D",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Cyber Leader",
+											"actor": [
+												{
+													"name": "Christopher Robbie"
+												}
+											]
+										},
+										{
+											"enemy": "Cybermen",
+											"actor": [
+												{
+													"name": "Melville Jones"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "19 April 1975",
+											"overview": "The orbit of Jupiter, the 25th century. Arriving back on the Nerva Beacon much earlier in history, the Doctor and his friends discover the satellite beset by space plague while its crew struggles to keep space traffic away from Voga, the newest moon of Jupiter. But what is the connection between Voga, the plague, and some old enemies of the Doctor?",
+											"director": "Michael Briant",
+											"writers": [
+												{
+													"name": "Gerry Davis"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "26 April 1975",
+											"overview": "The orbit of Jupiter, the 25th century. Arriving back on the Nerva Beacon much earlier in history, the Doctor and his friends discover the satellite beset by space plague while its crew struggles to keep space traffic away from Voga, the newest moon of Jupiter. But what is the connection between Voga, the plague, and some old enemies of the Doctor?",
+											"director": "Michael Briant",
+											"writers": [
+												{
+													"name": "Gerry Davis"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "3 May 1975",
+											"overview": "The orbit of Jupiter, the 25th century. Arriving back on the Nerva Beacon much earlier in history, the Doctor and his friends discover the satellite beset by space plague while its crew struggles to keep space traffic away from Voga, the newest moon of Jupiter. But what is the connection between Voga, the plague, and some old enemies of the Doctor?",
+											"director": "Michael Briant",
+											"writers": [
+												{
+													"name": "Gerry Davis"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "10 May 1975",
+											"overview": "The orbit of Jupiter, the 25th century. Arriving back on the Nerva Beacon much earlier in history, the Doctor and his friends discover the satellite beset by space plague while its crew struggles to keep space traffic away from Voga, the newest moon of Jupiter. But what is the connection between Voga, the plague, and some old enemies of the Doctor?",
+											"director": "Michael Briant",
+											"writers": [
+												{
+													"name": "Gerry Davis"
+												}
+											]
+										}
+									]
+								}
+							}					
 						]
 					}
 				}, {
