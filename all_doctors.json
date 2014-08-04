@@ -1,4 +1,4 @@
-[ 
+[
 	{
 		"doctor": "first",
 		"from": "1963",
@@ -3185,7 +3185,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "first",
 		"from": "1983",
 		"to": "1983",
@@ -3317,7 +3318,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "second",
 		"from": "1966",
 		"to": "2013",
@@ -6160,7 +6162,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "third",
 		"from": "1966",
 		"to": "2013",
@@ -8934,7 +8937,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "fourth",
 		"from": "1974",
 		"to": "2013",
@@ -9461,19 +9465,33 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "Terror of the Zygons",
+								"airdate": "30 August 1975 – 20 September 1975",
+								"production_code": "4F",
 								"companions": {
-									"companion": []
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}
+									]
 								},
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": "Zygons",
 											"actor": [
 												{
-													"name": ""
+													"name": "Keith Ashley",
+													"name": "Ronald Gough"
 												}
 											]
 										}
@@ -9483,13 +9501,575 @@
 									"episode": [
 										{
 											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"name": "Part One",
+											"airdate": "30 August 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "6 September 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "13 September 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "20 September 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"name": "Planet of Evil",
+								"airdate": "27 September 1975 – 18 October 1975",
+								"production_code": "4H",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Anti-matter",
+											"actor": [
+												{
+													"name": "Frederick Jaeger"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "27 September 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "4 October 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "11 October 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "18 October 1975",
+											"overview": "The edge of the known universe, in the year 37,166. The TARDIS lands on the planet Zeta Minor, where a Morestran survey team has suffered a series of horrific killings. What dark secret does the team leader keep - and will the planet permit anyone to leave?",
+											"director": "David Maloney",
+											"writers": [
+												{
+													"name": "Louis Marks",
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"name": "Pyramids of Mars",
+								"airdate": "25 October 1975 – 15 November 1975",
+								"production_code": "4G",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Sutekh",
+											"actor": [
+												{
+													"name": "Gabriel Woolf"
+												}
+											]
+										},
+										{
+											"enemy": "Mummies",
+											"actor": [
+												{
+													"name": "Nick Burnell",
+													"name": "Melvyn Bedford",
+													"name": "Kevin Selway"
+												}
+											]
+										},
+										{
+											"enemy": "Marcus Scarman",
+											"actor": [
+												{
+													"name": "Bernard Archard"
+												}
+											]
+										},
+										{
+											"enemy": "Ibrahim Namin",
+											"actor": [
+												{
+													"name": "Peter Mayock"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "25 October 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "1 November 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "8 November 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "15 November 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"name": "The Android Invasion",
+								"airdate": "22 November 1975 – 13 December 1975",
+								"production_code": "4J",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Styggron",
+											"actor": [
+												{
+													"name": "Martin Friend"
+												}
+											]
+										},
+										{
+											"enemy": "Chedaki",
+											"actor": [
+												{
+													"name": "Roy Skelton"
+												}
+											]
+										},
+										{
+											"enemy": "Kraal",
+											"actor": [
+												{
+													"name": "Stuart Fell"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "22 November 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "29 November 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "6 December 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "13 December 1975",
+											"overview": "England, the near future... perhaps. The TARDIS lands in the woods near Devesham Space Centre, and mysteries abound: soldiers rise from the grave, men lost in deep space are alive and well, and the entire population behaves very oddly indeed. What has happened to Earth - or is the true threat yet to come?",
+											"director": "Barry Letts",
+											"writers": [
+												{
+													"name": "Terry Nation"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"name": "The Brain of Morbius",
+								"airdate": "3 January 1976 – 24 January 1976",
+								"production_code": "4K",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Mehendri Solon",
+											"actor": [
+												{
+													"name": "Philip Madoc"
+												}
+											]
+										},
+										{
+											"enemy": "Morbius",
+											"actor": [
+												{
+													"name": "Stuart Fell"
+												},
+												{
+													"name": "Michael Spice"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "3 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "10 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "17 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "24 January 1976",
+											"overview": "The storm-lashed planet Karn. Near a graveyard of crashed starships, the demented surgeon Solon hides in his castle, the last acolyte of the Time Lord despot Morbius. He only needs one final item to make his master live again... and then the Doctor and Sarah arrive...",
+											"director": "Christopher Barry",
+											"writers": [
+												{
+													"name": "Robin Bland",
+													"name": "Terrance Dicks",
+													"name": "Robert Holmes"
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"name": "The Seeds of Doom",
+								"airdate": "31 January 1976 – 6 March 1976",
+								"production_code": "4L",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Arnold Keeler",
+											"actor": [
+												{
+													"name": "Mark Jones"
+												}
+											]
+										},
+										{
+											"enemy": "Scorby",
+											"actor": [
+												{
+													"name": "John Challis"
+												}
+											]
+										},
+										{
+											"enemy": "Harrison Chase",
+											"actor": [
+												{
+													"name": "Tony Beckley"
+												}
+											]
+										},
+										{
+											"enemy": "Krynoid",
+											"actor": [
+												{
+													"name": "Mark Jones"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "31 January 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "7 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "14 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "21 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Five",
+											"airdate": "28 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Six",
+											"airdate": "6 March 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
 												}
 											]
 										}
@@ -9507,19 +10087,42 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "The Masque of Mandragora",
+								"airdate": "4 September 1976 – 25 September 1976", 
+								"production_code": "4M",
 								"companions": {
-									"companion": []
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
 								},
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": "Count Federico",
 											"actor": [
 												{
-													"name": ""
+													"name": "John Laurimore"
+												}
+											]
+										},
+										{
+											"enemy": "Hieronymous",
+											"actor": [
+												{
+													"name": "Norman Jones"
+												}
+											]
+										},
+										{
+											"enemy": "The Mandragora Helix",
+											"actor": [
+												{
+													"name": "Peter Tuddenham"
 												}
 											]
 										}
@@ -9529,13 +10132,49 @@
 									"episode": [
 										{
 											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"name": "Part One",
+											"airdate": "4 September 1976",
+											"overview": "Italy, 1492. Not realising the TARDIS has been infiltrated by the malevolent Mandragora Helix, the Doctor and Sarah arrive in the tiny duchy of San Martino. With the locals preoccupied by the struggle for the Dukedom, will the time travellers be able to resist a force that threatens to drag Earth into a new Dark age?",
+											"director": "Rodney Bennett",
 											"writers": [
 												{
-													"name": ""
+													"name": "Louis Marks"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "11 September 1976",
+											"overview": "Italy, 1492. Not realising the TARDIS has been infiltrated by the malevolent Mandragora Helix, the Doctor and Sarah arrive in the tiny duchy of San Martino. With the locals preoccupied by the struggle for the Dukedom, will the time travellers be able to resist a force that threatens to drag Earth into a new Dark age?",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "18 September 1976",
+											"overview": "Italy, 1492. Not realising the TARDIS has been infiltrated by the malevolent Mandragora Helix, the Doctor and Sarah arrive in the tiny duchy of San Martino. With the locals preoccupied by the struggle for the Dukedom, will the time travellers be able to resist a force that threatens to drag Earth into a new Dark age?",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Louis Marks"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "25 September 1976",
+											"overview": "Italy, 1492. Not realising the TARDIS has been infiltrated by the malevolent Mandragora Helix, the Doctor and Sarah arrive in the tiny duchy of San Martino. With the locals preoccupied by the struggle for the Dukedom, will the time travellers be able to resist a force that threatens to drag Earth into a new Dark age?",
+											"director": "Rodney Bennett",
+											"writers": [
+												{
+													"name": "Louis Marks"
 												}
 											]
 										}
@@ -9783,39 +10422,6 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "The Night of the Doctor",
-								"airdate": "14 November 2013",
-								"production_code": "NA",
-								"companions": {
-									"companion": [
-										{ 
-											"character": "Cass",
-											"died": "yes",
-											"left": "no",
-											"left_behind": "no"
-										}
-									]
-								},
-								"enemies": {
-									"enemy": []
-								},
-								"episodes": {
-									"episode": [
-										{
-											"archive": "",
-											"name": "The Night of the Doctor",
-											"airdate": "14 November 2013",
-											"overview": "On the eve of his most terrible battle, the Time Lord is faced with a choice that will change the course of his life. The darkest of days are about to begin.",
-											"director": "John Hayes",
-											"writers": [
-												{
-													"name": "Steven Moffat"
-												}
-											]
-										}
-									]
-								}
-							}, {
 								"name": "The Day of the Doctor",
 								"airdate": "23 November 2013",
 								"production_code": "TBA",
@@ -9875,56 +10481,64 @@
 					"to": "1976",
 					"first_serial": "Robot",
 					"last_serial": "The Hand of Fear"
-				}, { 
+				},
+				{ 
 					"character": "Harry Sullivan", 
 					"actor": "Ian Marter", 
 					"from": "1974",
 					"to": "1975",
 					"first_serial": "Robot",
 					"last_serial": "The Android Invasion"
-				}, { 
+				},
+				{ 
 					"character": "Leela", 
 					"actor": "Louise Jameson", 
 					"from": "1977",
 					"to": "1978",
 					"first_serial": "The Face of Evil",
 					"last_serial": "The Invasion of Time"
-				}, { 
+				},
+				{ 
 					"character": "K-9", 
 					"actor": "John Leeson", 
 					"from": "1977",
 					"to": "1981",
 					"first_serial": "The Face of Evil",
 					"last_serial": "Warriors' Gate"
-				}, { 
+				},
+				{ 
 					"character": "Romana", 
 					"actor": "Mary Tamm", 
 					"from": "1978",
 					"to": "1979",
 					"first_serial": "The Face of Evil",
 					"last_serial": "The Armageddon Factor"
-				}, { 
+				},
+				{ 
 					"character": "Romana", 
 					"actor": "Lalla Ward", 
 					"from": "1979",
 					"to": "1983",
 					"first_serial": "Destiny of the Daleks",
 					"last_serial": "The Five Doctors"
-				}, { 
+				},
+				{ 
 					"character": "Adric", 
 					"actor": "Matthew Waterhouse", 
 					"from": "1980",
 					"to": "1982",
 					"first_serial": "Full Circle",
 					"last_serial": "The Caves of Androzani"
-				}, { 
+				},
+				{ 
 					"character": "Nyssa", 
 					"actor": "Sarah Sutton", 
 					"from": "1981",
 					"to": "1983",
 					"first_serial": "The Keeper of Traken",
 					"last_serial": "Terminus"
-				}, { 
+				},
+				{ 
 					"character": "Tegan Jovanka", 
 					"actor": "Janet Fielding", 
 					"from": "1981",
@@ -9934,7 +10548,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "fifth",
 		"from": "1981",
 		"to": "2013",
@@ -10274,7 +10889,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "sixth",
 		"from": "1984",
 		"to": "2013",
@@ -10586,7 +11202,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "seventh",
 		"from": "1984",
 		"to": "2013",
@@ -10925,7 +11542,7 @@
 				}
 			]
 		},
-"companions": {
+		"companions": {
 			"companion": [
 				{ 
 					"character": "Mel", 
@@ -10944,7 +11561,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "eigth",
 		"from": "1996",
 		"to": "2013",
@@ -11157,7 +11775,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "war",
 		"from": "2013",
 		"to": "2013",
@@ -11324,7 +11943,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "ninth",
 		"from": "2005",
 		"to": "2005",
@@ -11551,7 +12171,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "tenth",
 		"from": "2005",
 		"to": "2010",
@@ -11979,7 +12600,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "eleventh",
 		"from": "2010",
 		"to": "2013",
@@ -12183,7 +12805,7 @@
 				}
 			]
 		},
-"companions": {
+		"companions": {
 			"companion": [
 				{ 
 					"character": "Amy Pond", 
@@ -12223,7 +12845,8 @@
 				}
 			]
 		}
-	}, {
+	},
+	{
 		"doctor": "twelfth",
 		"from": "2013",
 		"to": "",
@@ -12473,7 +13096,7 @@
 				}
 			]
 		},
-"companions": {
+		"companions": {
 			"companion": [
 				{ 
 					"character": "Clara Oswald", 
