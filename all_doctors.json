@@ -9632,6 +9632,93 @@
 										}
 									]
 								}
+							},
+							{
+								"name": "Pyramids of Mars",
+								"airdate": "25 October 1975 – 15 November 1975",
+								"production_code": "4G",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Anti-matter",
+											"actor": [
+												{
+													"name": "Frederick Jaeger"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "25 October 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "1 November 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "8 November 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "15 November 1975",
+											"overview": "England, 1911. The TARDIS is drawn off-course and lands in the country house of archaeologist Marcus Scarman. But what did Scarman unearth on his last visit to Egypt, and how can the Doctor defeat his most powerful foe yet - Sutekh, the God of Destruction?",
+											"director": "Paddy Russell",
+											"writers": [
+												{
+													"name": "Robert Holmes",
+													"name": "Lewis Greifer",
+													"name": "Stephen Harris"
+												}
+											]
+										}
+									]
+								}
 							}						
 						]
 					}
