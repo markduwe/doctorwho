@@ -9944,6 +9944,133 @@
 										}
 									]
 								}
+							},
+							{
+								"name": "The Seeds of Doom",
+								"airdate": "31 January 1976 – 6 March 1976",
+								"production_code": "4L",
+								"companions": {
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										}
+									]
+								},
+								"enemies": {
+									"enemy": [
+										{
+											"enemy": "Arnold Keeler",
+											"actor": [
+												{
+													"name": "Mark Jones"
+												}
+											]
+										},
+										{
+											"enemy": "Scorby",
+											"actor": [
+												{
+													"name": "John Challis"
+												}
+											]
+										},
+										{
+											"enemy": "Harrison Chase",
+											"actor": [
+												{
+													"name": "Tony Beckley"
+												}
+											]
+										},
+										{
+											"enemy": "Krynoid",
+											"actor": [
+												{
+													"name": "Mark Jones"
+												}
+											]
+										}
+									]
+								},
+								"episodes": {
+									"episode": [
+										{
+											"archive": "",
+											"name": "Part One",
+											"airdate": "31 January 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "7 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "14 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "21 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Five",
+											"airdate": "28 February 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Six",
+											"airdate": "6 March 1976",
+											"overview": "The Antarctic, the near future. A strange seed-pod is unearthed from 20-thousand-year-old ice. The Doctor and Sarah go to investigate, but are too late to prevent the pod infecting a scientist and unleashing a threat to all animal life on Earth...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart"
+												}
+											]
+										}
+									]
+								}
 							}						
 						]
 					}
