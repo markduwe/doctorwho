@@ -9461,19 +9461,33 @@
 					"serials": {
 						"serial": [
 							{
-								"name": "",
-								"airdate": "",
-								"production_code": "",
+								"name": "Terror of the Zygons",
+								"airdate": "30 August 1975 – 20 September 1975",
+								"production_code": "4F",
 								"companions": {
-									"companion": []
+									"companion": [
+										{ 
+											"character": "Sarah Jane Smith",
+											"died": "no",
+											"left": "no",
+											"left_behind": "no"
+										},
+										{ 
+											"character": "Harry Sullivan",
+											"died": "no",
+											"left": "yes",
+											"left_behind": "no"
+										}
+									]
 								},
 								"enemies": {
 									"enemy": [
 										{
-											"enemy": "",
+											"enemy": "Zygons",
 											"actor": [
 												{
-													"name": ""
+													"name": "Keith Ashley",
+													"name": "Ronald Gough"
 												}
 											]
 										}
@@ -9483,13 +9497,53 @@
 									"episode": [
 										{
 											"archive": "",
-											"name": "",
-											"airdate": "",
-											"overview": "",
-											"director": "",
+											"name": "Part One",
+											"airdate": "30 August 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
 											"writers": [
 												{
-													"name": ""
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Two",
+											"airdate": "6 September 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Three",
+											"airdate": "13 September 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
+												}
+											]
+										},
+										{
+											"archive": "",
+											"name": "Part Four",
+											"airdate": "20 September 1975",
+											"overview": "Scotland, the near future. Something is smashing oil rigs off the Scottish coast, and UNIT have been called in to investigate. The Brigadier summons the Doctor to Earth to help in the investigation, but it soon becomes clear some kind of alien presence is at work...",
+											"director": "Douglas Camfield",
+											"writers": [
+												{
+													"name": "Robert Banks Stewart",
+													"name": "John Friedlander"
 												}
 											]
 										}
